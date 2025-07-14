@@ -39,7 +39,7 @@ This project showcases the development of an interactive **Tableau dashboard** f
 
 ## 📸 Dashboard Preview
 
-![Retail Banking Dashboard](dashboards/dashboard.png)
+![Retail Banking Dashboard](dashboard/dashboard.png)
 
 ---
 
