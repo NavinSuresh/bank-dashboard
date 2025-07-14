@@ -1,0 +1,2304 @@
+account_key,account_number,customer_id,account_type,open_date,close_date,branch_id,branch_name,zone
+1826,7843107,7128,Current Account,31/01/2019,,4,London Bridge Gateway,Z1
+1295,6015795,6063,Savings Account,25/02/2021,,5,Islington High Street,Z1
+1159,5510841,5870,Current Account,09/01/2022,,1,Canary Wharf,Z1
+2378,9694503,1943,Current Account,09/10/2023,,1,Canary Wharf,Z1
+1292,6004922,7774,Current Account,23/07/2020,,3,Notting Hill Gate,Z2
+812,4206518,7569,Savings Account,12/01/2023,,1,Canary Wharf,Z1
+297,2401441,2208,Current Account,30/11/2023,,1,Canary Wharf,Z1
+1665,7268335,7681,Savings Premium,09/03/2023,,4,London Bridge Gateway,Z1
+1247,5841480,1661,Savings Account,18/02/2023,,6,Stratford City,Z2
+1761,7595502,1166,Current Account,28/02/2022,,4,London Bridge Gateway,Z1
+421,2801277,3967,Current Account,26/09/2023,,1,Canary Wharf,Z1
+331,2499248,3048,Salary Account,11/08/2020,,4,London Bridge Gateway,Z1
+604,3456752,4297,Savings Account,05/07/2019,,1,Canary Wharf,Z1
+1278,5937156,2073,Current Account,06/06/2022,,6,Stratford City,Z2
+1847,7914174,2996,Salary Account,06/12/2023,,1,Canary Wharf,Z1
+278,2361498,6230,Savings Account,25/02/2022,,1,Canary Wharf,Z1
+1623,7096044,2064,Current Account,08/05/2023,,3,Notting Hill Gate,Z2
+2271,9274724,5953,Current Account,04/07/2020,,6,Stratford City,Z2
+204,2083231,1842,Current Account,16/02/2023,,3,Notting Hill Gate,Z2
+1145,5452353,3370,Salary Account,30/12/2018,,6,Stratford City,Z2
+1581,6930587,1549,Savings Account,05/07/2020,,5,Islington High Street,Z1
+1186,5663414,4070,Savings Account,29/05/2023,,3,Notting Hill Gate,Z2
+287,2382409,5990,Salary Account,15/11/2018,,6,Stratford City,Z2
+1358,6212431,2569,Salary Account,10/12/2023,,4,London Bridge Gateway,Z1
+2221,9118323,1439,Current Account,10/03/2023,,6,Stratford City,Z2
+612,3486001,5477,Current Account,16/12/2023,,1,Canary Wharf,Z1
+519,3145220,2359,Savings Account,10/12/2023,,4,London Bridge Gateway,Z1
+2061,8621612,4515,Savings Account,16/01/2021,,4,London Bridge Gateway,Z1
+1921,8153293,7799,Current Account,16/12/2023,,2,Oxford Circus,Z1
+1115,5357165,4724,Savings Account,30/06/2020,,1,Canary Wharf,Z1
+1391,6300310,4559,Current Account,20/04/2023,,1,Canary Wharf,Z1
+2083,8682046,7798,Current Account,27/05/2023,,6,Stratford City,Z2
+1274,5917440,5803,Current Account,04/12/2022,,4,London Bridge Gateway,Z1
+1184,5642572,2022,Savings Account,08/12/2022,,5,Islington High Street,Z1
+107,1720253,6897,Savings Account,06/03/2023,,3,Notting Hill Gate,Z2
+929,4749444,7666,Current Account,18/04/2023,,4,London Bridge Gateway,Z1
+947,4819814,6122,Current Account,02/11/2023,,1,Canary Wharf,Z1
+1952,8245446,3774,Savings Account,14/07/2020,,4,London Bridge Gateway,Z1
+2290,9360400,2427,Savings Account,20/10/2023,,1,Canary Wharf,Z1
+1136,5422288,6925,Savings Account,21/12/2023,,4,London Bridge Gateway,Z1
+171,1969447,2634,Current Account,19/04/2022,,1,Canary Wharf,Z1
+923,4710023,3250,Current Account,23/10/2023,,4,London Bridge Gateway,Z1
+787,4106769,3329,Savings Account,03/07/2023,,1,Canary Wharf,Z1
+323,2481557,6756,Current Account,20/02/2023,,2,Oxford Circus,Z1
+1071,5248379,3876,Current Account,20/04/2022,,1,Canary Wharf,Z1
+1624,7099564,1759,Savings Account,21/03/2022,,3,Notting Hill Gate,Z2
+942,4793045,4271,Salary Account,08/03/2023,,4,London Bridge Gateway,Z1
+1170,5568934,4448,Current Account,18/12/2023,,2,Oxford Circus,Z1
+2387,9721836,4339,Current Account,15/08/2023,,6,Stratford City,Z2
+1692,7355855,5160,Savings Account,12/10/2023,,3,Notting Hill Gate,Z2
+2206,9060611,6744,Current Account,08/07/2023,,2,Oxford Circus,Z1
+349,2559369,2356,Savings Account,17/08/2022,,4,London Bridge Gateway,Z1
+830,4283407,1637,Current Account,30/10/2019,,1,Canary Wharf,Z1
+634,3556442,1944,Current Account,05/12/2023,,1,Canary Wharf,Z1
+1320,6076582,2822,Savings Account,16/08/2022,,4,London Bridge Gateway,Z1
+1748,7554130,2440,Savings Account,06/12/2020,,2,Oxford Circus,Z1
+1802,7711826,7539,Salary Account,19/07/2023,,4,London Bridge Gateway,Z1
+607,3471558,6489,Savings Premium,01/12/2020,,1,Canary Wharf,Z1
+1219,5738538,4040,Salary Account,20/09/2021,,6,Stratford City,Z2
+824,4258809,2894,Current Account,19/05/2022,,4,London Bridge Gateway,Z1
+1582,6935811,6391,Savings Account,19/03/2023,,4,London Bridge Gateway,Z1
+1938,8205485,5232,Salary Account,17/10/2023,,4,London Bridge Gateway,Z1
+282,2367961,1912,Savings Premium,24/04/2023,,6,Stratford City,Z2
+940,4787884,5781,Savings Account,03/06/2023,,5,Islington High Street,Z1
+1041,5153027,1420,Current Account,07/12/2021,,6,Stratford City,Z2
+1386,6286978,5963,Savings Account,16/02/2021,,4,London Bridge Gateway,Z1
+1487,6628823,5813,Current Account,22/05/2022,,2,Oxford Circus,Z1
+1737,7511184,5371,Current Account,24/01/2023,,4,London Bridge Gateway,Z1
+1953,8249636,4081,Current Account,16/08/2021,,2,Oxford Circus,Z1
+954,4841988,2741,Savings Account,25/04/2023,,2,Oxford Circus,Z1
+1599,7005119,2794,Savings Premium,17/03/2022,,1,Canary Wharf,Z1
+2165,8935204,2624,Salary Account,30/03/2021,,2,Oxford Circus,Z1
+817,4242098,7684,Savings Account,07/05/2023,,4,London Bridge Gateway,Z1
+1536,6784257,3147,Savings Account,05/03/2021,,4,London Bridge Gateway,Z1
+1835,7875018,7064,Current Account,26/09/2020,,6,Stratford City,Z2
+548,3245863,1114,Current Account,20/11/2020,,4,London Bridge Gateway,Z1
+1490,6638639,7560,Salary Account,24/08/2023,,6,Stratford City,Z2
+2362,9632941,2185,Savings Account,22/07/2023,,4,London Bridge Gateway,Z1
+2123,8809180,6840,Current Account,29/07/2023,,4,London Bridge Gateway,Z1
+90,1668440,7018,Current Account,03/05/2022,,1,Canary Wharf,Z1
+1155,5490045,2572,Savings Account,20/05/2023,,4,London Bridge Gateway,Z1
+460,2931360,4013,Current Account,09/11/2023,,6,Stratford City,Z2
+1810,7740696,3940,Savings Premium,09/06/2023,,2,Oxford Circus,Z1
+93,1675101,2034,Savings Account,25/04/2023,,4,London Bridge Gateway,Z1
+1657,7244808,5821,Current Account,21/07/2023,,1,Canary Wharf,Z1
+1486,6623533,4104,Current Account,21/06/2019,,6,Stratford City,Z2
+271,2323996,7558,Current Account,09/04/2023,,1,Canary Wharf,Z1
+2394,9746200,6588,Savings Account,17/07/2021,,4,London Bridge Gateway,Z1
+628,3542463,3984,Current Account,22/09/2020,,4,London Bridge Gateway,Z1
+2130,8841831,2590,Savings Account,08/01/2021,,4,London Bridge Gateway,Z1
+1185,5653434,3247,Salary Account,17/07/2023,,3,Notting Hill Gate,Z2
+876,4474680,4403,Savings Account,13/03/2022,,4,London Bridge Gateway,Z1
+312,2463610,3263,Savings Account,22/05/2023,,2,Oxford Circus,Z1
+737,3891644,3831,Savings Account,24/05/2023,,5,Islington High Street,Z1
+545,3224834,7546,Current Account,26/12/2023,,2,Oxford Circus,Z1
+1765,7604711,7125,Savings Account,14/11/2021,,4,London Bridge Gateway,Z1
+1281,5961585,6026,Current Account,31/12/2021,,5,Islington High Street,Z1
+1428,6428422,5364,Savings Account,30/04/2023,,4,London Bridge Gateway,Z1
+212,2099141,4040,Savings Account,06/04/2023,,6,Stratford City,Z2
+1363,6240690,4468,Current Account,26/04/2023,,4,London Bridge Gateway,Z1
+2005,8436695,1594,Savings Account,24/07/2023,,1,Canary Wharf,Z1
+2426,9874432,2582,Current Account,08/10/2019,,4,London Bridge Gateway,Z1
+209,2096096,3452,Current Account,27/11/2023,,2,Oxford Circus,Z1
+1064,5226329,3033,Salary Account,07/06/2021,,4,London Bridge Gateway,Z1
+654,3629941,7895,Current Account,12/03/2023,,2,Oxford Circus,Z1
+1590,6953785,7319,Savings Account,17/07/2023,,1,Canary Wharf,Z1
+536,3182678,3105,Savings Account,06/11/2021,,1,Canary Wharf,Z1
+1374,6264151,7884,Savings Account,29/11/2022,,4,London Bridge Gateway,Z1
+882,4500274,4495,Savings Account,18/04/2023,,6,Stratford City,Z2
+2421,9845369,2590,Current Account,29/06/2023,,3,Notting Hill Gate,Z2
+1699,7380471,5785,Savings Account,18/12/2022,,4,London Bridge Gateway,Z1
+356,2578547,5020,Salary Account,23/04/2023,,6,Stratford City,Z2
+1735,7507733,3282,Current Account,25/08/2023,,3,Notting Hill Gate,Z2
+1517,6736853,4343,Savings Account,16/03/2019,,6,Stratford City,Z2
+627,3541225,7799,Current Account,19/02/2022,,6,Stratford City,Z2
+597,3432537,2799,Salary Account,02/12/2020,,5,Islington High Street,Z1
+74,1584414,6794,Salary Account,22/12/2023,,1,Canary Wharf,Z1
+1188,5671378,1149,Savings Account,29/07/2022,,6,Stratford City,Z2
+1442,6477775,3882,Savings Premium,18/03/2023,,4,London Bridge Gateway,Z1
+2275,9297473,6704,Savings Account,21/11/2019,,1,Canary Wharf,Z1
+313,2467469,6308,Savings Account,31/10/2022,,3,Notting Hill Gate,Z2
+2117,8792697,5540,Current Account,14/02/2022,,6,Stratford City,Z2
+2284,9341386,3327,Savings Account,28/06/2021,,1,Canary Wharf,Z1
+869,4453042,4398,Salary Account,13/01/2023,,5,Islington High Street,Z1
+1531,6774337,4252,Savings Account,17/10/2022,,1,Canary Wharf,Z1
+1412,6381856,5726,Savings Account,10/12/2023,,4,London Bridge Gateway,Z1
+1845,7903163,7335,Savings Account,10/08/2023,,2,Oxford Circus,Z1
+210,2096458,1847,Current Account,10/10/2023,,6,Stratford City,Z2
+2212,9087074,5412,Savings Account,04/09/2023,,1,Canary Wharf,Z1
+1500,6675061,7955,Current Account,26/08/2020,,1,Canary Wharf,Z1
+1381,6274967,4108,Savings Account,20/05/2023,,1,Canary Wharf,Z1
+706,3801265,3229,Salary Account,21/06/2023,,1,Canary Wharf,Z1
+2158,8905557,3606,Current Account,10/12/2023,,4,London Bridge Gateway,Z1
+1902,8085444,7173,Savings Account,12/10/2023,,4,London Bridge Gateway,Z1
+1017,5062027,1294,Savings Premium,22/10/2022,,4,London Bridge Gateway,Z1
+485,3029198,5542,Savings Account,12/01/2021,,5,Islington High Street,Z1
+1331,6121020,3721,Current Account,01/01/2024,,1,Canary Wharf,Z1
+2308,9431943,4766,Current Account,28/05/2023,,3,Notting Hill Gate,Z2
+557,3279208,7125,Savings Account,03/12/2020,,1,Canary Wharf,Z1
+1175,5609422,7486,Savings Account,24/11/2022,,1,Canary Wharf,Z1
+528,3165310,6771,Savings Account,14/04/2022,,1,Canary Wharf,Z1
+1905,8092512,7450,Savings Account,15/10/2023,,3,Notting Hill Gate,Z2
+66,1552216,7741,Savings Account,09/11/2023,,3,Notting Hill Gate,Z2
+1328,6103449,2516,Savings Account,23/02/2023,,1,Canary Wharf,Z1
+2137,8847082,3334,Current Account,04/09/2022,,1,Canary Wharf,Z1
+1242,5822356,6293,Savings Account,14/04/2022,,2,Oxford Circus,Z1
+411,2773198,2977,Current Account,10/10/2022,,1,Canary Wharf,Z1
+2391,9742603,3902,Savings Account,21/04/2020,,3,Notting Hill Gate,Z2
+1090,5294941,2791,Salary Account,18/10/2019,,5,Islington High Street,Z1
+2042,8567624,6617,Savings Account,23/01/2020,,5,Islington High Street,Z1
+1467,6553341,1460,Savings Account,31/03/2023,,6,Stratford City,Z2
+1895,8063832,3864,Salary Account,18/05/2023,,6,Stratford City,Z2
+2240,9176830,1931,Current Account,16/12/2021,,1,Canary Wharf,Z1
+2279,9329499,7618,Salary Account,06/01/2021,,4,London Bridge Gateway,Z1
+2381,9712954,4528,Current Account,12/01/2021,,4,London Bridge Gateway,Z1
+242,2218238,1428,Current Account,06/06/2023,,1,Canary Wharf,Z1
+2012,8458319,7684,Current Account,13/12/2022,,6,Stratford City,Z2
+838,4329087,5293,Salary Account,27/06/2023,,4,London Bridge Gateway,Z1
+872,4460157,4784,Savings Account,07/06/2023,,1,Canary Wharf,Z1
+717,3826964,7577,Savings Account,11/04/2022,,1,Canary Wharf,Z1
+1611,7037059,6471,Savings Account,15/03/2022,,4,London Bridge Gateway,Z1
+1417,6406216,1121,Current Account,19/04/2022,,2,Oxford Circus,Z1
+340,2534454,7625,Savings Account,14/08/2023,,6,Stratford City,Z2
+1971,8312499,6552,Salary Account,25/03/2022,,1,Canary Wharf,Z1
+1018,5067986,7671,Current Account,07/03/2022,,4,London Bridge Gateway,Z1
+1124,5387062,5560,Current Account,11/08/2022,,6,Stratford City,Z2
+1655,7225541,3029,Current Account,26/08/2018,,6,Stratford City,Z2
+683,3733309,7791,Savings Account,09/08/2023,,3,Notting Hill Gate,Z2
+522,3153636,6010,Savings Account,27/07/2022,,1,Canary Wharf,Z1
+2183,8989939,6104,Current Account,23/06/2019,,1,Canary Wharf,Z1
+388,2674904,1840,Salary Account,25/01/2021,,4,London Bridge Gateway,Z1
+26,1363467,7072,Savings Account,15/09/2019,,6,Stratford City,Z2
+1348,6186151,5089,Current Account,14/07/2023,,6,Stratford City,Z2
+2268,9270482,5008,Current Account,05/02/2022,,5,Islington High Street,Z1
+976,4919031,5119,Savings Account,23/09/2022,,1,Canary Wharf,Z1
+1777,7620944,4011,Savings Account,04/12/2022,,2,Oxford Circus,Z1
+1037,5140082,2079,Current Account,14/10/2022,,5,Islington High Street,Z1
+579,3361155,1632,Savings Premium,07/12/2022,,3,Notting Hill Gate,Z2
+2184,8991920,5910,Current Account,20/08/2019,,4,London Bridge Gateway,Z1
+1038,5140849,3728,Current Account,05/11/2022,,6,Stratford City,Z2
+194,2048436,6756,Savings Account,29/12/2021,,1,Canary Wharf,Z1
+1279,5938378,2173,Current Account,27/02/2023,,1,Canary Wharf,Z1
+621,3524729,1103,Savings Account,25/10/2021,,1,Canary Wharf,Z1
+764,3995097,2954,Current Account,03/12/2023,,2,Oxford Circus,Z1
+458,2927265,1886,Current Account,30/12/2023,,5,Islington High Street,Z1
+2043,8574071,6406,Savings Account,19/12/2023,,6,Stratford City,Z2
+1109,5340457,4727,Current Account,05/12/2023,,1,Canary Wharf,Z1
+2369,9661547,6629,Savings Account,27/06/2023,,5,Islington High Street,Z1
+1472,6581144,2848,Current Account,09/09/2023,,5,Islington High Street,Z1
+1889,8047602,3361,Current Account,30/12/2023,,5,Islington High Street,Z1
+950,4824602,5512,Current Account,11/10/2021,,6,Stratford City,Z2
+1859,7939990,3594,Savings Account,07/04/2023,,4,London Bridge Gateway,Z1
+1002,5006176,5599,Savings Account,23/03/2022,,6,Stratford City,Z2
+1361,6227643,1625,Savings Premium,07/01/2020,,6,Stratford City,Z2
+2343,9578988,7115,Current Account,03/11/2023,,2,Oxford Circus,Z1
+431,2850378,5110,Savings Account,11/04/2023,,6,Stratford City,Z2
+2222,9119965,1159,Current Account,20/11/2019,,6,Stratford City,Z2
+1187,5669761,3647,Current Account,25/04/2022,,2,Oxford Circus,Z1
+1118,5370404,4784,Savings Account,05/08/2022,,6,Stratford City,Z2
+487,3030265,2310,Current Account,13/09/2021,,4,London Bridge Gateway,Z1
+1931,8187666,6156,Current Account,25/02/2021,,1,Canary Wharf,Z1
+811,4204945,1510,Current Account,17/06/2021,,1,Canary Wharf,Z1
+1978,8333576,2836,Current Account,16/05/2019,,4,London Bridge Gateway,Z1
+1519,6739400,4024,Salary Account,11/01/2022,,3,Notting Hill Gate,Z2
+500,3069414,3883,Savings Account,26/06/2023,,2,Oxford Circus,Z1
+1364,6241572,5144,Savings Account,27/10/2023,,6,Stratford City,Z2
+1507,6690206,3732,Salary Account,05/08/2021,,6,Stratford City,Z2
+1465,6547192,6641,Current Account,13/09/2021,,1,Canary Wharf,Z1
+32,1389977,7811,Savings Account,08/10/2022,,1,Canary Wharf,Z1
+2074,8653878,3704,Savings Account,18/06/2023,,4,London Bridge Gateway,Z1
+229,2172983,3444,Savings Premium,04/08/2023,,1,Canary Wharf,Z1
+1570,6897888,4724,Savings Account,02/01/2023,,5,Islington High Street,Z1
+2133,8845379,3284,Salary Account,11/03/2020,,1,Canary Wharf,Z1
+768,4004870,5011,Current Account,03/06/2023,,2,Oxford Circus,Z1
+1758,7592885,3591,Current Account,24/09/2021,,6,Stratford City,Z2
+912,4650296,3491,Current Account,31/12/2023,,6,Stratford City,Z2
+498,3067730,3290,Salary Account,08/07/2023,,4,London Bridge Gateway,Z1
+1246,5840774,5866,Current Account,10/09/2020,,6,Stratford City,Z2
+1751,7559356,1690,Current Account,06/11/2022,,4,London Bridge Gateway,Z1
+1438,6464231,1938,Current Account,19/12/2023,,4,London Bridge Gateway,Z1
+459,2929022,7338,Savings Premium,29/05/2021,,1,Canary Wharf,Z1
+372,2620491,6547,Salary Account,14/02/2023,,6,Stratford City,Z2
+1602,7014735,2565,Current Account,31/07/2022,,4,London Bridge Gateway,Z1
+896,4580815,7194,Savings Account,20/11/2022,,6,Stratford City,Z2
+1710,7423534,3172,Savings Account,04/11/2023,,2,Oxford Circus,Z1
+449,2899363,3776,Current Account,21/03/2023,,5,Islington High Street,Z1
+2092,8715725,3639,Savings Account,02/04/2020,,1,Canary Wharf,Z1
+181,1995293,3787,Savings Account,24/11/2023,,1,Canary Wharf,Z1
+10,1285091,2840,Salary Account,22/12/2023,,1,Canary Wharf,Z1
+546,3227818,1888,Savings Account,09/10/2023,,3,Notting Hill Gate,Z2
+2124,8810334,1671,Current Account,28/05/2023,,3,Notting Hill Gate,Z2
+2406,9776158,6904,Savings Account,13/11/2020,,2,Oxford Circus,Z1
+687,3737956,5259,Savings Account,24/11/2023,,4,London Bridge Gateway,Z1
+2358,9624415,4439,Current Account,21/09/2023,,4,London Bridge Gateway,Z1
+856,4420457,6651,Current Account,16/05/2020,,1,Canary Wharf,Z1
+1789,7657730,3983,Savings Account,17/12/2023,,2,Oxford Circus,Z1
+1594,6987076,1004,Current Account,25/06/2020,,3,Notting Hill Gate,Z2
+347,2557549,1563,Savings Account,03/08/2023,,5,Islington High Street,Z1
+1267,5906573,3286,Current Account,13/03/2019,,2,Oxford Circus,Z1
+2330,9522812,5312,Current Account,01/04/2020,,4,London Bridge Gateway,Z1
+2103,8760986,3751,Savings Account,10/08/2022,,6,Stratford City,Z2
+1769,7609841,2300,Savings Account,21/11/2023,,3,Notting Hill Gate,Z2
+2285,9346242,1017,Savings Premium,09/05/2021,,1,Canary Wharf,Z1
+729,3875399,4496,Current Account,30/11/2022,,2,Oxford Circus,Z1
+1122,5383225,5392,Savings Account,19/09/2022,,1,Canary Wharf,Z1
+21,1343531,4874,Current Account,14/11/2023,,5,Islington High Street,Z1
+191,2024981,1668,Savings Account,19/06/2021,,3,Notting Hill Gate,Z2
+1728,7489918,1539,Savings Account,18/02/2023,,4,London Bridge Gateway,Z1
+718,3827474,4128,Savings Account,16/09/2023,,1,Canary Wharf,Z1
+1093,5302270,2673,Salary Account,15/09/2020,,1,Canary Wharf,Z1
+626,3540814,3253,Salary Account,02/05/2022,,4,London Bridge Gateway,Z1
+38,1411462,7755,Current Account,22/03/2019,,3,Notting Hill Gate,Z2
+353,2563687,6660,Savings Premium,11/03/2023,,1,Canary Wharf,Z1
+2033,8542227,7739,Current Account,18/12/2023,,6,Stratford City,Z2
+1039,5143569,5601,Current Account,12/12/2023,,1,Canary Wharf,Z1
+864,4435329,7741,Savings Account,08/03/2023,,1,Canary Wharf,Z1
+1094,5304538,4921,Savings Account,22/08/2020,,1,Canary Wharf,Z1
+179,1994336,4997,Salary Account,19/06/2023,,1,Canary Wharf,Z1
+914,4657438,2750,Salary Account,12/11/2023,,6,Stratford City,Z2
+1307,6050853,6657,Savings Account,09/09/2021,,6,Stratford City,Z2
+2044,8577441,4462,Savings Account,19/08/2023,,4,London Bridge Gateway,Z1
+736,3887946,5215,Salary Account,12/11/2023,,2,Oxford Circus,Z1
+1559,6855573,7854,Savings Account,11/11/2023,,6,Stratford City,Z2
+1474,6584816,2955,Current Account,24/10/2023,,2,Oxford Circus,Z1
+577,3353118,5351,Current Account,16/02/2022,,6,Stratford City,Z2
+433,2856546,7128,Current Account,17/01/2019,,3,Notting Hill Gate,Z2
+863,4432411,5045,Salary Account,01/07/2021,,1,Canary Wharf,Z1
+1302,6034644,6711,Savings Account,24/06/2023,,1,Canary Wharf,Z1
+481,3019777,3176,Savings Account,08/02/2023,,1,Canary Wharf,Z1
+2036,8547436,7586,Current Account,05/11/2023,,1,Canary Wharf,Z1
+1252,5850816,4348,Savings Account,20/05/2022,,6,Stratford City,Z2
+476,2989394,4009,Salary Account,23/08/2021,,2,Oxford Circus,Z1
+756,3960701,1021,Current Account,07/08/2022,,1,Canary Wharf,Z1
+655,3631487,2818,Current Account,07/01/2021,,1,Canary Wharf,Z1
+54,1497199,2737,Savings Account,15/08/2022,,5,Islington High Street,Z1
+1648,7178626,1244,Salary Account,19/10/2023,,1,Canary Wharf,Z1
+2208,9069873,6598,Savings Account,25/12/2021,,6,Stratford City,Z2
+1286,5982430,1466,Current Account,08/08/2020,,6,Stratford City,Z2
+41,1433326,7506,Savings Account,10/06/2022,,6,Stratford City,Z2
+2372,9670929,5409,Current Account,17/04/2021,,6,Stratford City,Z2
+1654,7223532,3676,Savings Account,09/12/2023,,1,Canary Wharf,Z1
+988,4952270,6749,Savings Account,04/06/2023,,3,Notting Hill Gate,Z2
+1608,7028856,4365,Salary Account,17/10/2023,,4,London Bridge Gateway,Z1
+119,1766922,6410,Current Account,15/11/2019,,2,Oxford Circus,Z1
+1688,7345122,1443,Savings Account,04/03/2020,,3,Notting Hill Gate,Z2
+1746,7545994,2960,Salary Account,16/12/2021,,6,Stratford City,Z2
+827,4268591,3265,Current Account,19/08/2019,,6,Stratford City,Z2
+714,3822431,4846,Salary Account,13/12/2022,,2,Oxford Circus,Z1
+766,3996987,7327,Current Account,07/03/2023,,6,Stratford City,Z2
+1622,7089896,7657,Savings Account,14/05/2022,,1,Canary Wharf,Z1
+693,3765528,4473,Savings Account,04/11/2023,,1,Canary Wharf,Z1
+1621,7086446,5015,Current Account,06/10/2022,,1,Canary Wharf,Z1
+1567,6884468,2162,Savings Account,26/02/2021,,1,Canary Wharf,Z1
+1201,5688286,7121,Current Account,12/12/2022,,3,Notting Hill Gate,Z2
+2198,9035707,6574,Current Account,12/05/2019,,4,London Bridge Gateway,Z1
+22,1345436,3875,Savings Account,26/07/2020,,1,Canary Wharf,Z1
+2111,8779779,7719,Current Account,25/10/2023,,6,Stratford City,Z2
+1258,5873393,4969,Current Account,25/12/2023,,5,Islington High Street,Z1
+389,2680955,7427,Current Account,11/12/2022,,1,Canary Wharf,Z1
+951,4828056,2875,Current Account,07/11/2023,,1,Canary Wharf,Z1
+1066,5234851,6700,Current Account,02/02/2022,,3,Notting Hill Gate,Z2
+446,2895807,6587,Savings Account,07/11/2022,,1,Canary Wharf,Z1
+642,3579635,4343,Salary Account,17/02/2023,,1,Canary Wharf,Z1
+1323,6089624,3423,Savings Account,13/12/2021,,6,Stratford City,Z2
+2342,9577428,3971,Current Account,21/09/2021,,1,Canary Wharf,Z1
+515,3137851,6925,Current Account,09/01/2020,,1,Canary Wharf,Z1
+1347,6185631,1115,Current Account,27/06/2022,,1,Canary Wharf,Z1
+2126,8817892,5897,Current Account,02/07/2023,,1,Canary Wharf,Z1
+925,4712044,6830,Savings Account,28/08/2021,,1,Canary Wharf,Z1
+1996,8401736,5959,Savings Account,08/12/2019,,5,Islington High Street,Z1
+337,2525026,4183,Current Account,03/11/2023,,6,Stratford City,Z2
+1630,7124976,7294,Current Account,28/12/2022,,1,Canary Wharf,Z1
+470,2967467,2034,Savings Account,08/05/2023,,1,Canary Wharf,Z1
+1058,5206274,5312,Current Account,28/09/2019,,4,London Bridge Gateway,Z1
+1994,8394021,4523,Savings Account,02/02/2020,,1,Canary Wharf,Z1
+1154,5484399,5239,Current Account,15/10/2023,,3,Notting Hill Gate,Z2
+146,1884191,5598,Savings Account,31/01/2021,,1,Canary Wharf,Z1
+96,1681565,7972,Savings Account,04/08/2021,,6,Stratford City,Z2
+1129,5398055,2476,Savings Account,07/08/2023,,1,Canary Wharf,Z1
+1723,7460147,7390,Savings Account,15/06/2021,,1,Canary Wharf,Z1
+2227,9131368,2489,Current Account,14/09/2022,,4,London Bridge Gateway,Z1
+2140,8863088,5624,Savings Account,27/01/2022,,1,Canary Wharf,Z1
+1597,6996429,5168,Current Account,25/02/2023,,4,London Bridge Gateway,Z1
+1961,8272874,1564,Savings Account,25/11/2020,,1,Canary Wharf,Z1
+1182,5629380,2439,Savings Account,06/12/2021,,2,Oxford Circus,Z1
+401,2749423,5668,Savings Account,24/12/2021,,6,Stratford City,Z2
+2416,9830244,6640,Savings Account,06/09/2022,,1,Canary Wharf,Z1
+364,2597193,4741,Current Account,06/01/2023,,6,Stratford City,Z2
+2088,8702226,7710,Current Account,10/11/2023,,1,Canary Wharf,Z1
+2102,8760783,2993,Current Account,24/11/2023,,3,Notting Hill Gate,Z2
+1696,7371230,7172,Current Account,18/11/2023,,4,London Bridge Gateway,Z1
+202,2082427,7562,Savings Account,25/12/2023,,1,Canary Wharf,Z1
+2352,9607068,1268,Savings Account,29/05/2023,,6,Stratford City,Z2
+440,2873395,6617,Salary Account,20/07/2023,,6,Stratford City,Z2
+1189,5671501,7309,Current Account,30/10/2021,,4,London Bridge Gateway,Z1
+623,3533588,1064,Current Account,01/05/2021,,1,Canary Wharf,Z1
+1180,5622775,7681,Current Account,19/05/2022,,4,London Bridge Gateway,Z1
+853,4399561,6447,Savings Account,02/11/2022,,1,Canary Wharf,Z1
+661,3653026,6543,Current Account,05/01/2022,,2,Oxford Circus,Z1
+1823,7827183,7139,Savings Account,26/09/2022,,2,Oxford Circus,Z1
+145,1877120,2907,Current Account,21/10/2023,,3,Notting Hill Gate,Z2
+1797,7685045,6845,Current Account,09/01/2023,,1,Canary Wharf,Z1
+1706,7408837,2274,Savings Account,12/10/2022,,4,London Bridge Gateway,Z1
+790,4129558,4105,Savings Account,18/04/2022,,4,London Bridge Gateway,Z1
+369,2608658,1763,Current Account,21/04/2019,,1,Canary Wharf,Z1
+765,3996652,7033,Savings Account,04/09/2022,,1,Canary Wharf,Z1
+2276,9310354,5320,Current Account,25/06/2021,,6,Stratford City,Z2
+785,4095217,4966,Current Account,31/03/2022,,5,Islington High Street,Z1
+2010,8452047,4960,Current Account,21/08/2023,,6,Stratford City,Z2
+680,3723128,3783,Savings Account,08/05/2023,,6,Stratford City,Z2
+322,2479212,5508,Current Account,09/05/2023,,6,Stratford City,Z2
+989,4959060,4789,Savings Account,23/09/2023,,2,Oxford Circus,Z1
+699,3791051,5881,Current Account,31/10/2023,,4,London Bridge Gateway,Z1
+1542,6797769,4432,Current Account,02/08/2022,,1,Canary Wharf,Z1
+280,2363454,1740,Current Account,13/07/2022,,4,London Bridge Gateway,Z1
+390,2688462,3865,Current Account,27/09/2021,,6,Stratford City,Z2
+2327,9514321,3335,Savings Account,01/12/2023,,4,London Bridge Gateway,Z1
+707,3801673,4606,Current Account,18/09/2022,,4,London Bridge Gateway,Z1
+1687,7339694,5222,Salary Account,04/01/2020,,1,Canary Wharf,Z1
+1176,5609563,7462,Savings Premium,13/05/2022,,5,Islington High Street,Z1
+1578,6922590,1884,Savings Account,15/10/2023,,5,Islington High Street,Z1
+190,2021084,1774,Current Account,23/09/2022,,1,Canary Wharf,Z1
+1799,7689824,7905,Savings Account,04/06/2022,,1,Canary Wharf,Z1
+1882,8029814,4342,Current Account,08/10/2023,,4,London Bridge Gateway,Z1
+599,3439224,7415,Current Account,23/04/2023,,4,London Bridge Gateway,Z1
+1546,6807647,6730,Current Account,23/12/2023,,5,Islington High Street,Z1
+1450,6497386,6134,Savings Account,09/02/2023,,1,Canary Wharf,Z1
+2411,9797177,4574,Current Account,16/11/2023,,3,Notting Hill Gate,Z2
+2373,9671154,3401,Current Account,22/12/2023,,5,Islington High Street,Z1
+1478,6591740,2253,Salary Account,28/10/2023,,1,Canary Wharf,Z1
+1518,6737532,5734,Savings Account,04/03/2021,,2,Oxford Circus,Z1
+1528,6765793,4699,Savings Account,04/10/2023,,5,Islington High Street,Z1
+434,2857131,6524,Current Account,11/04/2022,,4,London Bridge Gateway,Z1
+1390,6297267,3131,Savings Account,07/11/2021,,1,Canary Wharf,Z1
+1079,5270498,2421,Savings Account,19/07/2022,,2,Oxford Circus,Z1
+1943,8213648,3067,Current Account,17/12/2023,,3,Notting Hill Gate,Z2
+2313,9449301,4521,Salary Account,08/03/2022,,2,Oxford Circus,Z1
+781,4078267,5777,Current Account,07/03/2023,,6,Stratford City,Z2
+1693,7358444,2359,Current Account,30/09/2023,,2,Oxford Circus,Z1
+1949,8223666,5389,Current Account,15/05/2022,,1,Canary Wharf,Z1
+1416,6404727,5910,Savings Account,30/09/2021,,4,London Bridge Gateway,Z1
+2066,8645495,1193,Current Account,14/10/2019,,2,Oxford Circus,Z1
+1589,6950597,6431,Current Account,09/06/2021,,1,Canary Wharf,Z1
+472,2972393,6149,Current Account,23/03/2019,,2,Oxford Circus,Z1
+1584,6941697,3501,Current Account,14/09/2021,,4,London Bridge Gateway,Z1
+1143,5439779,2083,Savings Account,01/10/2021,,1,Canary Wharf,Z1
+1508,6701963,7011,Current Account,26/05/2021,,2,Oxford Circus,Z1
+1349,6187004,1458,Savings Account,05/08/2021,,1,Canary Wharf,Z1
+784,4086352,2995,Savings Account,06/10/2023,,2,Oxford Circus,Z1
+871,4455813,6550,Savings Account,17/07/2021,,2,Oxford Circus,Z1
+1493,6642158,2215,Savings Account,09/01/2021,,2,Oxford Circus,Z1
+88,1665312,4872,Savings Account,03/08/2022,,4,London Bridge Gateway,Z1
+1311,6060120,4638,Savings Account,07/08/2023,,1,Canary Wharf,Z1
+763,3994975,1363,Savings Premium,16/12/2021,,2,Oxford Circus,Z1
+1403,6336303,3956,Current Account,02/01/2023,,6,Stratford City,Z2
+1702,7397558,1811,Savings Account,05/07/2023,,1,Canary Wharf,Z1
+1289,5995645,2323,Savings Account,29/11/2023,,6,Stratford City,Z2
+1052,5190199,6387,Savings Account,08/05/2022,,2,Oxford Circus,Z1
+1627,7105860,3536,Savings Premium,18/08/2023,,3,Notting Hill Gate,Z2
+2186,8997513,6932,Savings Account,19/04/2023,,2,Oxford Circus,Z1
+509,3106034,4090,Current Account,21/02/2022,,2,Oxford Circus,Z1
+1238,5818314,2348,Savings Account,19/01/2022,,4,London Bridge Gateway,Z1
+2258,9236892,3552,Salary Account,24/01/2019,,6,Stratford City,Z2
+2087,8695929,5795,Savings Account,16/08/2019,,1,Canary Wharf,Z1
+288,2384097,1806,Salary Account,29/07/2022,,4,London Bridge Gateway,Z1
+180,1994564,1751,Current Account,05/11/2023,,6,Stratford City,Z2
+2145,8868273,1813,Current Account,05/06/2023,,1,Canary Wharf,Z1
+1352,6191030,7833,Current Account,03/11/2023,,6,Stratford City,Z2
+1142,5439319,6720,Current Account,29/11/2022,,6,Stratford City,Z2
+1285,5980666,6984,Savings Account,31/10/2021,,3,Notting Hill Gate,Z2
+1111,5342276,3066,Savings Account,26/09/2021,,1,Canary Wharf,Z1
+721,3834048,5658,Current Account,01/01/2023,,3,Notting Hill Gate,Z2
+662,3653632,2737,Salary Account,22/09/2019,,4,London Bridge Gateway,Z1
+835,4319477,6507,Savings Account,18/10/2021,,6,Stratford City,Z2
+251,2248684,3281,Savings Account,27/09/2022,,4,London Bridge Gateway,Z1
+1982,8340970,1267,Current Account,29/08/2021,,1,Canary Wharf,Z1
+2153,8898933,7942,Savings Account,11/11/2022,,4,London Bridge Gateway,Z1
+1357,6204690,5282,Salary Account,26/10/2019,,4,London Bridge Gateway,Z1
+643,3582481,1765,Savings Account,15/09/2021,,2,Oxford Circus,Z1
+1891,8052381,4619,Savings Account,28/09/2023,,1,Canary Wharf,Z1
+304,2432435,2945,Current Account,01/01/2022,,5,Islington High Street,Z1
+1458,6513918,7760,Current Account,13/10/2022,,1,Canary Wharf,Z1
+881,4496581,6294,Current Account,03/11/2019,,4,London Bridge Gateway,Z1
+1299,6025684,6972,Savings Account,16/04/2022,,5,Islington High Street,Z1
+1511,6715937,3965,Salary Account,21/07/2021,,4,London Bridge Gateway,Z1
+1011,5035261,6806,Savings Account,27/02/2023,,6,Stratford City,Z2
+725,3844697,1590,Savings Account,02/08/2022,,6,Stratford City,Z2
+5,1262874,4516,Current Account,07/08/2023,,5,Islington High Street,Z1
+2306,9430704,4485,Current Account,11/06/2023,,4,London Bridge Gateway,Z1
+862,4430251,4040,Current Account,28/12/2023,,6,Stratford City,Z2
+1930,8183350,3145,Savings Account,08/03/2021,,1,Canary Wharf,Z1
+647,3593575,3589,Current Account,21/07/2023,,6,Stratford City,Z2
+698,3786403,6062,Current Account,16/11/2020,,2,Oxford Circus,Z1
+1613,7042096,1667,Current Account,16/11/2023,,1,Canary Wharf,Z1
+750,3944843,2588,Current Account,04/09/2021,,5,Islington High Street,Z1
+1158,5508034,1378,Savings Account,07/11/2023,,1,Canary Wharf,Z1
+1504,6683205,1560,Current Account,24/04/2023,,1,Canary Wharf,Z1
+95,1679699,2058,Current Account,09/07/2022,,5,Islington High Street,Z1
+2062,8624340,4752,Current Account,10/06/2022,,3,Notting Hill Gate,Z2
+1607,7025539,4686,Current Account,25/11/2023,,1,Canary Wharf,Z1
+1156,5495532,1375,Current Account,06/03/2023,,2,Oxford Circus,Z1
+2312,9444380,3086,Savings Account,23/03/2023,,5,Islington High Street,Z1
+2383,9714450,3606,Savings Account,14/12/2023,,4,London Bridge Gateway,Z1
+2305,9427088,1962,Current Account,31/08/2021,,2,Oxford Circus,Z1
+1032,5124390,5293,Savings Account,30/09/2023,,4,London Bridge Gateway,Z1
+1846,7912403,6427,Salary Account,29/12/2023,,2,Oxford Circus,Z1
+1277,5927760,3480,Savings Account,26/10/2022,,2,Oxford Circus,Z1
+851,4392634,2765,Current Account,22/05/2022,,1,Canary Wharf,Z1
+2205,9056884,1050,Current Account,08/04/2022,,2,Oxford Circus,Z1
+752,3951854,7327,Savings Account,17/12/2023,,6,Stratford City,Z2
+2242,9179536,2413,Current Account,11/12/2023,,6,Stratford City,Z2
+1588,6948698,6439,Salary Account,19/10/2023,,6,Stratford City,Z2
+1874,7987472,1427,Current Account,08/12/2023,,3,Notting Hill Gate,Z2
+1866,7958893,5953,Current Account,29/02/2020,,5,Islington High Street,Z1
+447,2896838,1446,Current Account,19/01/2022,,3,Notting Hill Gate,Z2
+939,4785570,7513,Current Account,03/06/2022,,1,Canary Wharf,Z1
+1806,7721322,7941,Current Account,14/11/2023,,4,London Bridge Gateway,Z1
+281,2365289,7170,Savings Account,29/12/2022,,1,Canary Wharf,Z1
+1734,7502884,7339,Current Account,24/09/2023,,6,Stratford City,Z2
+1577,6920828,4512,Current Account,22/12/2023,,2,Oxford Circus,Z1
+2261,9249465,4283,Current Account,20/08/2022,,3,Notting Hill Gate,Z2
+875,4469338,3190,Savings Account,30/03/2022,,1,Canary Wharf,Z1
+65,1548930,5751,Savings Account,23/06/2023,,4,London Bridge Gateway,Z1
+895,4579217,1885,Current Account,04/09/2021,,6,Stratford City,Z2
+1718,7451132,4805,Current Account,05/08/2020,,1,Canary Wharf,Z1
+1955,8258463,2559,Current Account,13/09/2023,,4,London Bridge Gateway,Z1
+82,1631523,6675,Savings Account,09/05/2019,,5,Islington High Street,Z1
+1043,5160417,5533,Salary Account,29/03/2023,,4,London Bridge Gateway,Z1
+1449,6497132,5424,Current Account,25/11/2019,,1,Canary Wharf,Z1
+2399,9752119,1929,Salary Account,05/02/2023,,1,Canary Wharf,Z1
+1658,7248516,2425,Current Account,01/09/2023,,6,Stratford City,Z2
+395,2711898,7367,Salary Account,04/11/2021,,6,Stratford City,Z2
+2238,9173246,5662,Salary Account,06/11/2023,,2,Oxford Circus,Z1
+1033,5129230,6439,Savings Account,29/08/2021,,4,London Bridge Gateway,Z1
+825,4261379,5135,Savings Account,26/06/2019,,3,Notting Hill Gate,Z2
+1102,5320907,6923,Current Account,22/11/2023,,3,Notting Hill Gate,Z2
+1863,7955144,5076,Savings Account,03/07/2023,,1,Canary Wharf,Z1
+558,3283999,5425,Current Account,18/05/2023,,6,Stratford City,Z2
+1983,8342962,2565,Savings Account,14/06/2020,,3,Notting Hill Gate,Z2
+206,2086202,2673,Current Account,06/08/2022,,1,Canary Wharf,Z1
+2229,9144569,5362,Savings Account,26/10/2023,,1,Canary Wharf,Z1
+1096,5308836,5853,Savings Account,01/10/2023,,6,Stratford City,Z2
+1468,6553561,5467,Current Account,14/01/2021,,1,Canary Wharf,Z1
+779,4063740,2046,Savings Account,05/07/2022,,3,Notting Hill Gate,Z2
+1918,8141900,3542,Current Account,25/07/2022,,2,Oxford Circus,Z1
+2397,9751669,1778,Salary Account,31/10/2023,,1,Canary Wharf,Z1
+1604,7022092,2038,Savings Account,19/02/2022,,4,London Bridge Gateway,Z1
+565,3322844,2274,Savings Account,15/08/2019,,3,Notting Hill Gate,Z2
+803,4172747,5959,Current Account,08/11/2020,,4,London Bridge Gateway,Z1
+513,3124399,3190,Savings Premium,15/12/2023,,1,Canary Wharf,Z1
+91,1669253,3963,Savings Account,05/06/2020,,6,Stratford City,Z2
+554,3270624,6438,Current Account,17/06/2019,,6,Stratford City,Z2
+189,2015680,2173,Savings Account,26/09/2023,,2,Oxford Circus,Z1
+1703,7400863,5850,Savings Account,07/10/2019,,1,Canary Wharf,Z1
+1771,7611062,4850,Savings Account,24/12/2022,,2,Oxford Circus,Z1
+777,4055298,2217,Salary Account,13/12/2022,,4,London Bridge Gateway,Z1
+1592,6967817,1320,Savings Account,25/08/2021,,1,Canary Wharf,Z1
+2027,8515333,6480,Current Account,09/03/2019,,6,Stratford City,Z2
+153,1903824,7492,Savings Account,24/05/2021,,4,London Bridge Gateway,Z1
+1413,6393730,4255,Current Account,07/11/2023,,3,Notting Hill Gate,Z2
+1839,7889257,1562,Current Account,10/07/2021,,6,Stratford City,Z2
+1893,8053232,3545,Savings Account,15/07/2023,,4,London Bridge Gateway,Z1
+317,2473697,7129,Current Account,04/05/2021,,5,Islington High Street,Z1
+2347,9590192,4395,Current Account,26/07/2023,,4,London Bridge Gateway,Z1
+2202,9049884,5771,Savings Account,11/07/2023,,1,Canary Wharf,Z1
+1110,5341745,4285,Savings Account,12/07/2022,,6,Stratford City,Z2
+2175,8971311,7619,Current Account,01/08/2023,,2,Oxford Circus,Z1
+339,2529115,5827,Current Account,17/08/2023,,4,London Bridge Gateway,Z1
+2237,9169724,2924,Savings Account,16/08/2021,,5,Islington High Street,Z1
+1393,6303260,1385,Savings Account,22/07/2019,,1,Canary Wharf,Z1
+132,1838951,5083,Current Account,01/07/2023,,6,Stratford City,Z2
+130,1818329,1913,Current Account,28/03/2023,,1,Canary Wharf,Z1
+195,2050848,3910,Current Account,12/06/2021,,3,Notting Hill Gate,Z2
+1540,6791778,2329,Savings Account,22/12/2023,,1,Canary Wharf,Z1
+2200,9040154,5274,Salary Account,20/10/2022,,6,Stratford City,Z2
+1568,6890303,5954,Savings Account,21/09/2021,,1,Canary Wharf,Z1
+1755,7567837,2589,Savings Account,11/01/2020,,2,Oxford Circus,Z1
+495,3053192,6733,Salary Account,27/12/2020,,2,Oxford Circus,Z1
+1477,6588741,7590,Current Account,12/06/2022,,1,Canary Wharf,Z1
+1989,8367269,4433,Savings Account,17/04/2023,,1,Canary Wharf,Z1
+1547,6808179,6926,Current Account,25/05/2019,,1,Canary Wharf,Z1
+81,1623333,7115,Savings Account,25/12/2023,,3,Notting Hill Gate,Z2
+1548,6811916,3660,Current Account,01/12/2020,,1,Canary Wharf,Z1
+69,1561265,5712,Savings Account,16/07/2021,,6,Stratford City,Z2
+891,4571674,2997,Current Account,10/12/2023,,5,Islington High Street,Z1
+488,3034706,4468,Savings Account,29/09/2022,,5,Islington High Street,Z1
+2174,8965927,3225,Current Account,11/09/2023,,2,Oxford Circus,Z1
+169,1966780,7853,Savings Account,28/04/2021,,3,Notting Hill Gate,Z2
+161,1937565,7198,Savings Account,16/06/2019,,1,Canary Wharf,Z1
+1919,8147581,3687,Savings Account,20/07/2020,,1,Canary Wharf,Z1
+1130,5398453,3638,Salary Account,12/09/2022,,4,London Bridge Gateway,Z1
+934,4771277,1876,Savings Account,10/11/2023,,3,Notting Hill Gate,Z2
+1977,8333409,4458,Salary Account,21/07/2021,,1,Canary Wharf,Z1
+1544,6803272,2348,Current Account,09/05/2022,,1,Canary Wharf,Z1
+1213,5721528,3139,Current Account,15/02/2019,,1,Canary Wharf,Z1
+1469,6557876,2796,Current Account,04/06/2023,,1,Canary Wharf,Z1
+1193,5674525,2463,Current Account,17/08/2023,,3,Notting Hill Gate,Z2
+593,3417475,7651,Current Account,04/09/2022,,1,Canary Wharf,Z1
+603,3454324,6061,Savings Account,03/04/2021,,1,Canary Wharf,Z1
+1726,7475848,1063,Current Account,09/04/2023,,4,London Bridge Gateway,Z1
+808,4183745,6667,Savings Account,29/12/2022,,1,Canary Wharf,Z1
+1645,7172196,1559,Current Account,30/11/2022,,1,Canary Wharf,Z1
+1606,7024898,7754,Savings Premium,11/01/2019,,3,Notting Hill Gate,Z2
+1007,5020641,3728,Current Account,24/05/2020,,6,Stratford City,Z2
+1073,5249245,4834,Savings Account,11/09/2022,,2,Oxford Circus,Z1
+2309,9432201,1474,Current Account,09/09/2021,,1,Canary Wharf,Z1
+1140,5434976,3051,Savings Account,26/03/2022,,1,Canary Wharf,Z1
+1462,6538430,3771,Current Account,05/11/2023,,1,Canary Wharf,Z1
+8,1279391,2347,Savings Account,07/09/2023,,4,London Bridge Gateway,Z1
+441,2877135,3691,Current Account,23/10/2023,,1,Canary Wharf,Z1
+436,2860729,1982,Current Account,31/10/2020,,1,Canary Wharf,Z1
+1049,5174941,5158,Savings Account,18/06/2023,,2,Oxford Circus,Z1
+1697,7372570,1949,Current Account,15/02/2021,,1,Canary Wharf,Z1
+2236,9169669,5445,Current Account,24/05/2021,,1,Canary Wharf,Z1
+1850,7915851,7590,Current Account,18/05/2023,,4,London Bridge Gateway,Z1
+608,3472741,6486,Savings Account,13/08/2020,,4,London Bridge Gateway,Z1
+1716,7445106,3997,Current Account,15/09/2022,,1,Canary Wharf,Z1
+747,3921131,6484,Current Account,19/08/2023,,6,Stratford City,Z2
+1171,5575409,4789,Savings Account,09/07/2023,,6,Stratford City,Z2
+2114,8783819,5771,Current Account,19/11/2022,,5,Islington High Street,Z1
+1686,7329849,6146,Savings Account,16/02/2023,,1,Canary Wharf,Z1
+575,3352288,1816,Salary Account,22/02/2023,,6,Stratford City,Z2
+438,2865111,7190,Current Account,27/08/2023,,4,London Bridge Gateway,Z1
+1153,5473795,4458,Savings Account,18/12/2023,,4,London Bridge Gateway,Z1
+527,3161955,5909,Savings Account,21/06/2021,,6,Stratford City,Z2
+76,1592818,5883,Savings Account,28/11/2023,,3,Notting Hill Gate,Z2
+1336,6131124,7609,Savings Account,10/07/2022,,1,Canary Wharf,Z1
+2082,8678190,3136,Savings Account,31/12/2023,,5,Islington High Street,Z1
+2359,9627509,7191,Savings Account,18/10/2021,,1,Canary Wharf,Z1
+1178,5616963,2730,Savings Account,30/05/2020,,6,Stratford City,Z2
+416,2795676,7935,Current Account,20/06/2023,,2,Oxford Circus,Z1
+1763,7597703,5560,Savings Account,19/12/2022,,2,Oxford Circus,Z1
+814,4228790,6114,Current Account,08/12/2023,,1,Canary Wharf,Z1
+1632,7132479,4717,Savings Account,13/07/2022,,1,Canary Wharf,Z1
+1677,7305380,7901,Current Account,09/03/2023,,4,London Bridge Gateway,Z1
+2287,9358004,2935,Current Account,22/04/2022,,2,Oxford Circus,Z1
+971,4906045,4599,Current Account,08/05/2023,,2,Oxford Circus,Z1
+2112,8780670,7390,Savings Premium,29/01/2021,,1,Canary Wharf,Z1
+61,1515118,7506,Current Account,20/02/2023,,6,Stratford City,Z2
+952,4828797,4296,Current Account,21/07/2022,,2,Oxford Circus,Z1
+78,1602585,7387,Current Account,24/07/2020,,4,London Bridge Gateway,Z1
+1399,6315188,2791,Savings Account,17/09/2022,,5,Islington High Street,Z1
+1313,6060158,6827,Savings Account,17/12/2023,,4,London Bridge Gateway,Z1
+2354,9611388,4724,Savings Account,01/07/2021,,3,Notting Hill Gate,Z2
+1867,7959365,1556,Savings Account,25/09/2019,,1,Canary Wharf,Z1
+484,3023844,4346,Current Account,28/10/2019,,5,Islington High Street,Z1
+480,3015970,2582,Current Account,11/05/2021,,1,Canary Wharf,Z1
+600,3445791,1739,Savings Account,30/03/2022,,6,Stratford City,Z2
+1962,8278003,6700,Savings Account,04/01/2021,,1,Canary Wharf,Z1
+831,4285266,4085,Current Account,17/03/2023,,6,Stratford City,Z2
+820,4245029,3938,Savings Account,09/07/2020,,3,Notting Hill Gate,Z2
+73,1582550,5811,Savings Account,01/11/2021,,1,Canary Wharf,Z1
+385,2670863,4626,Salary Account,17/10/2022,,3,Notting Hill Gate,Z2
+163,1944214,5543,Savings Account,06/01/2022,,6,Stratford City,Z2
+836,4322309,5974,Savings Account,19/08/2022,,2,Oxford Circus,Z1
+598,3433138,7359,Savings Account,16/06/2022,,4,London Bridge Gateway,Z1
+1087,5283782,4970,Savings Account,22/04/2021,,5,Islington High Street,Z1
+2386,9719290,7659,Current Account,06/11/2022,,5,Islington High Street,Z1
+428,2829775,3230,Savings Premium,07/07/2022,,5,Islington High Street,Z1
+324,2481853,2173,Savings Account,06/10/2023,,2,Oxford Circus,Z1
+2068,8647269,4407,Savings Account,26/02/2020,,2,Oxford Circus,Z1
+273,2336465,3573,Current Account,25/05/2021,,4,London Bridge Gateway,Z1
+1739,7516911,3493,Current Account,19/08/2023,,1,Canary Wharf,Z1
+1537,6785768,5492,Savings Account,20/12/2022,,5,Islington High Street,Z1
+1904,8088287,2246,Current Account,05/10/2023,,2,Oxford Circus,Z1
+2304,9425631,4509,Current Account,01/03/2023,,5,Islington High Street,Z1
+462,2949303,2076,Current Account,26/04/2022,,2,Oxford Circus,Z1
+1824,7828929,6114,Current Account,10/11/2021,,2,Oxford Circus,Z1
+371,2610869,6533,Savings Account,16/10/2021,,6,Stratford City,Z2
+108,1721455,7376,Savings Account,16/01/2023,,4,London Bridge Gateway,Z1
+2349,9595853,4112,Savings Account,27/01/2023,,3,Notting Hill Gate,Z2
+682,3732585,5110,Current Account,14/08/2023,,1,Canary Wharf,Z1
+2157,8905455,2742,Savings Account,17/10/2021,,3,Notting Hill Gate,Z2
+665,3661189,6415,Savings Account,01/01/2024,,3,Notting Hill Gate,Z2
+1060,5209090,2955,Savings Account,26/01/2022,,4,London Bridge Gateway,Z1
+1999,8421490,3152,Savings Account,30/01/2023,,5,Islington High Street,Z1
+292,2391402,5888,Savings Account,04/07/2023,,5,Islington High Street,Z1
+1631,7125754,1309,Savings Account,15/01/2023,,5,Islington High Street,Z1
+523,3154049,1444,Savings Account,16/10/2023,,1,Canary Wharf,Z1
+2337,9547090,4854,Current Account,08/02/2020,,4,London Bridge Gateway,Z1
+1035,5130508,2503,Current Account,03/06/2023,,5,Islington High Street,Z1
+1530,6768721,6673,Current Account,17/09/2019,,1,Canary Wharf,Z1
+1939,8207475,2990,Savings Premium,14/12/2020,,4,London Bridge Gateway,Z1
+965,4886914,6158,Savings Account,01/04/2023,,4,London Bridge Gateway,Z1
+1603,7019325,1912,Current Account,04/07/2023,,4,London Bridge Gateway,Z1
+450,2901393,2814,Savings Account,06/11/2021,,2,Oxford Circus,Z1
+2057,8612056,7941,Current Account,28/11/2023,,1,Canary Wharf,Z1
+631,3551139,7850,Current Account,28/06/2020,,6,Stratford City,Z2
+1886,8037499,1129,Savings Account,28/02/2022,,4,London Bridge Gateway,Z1
+225,2149294,6468,Current Account,06/03/2021,,2,Oxford Circus,Z1
+2278,9324295,3525,Savings Account,22/07/2022,,4,London Bridge Gateway,Z1
+68,1559697,2469,Savings Account,03/09/2021,,6,Stratford City,Z2
+1868,7962839,2235,Current Account,26/12/2020,,4,London Bridge Gateway,Z1
+911,4649640,2475,Current Account,28/01/2023,,4,London Bridge Gateway,Z1
+1149,5466913,4466,Current Account,15/10/2021,,6,Stratford City,Z2
+193,2036518,3676,Savings Account,09/09/2023,,2,Oxford Circus,Z1
+2299,9398842,7689,Salary Account,16/11/2023,,6,Stratford City,Z2
+2059,8614337,5884,Savings Account,11/03/2022,,1,Canary Wharf,Z1
+868,4448848,6340,Current Account,17/09/2023,,3,Notting Hill Gate,Z2
+213,2100401,2752,Current Account,29/09/2023,,5,Islington High Street,Z1
+1636,7139110,7205,Savings Account,09/09/2023,,3,Notting Hill Gate,Z2
+1834,7874684,1614,Savings Account,20/10/2023,,3,Notting Hill Gate,Z2
+2247,9201875,7884,Savings Account,05/09/2023,,2,Oxford Circus,Z1
+770,4018222,7216,Current Account,31/12/2023,,1,Canary Wharf,Z1
+154,1909475,6225,Current Account,22/12/2023,,4,London Bridge Gateway,Z1
+885,4527899,1867,Salary Account,06/04/2019,,3,Notting Hill Gate,Z2
+308,2455618,5747,Current Account,27/02/2022,,4,London Bridge Gateway,Z1
+1137,5425556,7241,Current Account,02/03/2023,,2,Oxford Circus,Z1
+2400,9752924,5156,Savings Account,17/09/2022,05/02/2024,1,Canary Wharf,Z1
+1816,7771272,5983,Current Account,25/11/2021,,6,Stratford City,Z2
+1643,7166891,4725,Salary Account,07/10/2023,,3,Notting Hill Gate,Z2
+2393,9746046,6043,Salary Account,29/07/2020,,4,London Bridge Gateway,Z1
+1208,5713644,2772,Current Account,25/04/2023,,5,Islington High Street,Z1
+477,3005148,6124,Savings Account,09/04/2019,,3,Notting Hill Gate,Z2
+1785,7641256,3813,Savings Account,27/09/2022,,6,Stratford City,Z2
+1798,7688581,7037,Salary Account,15/09/2022,,2,Oxford Circus,Z1
+410,2772524,2341,Savings Premium,23/06/2021,,1,Canary Wharf,Z1
+841,4350663,4850,Savings Account,31/12/2021,,5,Islington High Street,Z1
+254,2254980,5899,Current Account,15/03/2023,,1,Canary Wharf,Z1
+72,1576419,7092,Savings Account,30/10/2020,,3,Notting Hill Gate,Z2
+1344,6182063,5280,Savings Account,10/06/2023,,1,Canary Wharf,Z1
+2239,9174493,7151,Savings Account,16/06/2019,,6,Stratford City,Z2
+909,4642413,4568,Savings Account,03/11/2023,,1,Canary Wharf,Z1
+2065,8633899,6134,Current Account,23/04/2022,,4,London Bridge Gateway,Z1
+1865,7958545,1170,Savings Account,17/04/2022,,5,Islington High Street,Z1
+1813,7758441,4511,Savings Account,16/03/2022,,1,Canary Wharf,Z1
+801,4171676,7409,Current Account,08/12/2022,,1,Canary Wharf,Z1
+378,2655849,2575,Savings Account,22/10/2023,,1,Canary Wharf,Z1
+2377,9693784,5477,Savings Account,11/10/2023,,4,London Bridge Gateway,Z1
+1933,8195107,4123,Salary Account,04/02/2023,,1,Canary Wharf,Z1
+547,3240295,1313,Savings Account,10/03/2020,,2,Oxford Circus,Z1
+415,2790517,2429,Savings Account,31/10/2023,,4,London Bridge Gateway,Z1
+1001,5004351,4742,Savings Account,01/09/2020,,4,London Bridge Gateway,Z1
+2048,8584868,6144,Current Account,03/01/2022,,4,London Bridge Gateway,Z1
+2016,8460225,6205,Current Account,01/11/2022,,6,Stratford City,Z2
+336,2524423,3006,Savings Account,22/04/2022,,1,Canary Wharf,Z1
+2008,8447253,4531,Savings Account,13/09/2022,,4,London Bridge Gateway,Z1
+2385,9716239,6637,Savings Premium,19/06/2021,,1,Canary Wharf,Z1
+1925,8168546,1542,Current Account,02/02/2023,,1,Canary Wharf,Z1
+850,4391356,5848,Savings Account,22/04/2023,,1,Canary Wharf,Z1
+2035,8546614,4482,Savings Premium,22/02/2023,,4,London Bridge Gateway,Z1
+1212,5719464,1612,Current Account,10/03/2020,,3,Notting Hill Gate,Z2
+946,4810635,3234,Savings Account,28/02/2023,,6,Stratford City,Z2
+1732,7497474,2572,Current Account,24/04/2023,,4,London Bridge Gateway,Z1
+1579,6923407,3753,Savings Account,28/07/2022,,6,Stratford City,Z2
+1372,6258707,7127,Current Account,04/08/2021,,1,Canary Wharf,Z1
+799,4162075,1994,Current Account,02/05/2022,,4,London Bridge Gateway,Z1
+1330,6107486,2558,Current Account,17/06/2023,,4,London Bridge Gateway,Z1
+276,2344960,5824,Savings Account,26/04/2020,,1,Canary Wharf,Z1
+2067,8646439,3020,Salary Account,05/02/2023,,4,London Bridge Gateway,Z1
+1287,5983445,4011,Savings Account,17/08/2022,,4,London Bridge Gateway,Z1
+2297,9388066,3064,Current Account,10/06/2022,,6,Stratford City,Z2
+2422,9847129,5844,Savings Account,09/09/2023,,4,London Bridge Gateway,Z1
+2331,9524408,1940,Current Account,14/01/2022,,4,London Bridge Gateway,Z1
+2270,9272116,5512,Current Account,08/11/2022,,4,London Bridge Gateway,Z1
+2344,9579241,1257,Current Account,19/04/2023,,2,Oxford Circus,Z1
+2034,8543939,3123,Current Account,01/02/2024,,6,Stratford City,Z2
+234,2188780,1937,Savings Account,30/12/2022,,1,Canary Wharf,Z1
+1793,7670005,2307,Current Account,30/08/2022,,4,London Bridge Gateway,Z1
+2080,8673233,3435,Current Account,30/06/2023,,1,Canary Wharf,Z1
+1068,5238985,3816,Savings Account,25/08/2023,,6,Stratford City,Z2
+2039,8555974,3690,Current Account,22/07/2023,,5,Islington High Street,Z1
+7,1277537,6970,Current Account,12/07/2022,,1,Canary Wharf,Z1
+1800,7697006,7834,Current Account,18/03/2022,,4,London Bridge Gateway,Z1
+2380,9703272,2390,Savings Account,04/04/2023,,4,London Bridge Gateway,Z1
+1617,7069110,7546,Current Account,14/09/2023,,4,London Bridge Gateway,Z1
+2248,9205965,3450,Savings Account,18/01/2020,,4,London Bridge Gateway,Z1
+2241,9178827,6507,Savings Account,17/06/2023,,1,Canary Wharf,Z1
+406,2764997,6058,Savings Account,14/09/2022,,2,Oxford Circus,Z1
+1815,7768836,7277,Salary Account,02/04/2022,,6,Stratford City,Z2
+1909,8112799,5586,Current Account,31/10/2022,,1,Canary Wharf,Z1
+1003,5007142,1625,Current Account,02/09/2019,,3,Notting Hill Gate,Z2
+394,2707384,2885,Savings Account,11/03/2022,,6,Stratford City,Z2
+1370,6255533,4232,Savings Account,05/06/2022,,4,London Bridge Gateway,Z1
+1373,6263508,4183,Current Account,14/11/2023,,3,Notting Hill Gate,Z2
+674,3706689,6584,Current Account,21/02/2023,,4,London Bridge Gateway,Z1
+987,4951862,5723,Savings Premium,07/01/2023,,5,Islington High Street,Z1
+152,1903252,5571,Salary Account,05/12/2023,,2,Oxford Circus,Z1
+186,2003305,4745,Savings Account,12/06/2023,,2,Oxford Circus,Z1
+1492,6641873,5393,Current Account,08/11/2022,,5,Islington High Street,Z1
+1394,6304409,2522,Savings Account,18/03/2023,,2,Oxford Circus,Z1
+732,3881052,6374,Savings Account,15/08/2022,,5,Islington High Street,Z1
+1574,6914380,7159,Current Account,23/07/2020,,4,London Bridge Gateway,Z1
+690,3757345,6988,Current Account,21/02/2022,,1,Canary Wharf,Z1
+143,1867797,6698,Savings Account,19/06/2021,,6,Stratford City,Z2
+550,3258769,4958,Savings Account,09/12/2023,,3,Notting Hill Gate,Z2
+1356,6198414,5049,Savings Account,15/08/2023,,5,Islington High Street,Z1
+1360,6224612,1482,Current Account,27/10/2019,,1,Canary Wharf,Z1
+898,4582776,2813,Current Account,30/03/2020,,1,Canary Wharf,Z1
+1725,7466793,6479,Savings Account,11/04/2023,,1,Canary Wharf,Z1
+1965,8283338,3248,Savings Account,23/01/2019,,5,Islington High Street,Z1
+2172,8957106,5685,Savings Account,26/01/2020,,6,Stratford City,Z2
+783,4081449,1566,Savings Account,12/03/2023,,1,Canary Wharf,Z1
+2396,9750993,6973,Savings Account,29/11/2023,,1,Canary Wharf,Z1
+893,4575345,1584,Savings Account,11/06/2022,,4,London Bridge Gateway,Z1
+444,2888843,7755,Savings Account,02/05/2020,,3,Notting Hill Gate,Z2
+37,1404807,1053,Savings Account,28/08/2022,,6,Stratford City,Z2
+1459,6526923,5057,Current Account,04/07/2023,,1,Canary Wharf,Z1
+53,1496992,6075,Salary Account,24/08/2020,,1,Canary Wharf,Z1
+829,4279382,4456,Savings Account,16/07/2022,,6,Stratford City,Z2
+852,4396677,6511,Current Account,19/06/2023,,3,Notting Hill Gate,Z2
+739,3904726,1141,Salary Account,18/01/2023,,3,Notting Hill Gate,Z2
+403,2750813,3470,Current Account,18/03/2021,,5,Islington High Street,Z1
+2376,9688469,6353,Current Account,23/10/2023,,6,Stratford City,Z2
+1795,7676589,5506,Savings Account,09/06/2021,,4,London Bridge Gateway,Z1
+318,2475429,1690,Savings Account,16/10/2023,,4,London Bridge Gateway,Z1
+1192,5672990,7255,Savings Account,21/02/2023,,5,Islington High Street,Z1
+2363,9636409,6471,Current Account,26/04/2021,,5,Islington High Street,Z1
+1661,7257174,7648,Salary Account,17/09/2022,,1,Canary Wharf,Z1
+1596,6990392,3970,Savings Account,27/02/2022,,6,Stratford City,Z2
+258,2272568,5548,Savings Account,25/09/2021,,4,London Bridge Gateway,Z1
+239,2203162,4716,Current Account,18/05/2022,,5,Islington High Street,Z1
+2264,9262920,5764,Savings Account,25/06/2020,,4,London Bridge Gateway,Z1
+564,3320808,1210,Current Account,15/12/2020,,1,Canary Wharf,Z1
+1897,8079447,1988,Salary Account,24/07/2022,,1,Canary Wharf,Z1
+1927,8177080,3940,Current Account,23/12/2023,,2,Oxford Circus,Z1
+2214,9097947,4739,Savings Account,11/01/2023,,6,Stratford City,Z2
+114,1756952,7895,Savings Account,27/08/2023,,2,Oxford Circus,Z1
+2384,9715165,6372,Current Account,24/06/2023,,4,London Bridge Gateway,Z1
+1894,8061274,2792,Savings Account,01/01/2022,,1,Canary Wharf,Z1
+1975,8330202,3116,Savings Account,05/05/2022,,4,London Bridge Gateway,Z1
+2119,8793023,5532,Savings Account,30/06/2022,,5,Islington High Street,Z1
+1273,5915450,6746,Current Account,23/05/2022,,1,Canary Wharf,Z1
+1053,5193845,5785,Savings Account,23/04/2022,,6,Stratford City,Z2
+2323,9484289,2488,Salary Account,09/11/2021,,1,Canary Wharf,Z1
+1759,7594807,2001,Savings Account,13/01/2023,,2,Oxford Circus,Z1
+1042,5157380,1791,Savings Account,08/09/2021,,1,Canary Wharf,Z1
+966,4890277,4997,Current Account,05/09/2023,,1,Canary Wharf,Z1
+1395,6305708,5226,Savings Account,29/07/2023,,3,Notting Hill Gate,Z2
+994,4979354,7758,Current Account,30/10/2022,,4,London Bridge Gateway,Z1
+1497,6663635,3589,Current Account,02/11/2023,,1,Canary Wharf,Z1
+1948,8223344,1802,Savings Account,11/03/2020,,4,London Bridge Gateway,Z1
+170,1967537,6234,Salary Account,16/05/2018,,4,London Bridge Gateway,Z1
+1792,7669810,4113,Current Account,30/03/2023,,3,Notting Hill Gate,Z2
+1767,7607995,3541,Current Account,18/11/2023,,4,London Bridge Gateway,Z1
+2419,9842654,3533,Current Account,09/10/2023,,2,Oxford Circus,Z1
+2315,9458719,6341,Current Account,19/01/2023,,3,Notting Hill Gate,Z2
+2250,9212071,3709,Current Account,27/11/2021,,1,Canary Wharf,Z1
+259,2276773,7529,Current Account,16/08/2023,,1,Canary Wharf,Z1
+2353,9610210,6791,Current Account,18/11/2020,,3,Notting Hill Gate,Z2
+1958,8266280,2826,Current Account,02/09/2023,,6,Stratford City,Z2
+1803,7713292,5620,Savings Account,18/09/2023,,5,Islington High Street,Z1
+1082,5274953,6196,Current Account,07/03/2023,,6,Stratford City,Z2
+1269,5908099,3656,Savings Account,16/04/2022,,3,Notting Hill Gate,Z2
+1405,6340890,1991,Savings Account,31/12/2023,,1,Canary Wharf,Z1
+734,3884891,3700,Current Account,17/10/2021,,1,Canary Wharf,Z1
+2210,9076268,1125,Current Account,03/12/2023,,6,Stratford City,Z2
+601,3448158,2590,Savings Account,05/02/2021,,1,Canary Wharf,Z1
+1078,5268953,3489,Current Account,24/08/2023,,4,London Bridge Gateway,Z1
+1944,8216741,4261,Current Account,06/01/2023,,1,Canary Wharf,Z1
+1929,8179095,1254,Salary Account,19/10/2023,,1,Canary Wharf,Z1
+1862,7952973,4520,Current Account,17/05/2021,,6,Stratford City,Z2
+1174,5601437,4464,Savings Account,12/08/2021,,1,Canary Wharf,Z1
+463,2949658,4027,Current Account,11/06/2020,,4,London Bridge Gateway,Z1
+730,3875782,6674,Current Account,28/01/2021,,4,London Bridge Gateway,Z1
+788,4109839,6889,Current Account,29/10/2023,,6,Stratford City,Z2
+534,3179341,1750,Savings Account,03/04/2022,,3,Notting Hill Gate,Z2
+1720,7453896,1254,Savings Account,17/03/2023,,4,London Bridge Gateway,Z1
+1098,5311317,4264,Savings Account,03/07/2021,,3,Notting Hill Gate,Z2
+581,3371029,6114,Salary Account,18/12/2021,,5,Islington High Street,Z1
+183,1997222,4741,Savings Account,08/01/2022,,1,Canary Wharf,Z1
+703,3798717,1819,Current Account,17/07/2023,,6,Stratford City,Z2
+382,2663598,7626,Savings Premium,29/11/2022,,4,London Bridge Gateway,Z1
+1204,5691073,7944,Current Account,30/06/2020,,6,Stratford City,Z2
+1995,8394411,3784,Salary Account,27/09/2022,,5,Islington High Street,Z1
+2094,8724538,1886,Savings Account,17/09/2023,,6,Stratford City,Z2
+1786,7651443,3493,Savings Account,01/11/2023,,6,Stratford City,Z2
+1261,5887012,2033,Current Account,12/09/2022,,5,Islington High Street,Z1
+1828,7853656,7754,Current Account,02/02/2022,,1,Canary Wharf,Z1
+1900,8083952,5259,Current Account,26/04/2022,,1,Canary Wharf,Z1
+2169,8947646,7067,Current Account,26/12/2021,,3,Notting Hill Gate,Z2
+1080,5272210,1740,Savings Account,14/11/2023,,6,Stratford City,Z2
+1545,6804446,5966,Savings Account,24/07/2023,,4,London Bridge Gateway,Z1
+2418,9838133,7681,Current Account,18/11/2023,,6,Stratford City,Z2
+226,2153588,5251,Current Account,04/02/2023,,5,Islington High Street,Z1
+149,1895901,3096,Savings Account,01/03/2022,,1,Canary Wharf,Z1
+1694,7368357,2313,Savings Account,17/01/2022,,1,Canary Wharf,Z1
+1397,6314983,4237,Savings Account,04/11/2022,,6,Stratford City,Z2
+1100,5316483,6606,Current Account,06/02/2022,,4,London Bridge Gateway,Z1
+918,4677278,6417,Current Account,07/10/2022,,3,Notting Hill Gate,Z2
+1301,6028562,1955,Current Account,29/04/2022,,5,Islington High Street,Z1
+552,3265466,4658,Current Account,31/10/2020,,5,Islington High Street,Z1
+1030,5117308,7799,Savings Account,24/11/2020,,1,Canary Wharf,Z1
+77,1599747,5910,Current Account,28/12/2019,22/01/2024,5,Islington High Street,Z1
+970,4904007,7659,Current Account,27/11/2022,,1,Canary Wharf,Z1
+398,2738054,2034,Savings Account,10/11/2023,,4,London Bridge Gateway,Z1
+1601,7014498,2242,Savings Premium,22/09/2023,,3,Notting Hill Gate,Z2
+1026,5095184,5877,Savings Account,02/11/2023,,4,London Bridge Gateway,Z1
+1633,7134144,7828,Current Account,07/12/2023,,6,Stratford City,Z2
+1666,7272913,5795,Savings Account,07/03/2022,,1,Canary Wharf,Z1
+619,3511644,7445,Savings Account,29/11/2023,,1,Canary Wharf,Z1
+2177,8979235,6426,Salary Account,05/08/2022,,6,Stratford City,Z2
+878,4487664,2561,Savings Account,06/10/2022,,4,London Bridge Gateway,Z1
+2021,8479706,4850,Current Account,17/07/2022,,6,Stratford City,Z2
+222,2135376,6617,Current Account,08/06/2023,,6,Stratford City,Z2
+614,3496950,2805,Savings Account,31/07/2022,,6,Stratford City,Z2
+42,1440279,3681,Savings Account,26/07/2023,,4,London Bridge Gateway,Z1
+1650,7187475,5322,Current Account,27/09/2021,,3,Notting Hill Gate,Z2
+1275,5926390,5375,Current Account,21/12/2020,,4,London Bridge Gateway,Z1
+102,1707408,2273,Current Account,06/05/2023,,5,Islington High Street,Z1
+368,2608055,2250,Savings Account,16/11/2023,,3,Notting Hill Gate,Z2
+215,2109931,2577,Current Account,06/12/2023,,1,Canary Wharf,Z1
+2002,8429070,3633,Current Account,06/08/2023,,1,Canary Wharf,Z1
+958,4851147,1941,Savings Account,14/11/2023,,1,Canary Wharf,Z1
+793,4145330,4981,Savings Account,15/01/2022,,4,London Bridge Gateway,Z1
+1937,8205271,2694,Salary Account,29/07/2023,,6,Stratford City,Z2
+748,3924094,6087,Current Account,12/06/2019,,1,Canary Wharf,Z1
+373,2621742,6889,Savings Premium,26/10/2023,,3,Notting Hill Gate,Z2
+1231,5802033,6441,Current Account,25/06/2020,,2,Oxford Circus,Z1
+1419,6408918,1665,Savings Account,03/11/2022,,1,Canary Wharf,Z1
+1464,6542305,4155,Current Account,27/12/2019,,1,Canary Wharf,Z1
+1945,8219268,5887,Savings Account,18/10/2022,,6,Stratford City,Z2
+1571,6898816,3329,Savings Account,05/03/2021,,1,Canary Wharf,Z1
+620,3518289,7482,Current Account,16/03/2023,,4,London Bridge Gateway,Z1
+688,3743022,4602,Savings Account,05/10/2022,,1,Canary Wharf,Z1
+1843,7896248,2721,Current Account,21/12/2023,,1,Canary Wharf,Z1
+365,2601876,4063,Current Account,31/07/2021,,3,Notting Hill Gate,Z2
+1317,6068097,6363,Savings Account,24/01/2023,,4,London Bridge Gateway,Z1
+1916,8135615,7506,Savings Premium,05/12/2023,,2,Oxford Circus,Z1
+592,3415406,7827,Savings Account,16/02/2022,,1,Canary Wharf,Z1
+2192,9026546,2750,Current Account,16/02/2023,,5,Islington High Street,Z1
+549,3247503,2989,Current Account,08/09/2023,,2,Oxford Circus,Z1
+2162,8923255,6256,Salary Account,06/04/2019,,6,Stratford City,Z2
+2328,9519009,5363,Savings Account,20/07/2020,,1,Canary Wharf,Z1
+2364,9646047,7841,Current Account,14/11/2023,,4,London Bridge Gateway,Z1
+256,2257199,5959,Savings Account,24/04/2022,,4,London Bridge Gateway,Z1
+235,2188956,5047,Current Account,15/11/2022,,3,Notting Hill Gate,Z2
+1987,8356422,6547,Current Account,05/09/2023,,1,Canary Wharf,Z1
+1766,7607153,6673,Current Account,04/02/2022,,1,Canary Wharf,Z1
+2129,8841462,5177,Salary Account,19/04/2021,,1,Canary Wharf,Z1
+1695,7371187,5639,Savings Account,18/09/2023,,1,Canary Wharf,Z1
+1256,5869162,6699,Current Account,09/11/2023,16/03/2024,6,Stratford City,Z2
+360,2586368,5344,Salary Account,07/11/2019,,4,London Bridge Gateway,Z1
+20,1341602,6756,Savings Account,22/12/2021,,1,Canary Wharf,Z1
+1501,6676603,6965,Current Account,20/08/2023,,1,Canary Wharf,Z1
+1200,5686628,3723,Salary Account,06/12/2021,,3,Notting Hill Gate,Z2
+1498,6666483,4892,Current Account,02/02/2023,,4,London Bridge Gateway,Z1
+900,4586588,2359,Current Account,13/12/2023,,6,Stratford City,Z2
+1210,5714960,1602,Current Account,10/08/2019,,6,Stratford City,Z2
+657,3637861,6775,Savings Account,02/06/2023,,1,Canary Wharf,Z1
+1028,5102286,4326,Savings Account,23/12/2023,,6,Stratford City,Z2
+291,2388626,7158,Salary Account,15/06/2023,,4,London Bridge Gateway,Z1
+2164,8933807,6116,Savings Account,15/01/2023,,4,London Bridge Gateway,Z1
+1757,7592613,4372,Savings Account,03/02/2021,,3,Notting Hill Gate,Z2
+43,1441541,2221,Current Account,30/10/2018,,1,Canary Wharf,Z1
+89,1667019,2352,Salary Account,24/09/2023,,1,Canary Wharf,Z1
+2116,8790192,6719,Current Account,27/07/2020,,1,Canary Wharf,Z1
+1556,6830650,3211,Savings Account,02/07/2022,,1,Canary Wharf,Z1
+2179,8980514,7210,Salary Account,03/12/2022,,2,Oxford Circus,Z1
+1460,6528516,5623,Savings Account,05/12/2022,,1,Canary Wharf,Z1
+676,3710336,7916,Savings Account,19/12/2023,,1,Canary Wharf,Z1
+1120,5372222,4282,Current Account,15/08/2021,,2,Oxford Circus,Z1
+867,4448024,3011,Current Account,22/11/2020,,4,London Bridge Gateway,Z1
+2395,9747469,5313,Current Account,28/02/2021,,1,Canary Wharf,Z1
+977,4929134,6018,Current Account,23/06/2022,,6,Stratford City,Z2
+652,3614761,6463,Savings Account,14/03/2023,,6,Stratford City,Z2
+1772,7611959,1687,Savings Account,30/09/2021,,1,Canary Wharf,Z1
+1778,7622123,5697,Savings Account,09/05/2023,,1,Canary Wharf,Z1
+188,2009837,6200,Current Account,07/12/2023,,4,London Bridge Gateway,Z1
+405,2760247,2754,Current Account,09/11/2023,,5,Islington High Street,Z1
+1264,5901192,4811,Salary Account,24/04/2022,,5,Islington High Street,Z1
+1683,7317879,5891,Savings Account,05/10/2022,,4,London Bridge Gateway,Z1
+1164,5528934,3590,Current Account,21/10/2023,,5,Islington High Street,Z1
+1642,7155097,3910,Current Account,12/05/2023,,5,Islington High Street,Z1
+1652,7194953,5992,Current Account,21/12/2023,,2,Oxford Circus,Z1
+986,4951488,1772,Savings Account,15/06/2023,,6,Stratford City,Z2
+1105,5326680,6484,Current Account,12/02/2022,,4,London Bridge Gateway,Z1
+874,4465528,5702,Current Account,15/11/2020,,1,Canary Wharf,Z1
+826,4262057,3044,Savings Account,27/02/2022,,1,Canary Wharf,Z1
+165,1948400,7342,Salary Account,12/01/2023,,4,London Bridge Gateway,Z1
+715,3822836,2300,Current Account,15/11/2023,,1,Canary Wharf,Z1
+260,2279145,4786,Savings Account,08/10/2021,,4,London Bridge Gateway,Z1
+540,3204409,5850,Savings Account,12/10/2020,,5,Islington High Street,Z1
+2163,8932756,4035,Savings Account,19/11/2022,,6,Stratford City,Z2
+795,4154194,7296,Savings Account,24/09/2020,,6,Stratford City,Z2
+62,1522105,6400,Savings Account,07/03/2023,,5,Islington High Street,Z1
+1430,6439324,6555,Savings Premium,01/03/2024,,6,Stratford City,Z2
+1637,7143035,3225,Savings Account,27/03/2023,,4,London Bridge Gateway,Z1
+1308,6051082,6410,Savings Account,01/09/2019,,3,Notting Hill Gate,Z2
+1239,5819216,3057,Current Account,25/11/2023,,6,Stratford City,Z2
+50,1483814,7364,Current Account,02/07/2023,,1,Canary Wharf,Z1
+1255,5864371,3001,Savings Account,24/06/2023,,4,London Bridge Gateway,Z1
+1864,7957255,4569,Salary Account,18/04/2023,,1,Canary Wharf,Z1
+2370,9665394,2000,Current Account,26/06/2022,,6,Stratford City,Z2
+2024,8492630,3401,Savings Account,05/04/2020,,1,Canary Wharf,Z1
+346,2556547,6066,Current Account,20/10/2023,,1,Canary Wharf,Z1
+1305,6047537,2973,Savings Account,09/08/2023,,1,Canary Wharf,Z1
+2348,9594008,4120,Current Account,21/05/2023,,4,London Bridge Gateway,Z1
+1205,5709330,1811,Savings Account,28/02/2022,,3,Notting Hill Gate,Z2
+244,2222237,2292,Savings Account,29/04/2022,,3,Notting Hill Gate,Z2
+2335,9544735,7120,Current Account,30/10/2020,,1,Canary Wharf,Z1
+1365,6242484,6746,Current Account,02/10/2020,,1,Canary Wharf,Z1
+1319,6076433,1094,Current Account,07/04/2021,,6,Stratford City,Z2
+1885,8036262,2000,Savings Account,19/02/2022,,5,Islington High Street,Z1
+1013,5051086,6159,Savings Account,04/08/2022,,3,Notting Hill Gate,Z2
+176,1979182,3276,Current Account,04/03/2023,,1,Canary Wharf,Z1
+144,1876349,2762,Salary Account,30/09/2021,,1,Canary Wharf,Z1
+741,3907822,4120,Current Account,21/11/2023,,1,Canary Wharf,Z1
+1067,5236620,6089,Salary Account,03/10/2023,,6,Stratford City,Z2
+1411,6378780,5153,Savings Account,31/12/2023,,3,Notting Hill Gate,Z2
+1254,5863022,1488,Current Account,06/04/2022,,2,Oxford Circus,Z1
+1543,6800003,1765,Savings Account,01/05/2021,,6,Stratford City,Z2
+880,4491252,2118,Current Account,07/03/2022,,1,Canary Wharf,Z1
+1576,6917198,6706,Savings Account,29/10/2018,,1,Canary Wharf,Z1
+467,2955807,4104,Salary Account,03/06/2023,,1,Canary Wharf,Z1
+2146,8873713,2916,Current Account,16/05/2020,,2,Oxford Circus,Z1
+252,2250361,5205,Savings Account,05/09/2021,,3,Notting Hill Gate,Z2
+160,1936271,2841,Current Account,08/11/2020,,3,Notting Hill Gate,Z2
+302,2425566,7871,Savings Account,05/08/2021,,1,Canary Wharf,Z1
+1870,7968657,4439,Current Account,01/11/2019,,6,Stratford City,Z2
+1420,6408967,1050,Salary Account,22/10/2023,,3,Notting Hill Gate,Z2
+383,2666676,2876,Current Account,22/08/2021,,1,Canary Wharf,Z1
+1775,7616184,3996,Savings Account,17/10/2022,,1,Canary Wharf,Z1
+2298,9392772,4392,Salary Account,30/12/2022,,4,London Bridge Gateway,Z1
+744,3914103,5726,Savings Account,06/12/2023,,5,Islington High Street,Z1
+563,3317577,5451,Salary Account,03/05/2020,,5,Islington High Street,Z1
+1960,8268190,6075,Savings Account,03/02/2020,,1,Canary Wharf,Z1
+1263,5898123,6534,Salary Account,15/01/2020,,1,Canary Wharf,Z1
+943,4793280,7211,Current Account,25/02/2023,,4,London Bridge Gateway,Z1
+1316,6068042,3791,Savings Account,07/08/2023,,2,Oxford Circus,Z1
+185,2001477,1204,Savings Account,29/10/2022,,2,Oxford Circus,Z1
+861,4429048,1235,Current Account,06/11/2020,,5,Islington High Street,Z1
+1562,6869086,3238,Salary Account,10/12/2023,,6,Stratford City,Z2
+1083,5275654,5515,Current Account,12/07/2021,,4,London Bridge Gateway,Z1
+1822,7826857,2073,Current Account,06/05/2021,,4,London Bridge Gateway,Z1
+392,2693091,7271,Salary Account,19/11/2022,,4,London Bridge Gateway,Z1
+23,1348037,6926,Current Account,26/02/2018,,6,Stratford City,Z2
+2282,9336969,4210,Salary Account,10/04/2023,,4,London Bridge Gateway,Z1
+1114,5353225,1023,Current Account,17/11/2023,,1,Canary Wharf,Z1
+2113,8782948,2647,Savings Account,08/07/2023,,6,Stratford City,Z2
+724,3843013,7252,Current Account,25/04/2021,,5,Islington High Street,Z1
+1000,5004295,1325,Current Account,03/02/2023,,3,Notting Hill Gate,Z2
+2070,8650716,7991,Savings Account,01/05/2022,,2,Oxford Circus,Z1
+205,2083515,5499,Savings Account,15/08/2022,,4,London Bridge Gateway,Z1
+178,1993541,5197,Current Account,04/12/2023,,1,Canary Wharf,Z1
+720,3831559,2126,Savings Premium,02/01/2022,,1,Canary Wharf,Z1
+2321,9472235,7011,Savings Account,22/01/2023,,5,Islington High Street,Z1
+780,4074307,1962,Savings Account,06/07/2022,,4,London Bridge Gateway,Z1
+1150,5469050,3359,Savings Account,16/01/2023,,1,Canary Wharf,Z1
+246,2235060,2769,Current Account,02/07/2022,,4,London Bridge Gateway,Z1
+40,1427119,6084,Current Account,08/03/2022,,4,London Bridge Gateway,Z1
+1128,5396039,7275,Current Account,25/04/2023,,1,Canary Wharf,Z1
+1890,8049576,6146,Current Account,10/02/2022,,5,Islington High Street,Z1
+1179,5622633,6605,Savings Account,24/10/2018,,1,Canary Wharf,Z1
+2225,9128193,2071,Current Account,06/01/2023,,1,Canary Wharf,Z1
+696,3775094,2165,Savings Account,27/02/2023,,1,Canary Wharf,Z1
+2086,8695258,4876,Savings Premium,16/10/2022,,6,Stratford City,Z2
+1620,7078485,2042,Current Account,17/09/2022,,1,Canary Wharf,Z1
+1036,5137902,4469,Current Account,24/03/2019,,1,Canary Wharf,Z1
+879,4489551,7487,Current Account,07/07/2021,,1,Canary Wharf,Z1
+381,2660260,3883,Current Account,04/11/2022,,2,Oxford Circus,Z1
+510,3111328,2783,Current Account,22/05/2023,,5,Islington High Street,Z1
+1842,7894963,4054,Savings Account,28/11/2023,,6,Stratford City,Z2
+1434,6448022,4577,Savings Account,03/04/2022,,3,Notting Hill Gate,Z2
+773,4025637,3560,Current Account,30/11/2021,,1,Canary Wharf,Z1
+2018,8465136,4808,Savings Account,07/09/2023,,3,Notting Hill Gate,Z2
+268,2304213,2565,Savings Account,03/10/2023,,5,Islington High Street,Z1
+533,3174714,1317,Savings Account,16/12/2022,,3,Notting Hill Gate,Z2
+115,1757121,3068,Current Account,21/12/2023,,6,Stratford City,Z2
+16,1322600,2993,Current Account,12/01/2023,,1,Canary Wharf,Z1
+2056,8609856,7102,Savings Account,19/08/2023,,1,Canary Wharf,Z1
+1664,7266783,6605,Current Account,23/09/2019,,4,London Bridge Gateway,Z1
+1488,6630304,4011,Current Account,10/03/2020,,1,Canary Wharf,Z1
+1791,7660765,7356,Salary Account,15/12/2023,,5,Islington High Street,Z1
+1496,6658134,2295,Current Account,22/04/2021,,3,Notting Hill Gate,Z2
+712,3821450,2046,Savings Account,03/12/2022,,2,Oxford Circus,Z1
+2171,8953645,6540,Current Account,28/09/2020,,4,London Bridge Gateway,Z1
+2336,9545662,4054,Savings Account,15/08/2023,,6,Stratford City,Z2
+377,2655522,3940,Current Account,10/04/2023,,3,Notting Hill Gate,Z2
+15,1321661,7947,Savings Account,29/05/2022,,5,Islington High Street,Z1
+2191,9023616,5610,Savings Account,23/12/2022,,6,Stratford City,Z2
+1569,6896819,2746,Savings Premium,12/11/2021,,2,Oxford Circus,Z1
+653,3620828,2051,Savings Account,17/05/2023,,1,Canary Wharf,Z1
+1773,7613035,4966,Salary Account,03/08/2023,,2,Oxford Circus,Z1
+2030,8528650,7658,Current Account,25/08/2022,,4,London Bridge Gateway,Z1
+1947,8222886,1479,Salary Account,07/09/2023,,1,Canary Wharf,Z1
+316,2471831,7441,Salary Account,02/12/2019,,1,Canary Wharf,Z1
+2189,9003411,6422,Savings Account,02/06/2023,,1,Canary Wharf,Z1
+2404,9770005,1426,Savings Premium,20/11/2022,,3,Notting Hill Gate,Z2
+679,3719101,4905,Savings Account,28/09/2021,,4,London Bridge Gateway,Z1
+445,2888871,3971,Salary Account,12/09/2022,,2,Oxford Circus,Z1
+1203,5690772,2828,Salary Account,23/12/2020,,5,Islington High Street,Z1
+106,1720154,6416,Current Account,16/03/2021,,4,London Bridge Gateway,Z1
+1707,7414518,6170,Current Account,19/10/2023,,4,London Bridge Gateway,Z1
+755,3959962,3489,Current Account,20/10/2023,,4,London Bridge Gateway,Z1
+2009,8449876,4999,Savings Account,21/09/2023,,3,Notting Hill Gate,Z2
+1315,6066827,6884,Savings Account,10/11/2022,,6,Stratford City,Z2
+240,2206323,2761,Salary Account,13/03/2023,,4,London Bridge Gateway,Z1
+483,3022738,6849,Savings Account,11/05/2022,,6,Stratford City,Z2
+1673,7301728,3964,Current Account,02/07/2023,,6,Stratford City,Z2
+2041,8565327,3235,Current Account,02/02/2023,,6,Stratford City,Z2
+1908,8103654,4589,Savings Account,21/07/2023,,1,Canary Wharf,Z1
+1062,5219595,3207,Savings Account,21/08/2023,,6,Stratford City,Z2
+2181,8985176,5703,Current Account,22/09/2022,,1,Canary Wharf,Z1
+1653,7204021,1294,Savings Account,04/01/2023,,1,Canary Wharf,Z1
+2302,9419338,3875,Current Account,05/06/2023,,4,London Bridge Gateway,Z1
+503,3078240,4059,Salary Account,03/02/2021,,3,Notting Hill Gate,Z2
+39,1426359,6605,Current Account,19/11/2022,,6,Stratford City,Z2
+2334,9537446,3198,Current Account,17/11/2020,,2,Oxford Circus,Z1
+1027,5095245,4671,Savings Premium,24/04/2021,,6,Stratford City,Z2
+860,4425675,6528,Current Account,17/05/2022,,6,Stratford City,Z2
+559,3285200,4311,Current Account,03/01/2023,,2,Oxford Circus,Z1
+456,2921048,6921,Current Account,10/06/2022,,3,Notting Hill Gate,Z2
+2007,8446826,5247,Salary Account,31/07/2022,,6,Stratford City,Z2
+1753,7562355,6123,Savings Account,22/11/2020,,1,Canary Wharf,Z1
+543,3217983,7529,Savings Account,28/11/2022,,1,Canary Wharf,Z1
+1957,8264510,7028,Current Account,15/12/2021,,3,Notting Hill Gate,Z2
+1817,7777390,1709,Current Account,01/02/2024,,1,Canary Wharf,Z1
+507,3099905,3791,Savings Account,04/03/2022,,1,Canary Wharf,Z1
+589,3399313,5969,Savings Account,13/02/2023,,3,Notting Hill Gate,Z2
+1509,6706941,4409,Current Account,17/02/2023,,3,Notting Hill Gate,Z2
+1445,6480985,3786,Current Account,20/12/2023,,2,Oxford Circus,Z1
+2011,8456345,4432,Savings Account,29/08/2021,,3,Notting Hill Gate,Z2
+572,3347152,1174,Savings Account,14/11/2023,,3,Notting Hill Gate,Z2
+2187,9002416,6946,Savings Account,20/09/2022,,1,Canary Wharf,Z1
+1680,7310378,3983,Current Account,27/11/2023,,5,Islington High Street,Z1
+759,3963382,1828,Salary Account,08/08/2020,,5,Islington High Street,Z1
+220,2128002,5537,Current Account,10/12/2023,,2,Oxford Circus,Z1
+1535,6782458,1021,Current Account,16/09/2023,,1,Canary Wharf,Z1
+2050,8585820,1913,Savings Account,16/04/2022,,1,Canary Wharf,Z1
+677,3712324,3564,Salary Account,19/08/2019,,6,Stratford City,Z2
+1055,5198433,3508,Savings Account,31/03/2020,,5,Islington High Street,Z1
+544,3221787,3571,Savings Account,26/12/2022,,1,Canary Wharf,Z1
+1523,6746814,6337,Savings Account,15/01/2021,,3,Notting Hill Gate,Z2
+2029,8527157,3001,Savings Account,22/08/2021,,4,London Bridge Gateway,Z1
+1911,8126162,4268,Savings Account,28/02/2023,,3,Notting Hill Gate,Z2
+1303,6036041,4896,Savings Account,01/08/2019,,4,London Bridge Gateway,Z1
+2000,8422426,7943,Savings Account,23/07/2020,,1,Canary Wharf,Z1
+716,3824251,5526,Savings Account,13/10/2023,,4,London Bridge Gateway,Z1
+1243,5836680,6875,Savings Account,06/11/2023,,4,London Bridge Gateway,Z1
+250,2245421,7732,Savings Account,24/10/2023,,1,Canary Wharf,Z1
+892,4574137,6904,Current Account,18/04/2023,,6,Stratford City,Z2
+1221,5756144,4782,Savings Account,02/07/2021,,4,London Bridge Gateway,Z1
+772,4025196,1908,Savings Account,22/06/2023,,4,London Bridge Gateway,Z1
+2243,9182607,2943,Current Account,14/12/2023,,3,Notting Hill Gate,Z2
+2053,8599073,6255,Savings Account,05/07/2021,,4,London Bridge Gateway,Z1
+1934,8195315,7350,Current Account,03/04/2022,,3,Notting Hill Gate,Z2
+2402,9761367,7533,Salary Account,07/03/2023,,6,Stratford City,Z2
+1151,5469374,2614,Savings Account,28/01/2022,,5,Islington High Street,Z1
+611,3484203,1083,Savings Account,08/07/2019,,5,Islington High Street,Z1
+2346,9583970,3886,Salary Account,03/01/2022,,4,London Bridge Gateway,Z1
+1788,7652528,6577,Current Account,14/01/2019,,4,London Bridge Gateway,Z1
+2409,9786083,5612,Current Account,31/12/2020,,1,Canary Wharf,Z1
+376,2649308,4021,Current Account,27/04/2023,,5,Islington High Street,Z1
+2367,9656781,4622,Savings Account,07/08/2023,,6,Stratford City,Z2
+1368,6253475,3769,Current Account,11/09/2023,,4,London Bridge Gateway,Z1
+1968,8297046,1979,Current Account,11/12/2023,,6,Stratford City,Z2
+457,2921363,5636,Savings Account,04/12/2022,,5,Islington High Street,Z1
+810,4189587,7911,Current Account,17/09/2023,,6,Stratford City,Z2
+506,3094921,6982,Salary Account,05/08/2021,,3,Notting Hill Gate,Z2
+984,4946863,1204,Savings Account,20/06/2023,,4,London Bridge Gateway,Z1
+633,3556031,5099,Current Account,31/05/2021,,5,Islington High Street,Z1
+865,4439894,4763,Current Account,05/09/2018,,4,London Bridge Gateway,Z1
+425,2806445,5441,Savings Premium,29/05/2021,,4,London Bridge Gateway,Z1
+1338,6153215,1222,Savings Account,21/09/2023,,6,Stratford City,Z2
+906,4616635,2634,Current Account,20/06/2022,,6,Stratford City,Z2
+1807,7725291,5716,Savings Account,30/06/2023,,4,London Bridge Gateway,Z1
+1470,6572612,2871,Current Account,01/10/2020,,1,Canary Wharf,Z1
+2017,8464268,2036,Current Account,23/10/2023,,4,London Bridge Gateway,Z1
+2272,9277400,5848,Current Account,20/08/2020,,2,Oxford Circus,Z1
+2015,8459692,4885,Current Account,10/12/2023,,6,Stratford City,Z2
+1951,8242241,6893,Current Account,26/01/2022,,6,Stratford City,Z2
+995,4996323,1499,Savings Premium,09/10/2022,,2,Oxford Circus,Z1
+924,4710036,2737,Current Account,26/03/2020,,5,Islington High Street,Z1
+1495,6657034,4806,Savings Account,06/05/2020,,1,Canary Wharf,Z1
+1084,5277275,2571,Savings Account,01/01/2024,,1,Canary Wharf,Z1
+1023,5089342,7342,Current Account,03/09/2018,,5,Islington High Street,Z1
+936,4774915,3418,Savings Account,01/01/2021,,6,Stratford City,Z2
+902,4603277,4777,Savings Account,10/05/2019,,4,London Bridge Gateway,Z1
+978,4932879,2030,Current Account,16/08/2023,,4,London Bridge Gateway,Z1
+1172,5583012,2120,Current Account,12/06/2023,,1,Canary Wharf,Z1
+1660,7256835,3167,Salary Account,02/09/2022,,3,Notting Hill Gate,Z2
+1872,7983392,6255,Current Account,08/06/2019,,1,Canary Wharf,Z1
+518,3144040,1303,Salary Account,09/12/2023,,1,Canary Wharf,Z1
+138,1855586,1172,Current Account,17/02/2019,,1,Canary Wharf,Z1
+355,2577833,6850,Current Account,31/10/2023,,1,Canary Wharf,Z1
+2095,8726322,1660,Current Account,26/09/2023,,2,Oxford Circus,Z1
+685,3735215,5864,Current Account,25/09/2022,,4,London Bridge Gateway,Z1
+245,2227083,3059,Savings Premium,07/02/2022,,2,Oxford Circus,Z1
+1265,5901765,5074,Savings Account,26/12/2023,,3,Notting Hill Gate,Z2
+162,1940258,2266,Savings Premium,28/07/2023,,4,London Bridge Gateway,Z1
+761,3982034,2362,Savings Account,14/09/2021,,6,Stratford City,Z2
+1959,8267926,6350,Current Account,23/08/2023,,1,Canary Wharf,Z1
+975,4915784,1616,Savings Account,03/04/2020,,3,Notting Hill Gate,Z2
+58,1506999,3029,Savings Premium,02/03/2020,,1,Canary Wharf,Z1
+964,4879680,4137,Savings Account,26/11/2023,,4,London Bridge Gateway,Z1
+2216,9103276,5566,Savings Premium,31/01/2020,,4,London Bridge Gateway,Z1
+794,4150607,1217,Savings Account,26/06/2022,,6,Stratford City,Z2
+2178,8980204,7984,Current Account,19/11/2023,,2,Oxford Circus,Z1
+1324,6090617,2936,Savings Premium,21/06/2022,,6,Stratford City,Z2
+277,2360810,2545,Current Account,28/07/2023,,4,London Bridge Gateway,Z1
+1309,6053672,7194,Savings Account,04/09/2022,,2,Oxford Circus,Z1
+496,3064122,4677,Savings Account,27/01/2023,,1,Canary Wharf,Z1
+568,3328735,6979,Savings Account,22/01/2021,,3,Notting Hill Gate,Z2
+338,2525296,4232,Savings Account,12/11/2022,,6,Stratford City,Z2
+2246,9198215,1079,Current Account,16/11/2021,,3,Notting Hill Gate,Z2
+1553,6826486,7783,Savings Account,18/01/2021,,4,London Bridge Gateway,Z1
+1404,6336863,4606,Savings Account,31/08/2023,,5,Islington High Street,Z1
+514,3127718,6511,Salary Account,02/11/2022,,1,Canary Wharf,Z1
+2423,9860608,6397,Savings Account,23/07/2022,,4,London Bridge Gateway,Z1
+1741,7524490,2674,Salary Account,04/06/2020,,5,Islington High Street,Z1
+1476,6588376,2222,Current Account,08/10/2021,,6,Stratford City,Z2
+610,3481555,4227,Current Account,17/07/2023,,3,Notting Hill Gate,Z2
+1612,7039803,4836,Savings Account,01/08/2023,,1,Canary Wharf,Z1
+692,3765018,3779,Savings Premium,02/01/2023,,2,Oxford Circus,Z1
+782,4079629,5697,Current Account,21/08/2023,,4,London Bridge Gateway,Z1
+27,1364186,4100,Savings Account,10/09/2020,,6,Stratford City,Z2
+1091,5297884,1893,Savings Account,20/04/2021,,6,Stratford City,Z2
+214,2108351,4273,Savings Account,21/04/2023,,6,Stratford City,Z2
+606,3465698,7546,Current Account,21/11/2023,,6,Stratford City,Z2
+587,3393113,1888,Current Account,09/02/2023,,4,London Bridge Gateway,Z1
+2101,8759704,3493,Current Account,06/11/2023,,3,Notting Hill Gate,Z2
+1888,8047310,3025,Current Account,28/05/2023,,6,Stratford City,Z2
+1453,6505620,4608,Savings Account,11/05/2023,,3,Notting Hill Gate,Z2
+334,2515933,5016,Savings Account,01/06/2020,,4,London Bridge Gateway,Z1
+529,3166727,4901,Current Account,26/08/2020,,1,Canary Wharf,Z1
+1169,5551726,1474,Salary Account,21/08/2022,,2,Oxford Circus,Z1
+2190,9018340,6865,Savings Account,15/11/2023,,1,Canary Wharf,Z1
+1742,7531105,6086,Current Account,15/08/2022,,4,London Bridge Gateway,Z1
+521,3148564,6318,Current Account,25/10/2023,,2,Oxford Circus,Z1
+1881,8019590,1410,Savings Account,22/12/2023,,1,Canary Wharf,Z1
+1097,5308989,7823,Salary Account,01/08/2022,,6,Stratford City,Z2
+2185,8996111,6915,Current Account,30/05/2022,,4,London Bridge Gateway,Z1
+70,1562191,6490,Current Account,04/07/2022,,1,Canary Wharf,Z1
+2274,9295093,3452,Savings Account,30/04/2023,,4,London Bridge Gateway,Z1
+1907,8098756,3559,Current Account,30/06/2021,,4,London Bridge Gateway,Z1
+2255,9223181,3519,Savings Account,14/10/2023,,1,Canary Wharf,Z1
+2215,9101690,7317,Current Account,19/05/2023,,5,Islington High Street,Z1
+2265,9265167,7938,Savings Account,20/09/2022,,4,London Bridge Gateway,Z1
+103,1710528,6878,Savings Account,19/04/2022,,4,London Bridge Gateway,Z1
+1555,6829855,2148,Savings Account,18/06/2019,,1,Canary Wharf,Z1
+1461,6529319,3446,Current Account,17/07/2023,,6,Stratford City,Z2
+2233,9160122,5636,Savings Account,19/10/2023,,5,Islington High Street,Z1
+361,2587027,7992,Current Account,01/03/2021,,2,Oxford Circus,Z1
+1366,6243435,3426,Savings Account,14/10/2023,,1,Canary Wharf,Z1
+1288,5986587,7794,Current Account,05/09/2020,,3,Notting Hill Gate,Z2
+617,3510565,4329,Salary Account,24/11/2023,,1,Canary Wharf,Z1
+985,4948425,5444,Current Account,21/02/2023,,1,Canary Wharf,Z1
+1345,6184185,5954,Current Account,29/03/2019,,1,Canary Wharf,Z1
+1855,7928479,3317,Current Account,06/12/2023,,4,London Bridge Gateway,Z1
+448,2898438,1029,Salary Account,28/12/2023,,4,London Bridge Gateway,Z1
+1871,7972519,2481,Current Account,12/01/2022,,1,Canary Wharf,Z1
+2069,8647354,4024,Savings Account,22/10/2019,,4,London Bridge Gateway,Z1
+247,2239673,1205,Savings Account,25/07/2023,,4,London Bridge Gateway,Z1
+959,4852586,3193,Salary Account,04/09/2023,,4,London Bridge Gateway,Z1
+1837,7885893,2056,Savings Account,23/05/2019,,1,Canary Wharf,Z1
+1640,7149463,6949,Savings Account,07/12/2023,,4,London Bridge Gateway,Z1
+2193,9028353,6626,Savings Premium,27/02/2023,,5,Islington High Street,Z1
+1400,6321150,5715,Current Account,19/08/2023,,1,Canary Wharf,Z1
+1047,5173291,2763,Current Account,24/03/2022,,1,Canary Wharf,Z1
+1532,6775393,6342,Current Account,16/04/2022,,3,Notting Hill Gate,Z2
+1853,7923854,4365,Savings Account,15/10/2023,,6,Stratford City,Z2
+1974,8324793,6169,Current Account,03/09/2023,,4,London Bridge Gateway,Z1
+1573,6911358,4290,Current Account,23/03/2023,,6,Stratford City,Z2
+413,2783011,1013,Current Account,21/01/2023,,4,London Bridge Gateway,Z1
+36,1396730,2451,Savings Account,10/12/2019,,6,Stratford City,Z2
+583,3375739,2720,Salary Account,19/04/2021,,5,Islington High Street,Z1
+110,1734414,5831,Current Account,21/03/2022,,1,Canary Wharf,Z1
+1659,7252048,7761,Current Account,21/12/2022,,2,Oxford Circus,Z1
+1408,6357930,2111,Savings Account,26/01/2022,,6,Stratford City,Z2
+2324,9484638,4133,Current Account,20/05/2021,,2,Oxford Circus,Z1
+670,3684800,4690,Salary Account,22/10/2019,,1,Canary Wharf,Z1
+1224,5765730,5271,Savings Account,11/08/2022,,6,Stratford City,Z2
+726,3860681,5139,Savings Account,24/07/2023,,3,Notting Hill Gate,Z2
+1942,8213409,1840,Current Account,22/06/2023,,6,Stratford City,Z2
+435,2858730,5499,Salary Account,24/06/2022,,2,Oxford Circus,Z1
+1046,5168649,6177,Current Account,01/10/2023,,4,London Bridge Gateway,Z1
+1554,6827386,5967,Current Account,08/11/2023,,6,Stratford City,Z2
+686,3737620,5174,Current Account,26/11/2023,,5,Islington High Street,Z1
+704,3798751,2667,Current Account,18/11/2023,,4,London Bridge Gateway,Z1
+135,1850175,4266,Savings Account,05/09/2023,,1,Canary Wharf,Z1
+121,1773052,2557,Current Account,09/12/2023,,3,Notting Hill Gate,Z2
+320,2477392,1569,Savings Account,25/05/2023,,4,London Bridge Gateway,Z1
+697,3780056,3619,Savings Premium,19/04/2023,,1,Canary Wharf,Z1
+249,2244996,7840,Current Account,23/12/2020,,5,Islington High Street,Z1
+55,1498435,3875,Savings Account,18/10/2023,,2,Oxford Circus,Z1
+701,3795356,1468,Savings Account,27/05/2022,,6,Stratford City,Z2
+255,2257198,2065,Savings Account,26/04/2021,,6,Stratford City,Z2
+187,2006100,1158,Savings Account,23/12/2023,,1,Canary Wharf,Z1
+354,2573187,1653,Savings Account,31/03/2019,,2,Oxford Circus,Z1
+207,2086764,6745,Savings Account,08/12/2019,,1,Canary Wharf,Z1
+1452,6501130,2852,Savings Account,23/11/2018,,2,Oxford Circus,Z1
+1873,7985658,7322,Current Account,02/07/2023,,6,Stratford City,Z2
+2014,8459041,7482,Savings Account,23/11/2022,,5,Islington High Street,Z1
+504,3078758,3175,Savings Account,27/06/2022,,6,Stratford City,Z2
+2223,9122057,5882,Savings Account,15/12/2021,,5,Islington High Street,Z1
+423,2802380,1721,Current Account,01/04/2023,,3,Notting Hill Gate,Z2
+2398,9751985,3906,Salary Account,20/04/2023,,4,London Bridge Gateway,Z1
+526,3160126,5058,Salary Account,11/02/2023,,5,Islington High Street,Z1
+1526,6764694,4559,Savings Account,01/09/2021,,6,Stratford City,Z2
+1332,6121233,2450,Current Account,14/10/2023,,5,Islington High Street,Z1
+1121,5382494,2092,Savings Account,18/07/2021,,6,Stratford City,Z2
+2032,8540761,7601,Savings Account,01/01/2022,,6,Stratford City,Z2
+2019,8466338,4943,Salary Account,20/12/2023,,6,Stratford City,Z2
+535,3181820,1840,Current Account,21/02/2022,,1,Canary Wharf,Z1
+67,1553332,6660,Savings Premium,18/08/2023,,4,London Bridge Gateway,Z1
+672,3691961,2558,Savings Account,16/11/2023,,5,Islington High Street,Z1
+771,4024737,7308,Savings Account,01/11/2022,,6,Stratford City,Z2
+404,2759706,1699,Savings Account,08/09/2022,,4,London Bridge Gateway,Z1
+1195,5678451,6896,Current Account,12/06/2022,,2,Oxford Circus,Z1
+797,4157866,2304,Savings Account,18/05/2021,,1,Canary Wharf,Z1
+1306,6048113,5594,Savings Account,04/03/2022,,3,Notting Hill Gate,Z2
+705,3799229,2837,Current Account,02/12/2022,,3,Notting Hill Gate,Z2
+1770,7609999,3016,Savings Account,17/11/2022,,2,Oxford Circus,Z1
+2252,9215415,3157,Savings Account,26/03/2022,,6,Stratford City,Z2
+2218,9109673,3356,Savings Premium,20/11/2023,,1,Canary Wharf,Z1
+1448,6495915,6531,Savings Account,14/12/2020,,1,Canary Wharf,Z1
+1437,6462907,3576,Savings Account,24/07/2023,,1,Canary Wharf,Z1
+1644,7168242,7027,Savings Account,15/01/2023,,1,Canary Wharf,Z1
+1406,6345813,5542,Savings Premium,13/12/2023,,2,Oxford Circus,Z1
+1019,5075214,4633,Current Account,01/01/2021,,2,Oxford Circus,Z1
+2341,9568200,2633,Current Account,19/09/2020,,6,Stratford City,Z2
+497,3067017,5503,Savings Account,01/01/2024,,1,Canary Wharf,Z1
+982,4942797,5371,Savings Account,02/06/2022,,4,London Bridge Gateway,Z1
+728,3875389,6138,Current Account,27/11/2023,,4,London Bridge Gateway,Z1
+2280,9334054,7833,Current Account,10/12/2018,,4,London Bridge Gateway,Z1
+624,3536917,2797,Salary Account,07/04/2021,,5,Islington High Street,Z1
+14,1321430,3253,Current Account,23/11/2020,,1,Canary Wharf,Z1
+1672,7299332,1426,Savings Account,07/07/2019,,4,London Bridge Gateway,Z1
+279,2362488,1816,Savings Account,05/07/2023,,3,Notting Hill Gate,Z2
+1199,5683868,2644,Savings Account,10/09/2019,,2,Oxford Circus,Z1
+1325,6090949,6508,Savings Account,08/06/2022,,1,Canary Wharf,Z1
+2253,9220540,6123,Savings Account,17/12/2022,,1,Canary Wharf,Z1
+468,2959090,1465,Salary Account,09/10/2023,,1,Canary Wharf,Z1
+293,2392449,7732,Savings Account,10/04/2022,,4,London Bridge Gateway,Z1
+2159,8913089,7913,Current Account,16/10/2023,,1,Canary Wharf,Z1
+1821,7810463,2392,Current Account,11/10/2021,,1,Canary Wharf,Z1
+1191,5672423,4039,Savings Account,13/02/2023,,6,Stratford City,Z2
+580,3370034,6977,Current Account,06/09/2021,,1,Canary Wharf,Z1
+2425,9870149,4570,Salary Account,20/06/2022,,4,London Bridge Gateway,Z1
+1443,6478191,5630,Salary Account,29/05/2023,,1,Canary Wharf,Z1
+1906,8094148,6410,Savings Account,03/10/2018,,2,Oxford Circus,Z1
+1512,6718062,7780,Current Account,05/12/2020,,2,Oxford Circus,Z1
+1832,7873109,6926,Current Account,08/12/2023,,4,London Bridge Gateway,Z1
+432,2854582,3636,Savings Account,24/04/2022,,6,Stratford City,Z2
+379,2657133,7103,Savings Account,02/09/2019,,1,Canary Wharf,Z1
+1382,6276069,4348,Current Account,06/10/2023,,3,Notting Hill Gate,Z2
+1910,8119490,6710,Current Account,05/05/2023,,1,Canary Wharf,Z1
+2413,9802225,4789,Savings Account,27/04/2023,,3,Notting Hill Gate,Z2
+1475,6584913,6230,Savings Premium,10/07/2018,,1,Canary Wharf,Z1
+407,2765293,4441,Savings Account,07/04/2023,,4,London Bridge Gateway,Z1
+1293,6008652,7854,Salary Account,06/11/2022,,6,Stratford City,Z2
+230,2175952,6123,Savings Account,05/01/2022,,2,Oxford Circus,Z1
+1649,7181034,1612,Current Account,07/04/2023,,4,London Bridge Gateway,Z1
+786,4105730,1076,Current Account,04/11/2021,,5,Islington High Street,Z1
+201,2078136,4318,Current Account,20/07/2018,,1,Canary Wharf,Z1
+1563,6873817,7594,Current Account,22/05/2022,,6,Stratford City,Z2
+156,1909919,1945,Savings Account,09/02/2022,,6,Stratford City,Z2
+845,4360290,6508,Savings Account,27/11/2023,,1,Canary Wharf,Z1
+327,2493879,4754,Current Account,12/09/2023,,4,London Bridge Gateway,Z1
+2257,9233683,1871,Savings Account,14/07/2020,,1,Canary Wharf,Z1
+1125,5390949,1596,Salary Account,05/11/2022,,2,Oxford Circus,Z1
+387,2672208,5892,Current Account,30/03/2023,,1,Canary Wharf,Z1
+1446,6484460,1254,Current Account,09/01/2023,,2,Oxford Circus,Z1
+2154,8900481,6270,Salary Account,28/05/2023,,5,Islington High Street,Z1
+136,1851317,5997,Savings Account,08/05/2022,,1,Canary Wharf,Z1
+2047,8584599,5754,Current Account,30/06/2023,,3,Notting Hill Gate,Z2
+505,3094386,5522,Savings Premium,02/10/2022,,1,Canary Wharf,Z1
+1072,5248986,5503,Savings Account,28/07/2023,,5,Islington High Street,Z1
+454,2918338,6339,Current Account,11/01/2022,,6,Stratford City,Z2
+1296,6017063,2628,Savings Premium,20/02/2020,,5,Islington High Street,Z1
+1787,7652485,6076,Savings Account,03/03/2023,,6,Stratford City,Z2
+419,2798641,5408,Current Account,11/09/2020,,4,London Bridge Gateway,Z1
+1322,6087535,6353,Current Account,05/10/2023,,1,Canary Wharf,Z1
+645,3585584,3672,Current Account,13/07/2022,,3,Notting Hill Gate,Z2
+4,1260745,3773,Savings Account,30/05/2023,,6,Stratford City,Z2
+1691,7355368,3640,Savings Account,01/11/2020,,1,Canary Wharf,Z1
+2220,9111245,6967,Current Account,11/07/2019,,2,Oxford Circus,Z1
+1207,5711083,2755,Savings Account,07/10/2020,,3,Notting Hill Gate,Z2
+1721,7458251,2647,Salary Account,05/01/2022,,1,Canary Wharf,Z1
+968,4898838,2250,Savings Account,21/10/2023,,1,Canary Wharf,Z1
+2115,8785417,4406,Savings Account,10/09/2022,,4,London Bridge Gateway,Z1
+1262,5896407,4780,Savings Account,03/12/2023,,1,Canary Wharf,Z1
+1849,7915590,1931,Current Account,29/12/2022,,1,Canary Wharf,Z1
+1841,7893317,1612,Current Account,29/11/2020,,6,Stratford City,Z2
+182,1996476,5432,Current Account,11/06/2022,,1,Canary Wharf,Z1
+243,2219860,5974,Savings Account,13/10/2022,,2,Oxford Circus,Z1
+2023,8482738,1169,Current Account,23/11/2022,,6,Stratford City,Z2
+1565,6878298,4567,Current Account,14/10/2019,,4,London Bridge Gateway,Z1
+1375,6265794,5259,Savings Account,20/07/2022,,1,Canary Wharf,Z1
+233,2181473,3672,Savings Account,08/03/2022,,1,Canary Wharf,Z1
+980,4934525,2681,Savings Account,21/12/2021,,1,Canary Wharf,Z1
+1682,7316639,4495,Savings Account,13/12/2023,,4,London Bridge Gateway,Z1
+87,1654343,1951,Current Account,21/11/2022,,5,Islington High Street,Z1
+1440,6468274,7962,Salary Account,13/05/2019,,1,Canary Wharf,Z1
+1591,6959409,1658,Current Account,20/10/2023,,4,London Bridge Gateway,Z1
+2090,8713423,5371,Salary Account,20/03/2019,,4,London Bridge Gateway,Z1
+1690,7352337,7668,Current Account,16/04/2023,,6,Stratford City,Z2
+907,4624638,5934,Salary Account,15/06/2019,,4,London Bridge Gateway,Z1
+742,3913138,4399,Current Account,06/06/2022,,4,London Bridge Gateway,Z1
+917,4665661,4344,Current Account,14/07/2023,,2,Oxford Circus,Z1
+1113,5343103,6201,Savings Account,26/10/2023,,4,London Bridge Gateway,Z1
+2148,8875115,1262,Current Account,21/12/2021,,1,Canary Wharf,Z1
+1878,8015432,7746,Current Account,07/02/2023,,1,Canary Wharf,Z1
+1063,5221441,5963,Savings Account,30/09/2022,,5,Islington High Street,Z1
+2201,9042532,5726,Current Account,27/11/2023,,6,Stratford City,Z2
+1899,8081548,4298,Savings Account,22/06/2020,,1,Canary Wharf,Z1
+961,4864831,1524,Current Account,20/09/2023,,6,Stratford City,Z2
+890,4570442,4367,Current Account,11/09/2021,,6,Stratford City,Z2
+125,1783388,3404,Savings Account,28/11/2021,,4,London Bridge Gateway,Z1
+1527,6765041,2209,Current Account,17/05/2021,,6,Stratford City,Z2
+2075,8656339,1308,Savings Account,11/11/2023,,4,London Bridge Gateway,Z1
+1689,7346429,3662,Savings Account,24/03/2022,,5,Islington High Street,Z1
+2286,9357694,3647,Current Account,16/07/2018,,3,Notting Hill Gate,Z2
+237,2196808,5553,Current Account,18/07/2023,,1,Canary Wharf,Z1
+174,1977675,1908,Savings Account,20/07/2023,,1,Canary Wharf,Z1
+1861,7952933,1744,Current Account,07/04/2022,,4,London Bridge Gateway,Z1
+2099,8753621,3474,Salary Account,17/06/2023,,1,Canary Wharf,Z1
+2098,8736090,4717,Savings Account,07/09/2021,,5,Islington High Street,Z1
+1913,8126725,5098,Salary Account,03/04/2023,,3,Notting Hill Gate,Z2
+173,1976669,4727,Savings Account,26/07/2021,,4,London Bridge Gateway,Z1
+689,3748605,1363,Savings Account,11/05/2020,,2,Oxford Circus,Z1
+157,1922746,2145,Current Account,24/03/2022,,1,Canary Wharf,Z1
+357,2580871,2589,Salary Account,23/09/2020,,1,Canary Wharf,Z1
+2273,9284265,5015,Current Account,26/05/2021,,1,Canary Wharf,Z1
+1369,6254819,7139,Savings Account,04/02/2023,,1,Canary Wharf,Z1
+1069,5240992,4893,Current Account,16/10/2023,,4,London Bridge Gateway,Z1
+931,4758999,3320,Savings Account,21/04/2022,,1,Canary Wharf,Z1
+2081,8676241,2407,Current Account,28/04/2022,,4,London Bridge Gateway,Z1
+815,4230370,6072,Salary Account,26/03/2023,,4,London Bridge Gateway,Z1
+560,3290076,6744,Savings Premium,12/08/2023,,4,London Bridge Gateway,Z1
+1402,6332675,4429,Savings Account,08/05/2023,,6,Stratford City,Z2
+217,2113609,2268,Savings Account,31/05/2021,,4,London Bridge Gateway,Z1
+2403,9765521,6493,Savings Premium,29/07/2023,,1,Canary Wharf,Z1
+1362,6240200,6946,Savings Account,19/11/2022,,4,London Bridge Gateway,Z1
+837,4327609,5729,Current Account,03/01/2023,,4,London Bridge Gateway,Z1
+167,1963477,6242,Current Account,01/01/2024,,6,Stratford City,Z2
+1580,6927053,4809,Salary Account,25/05/2022,,5,Islington High Street,Z1
+981,4939735,3350,Savings Account,18/10/2023,,3,Notting Hill Gate,Z2
+1266,5902871,2912,Savings Account,29/12/2023,,1,Canary Wharf,Z1
+265,2295946,3844,Current Account,23/02/2023,,1,Canary Wharf,Z1
+1740,7523289,5461,Savings Account,11/10/2023,,5,Islington High Street,Z1
+532,3171071,5308,Savings Account,02/08/2022,,5,Islington High Street,Z1
+1483,6614368,4108,Salary Account,13/02/2023,,3,Notting Hill Gate,Z2
+1667,7284427,4626,Savings Account,22/04/2019,,4,London Bridge Gateway,Z1
+2106,8766261,4052,Savings Account,29/07/2022,,5,Islington High Street,Z1
+866,4440683,6711,Savings Account,16/03/2022,,6,Stratford City,Z2
+475,2988547,7833,Current Account,05/04/2020,,5,Islington High Street,Z1
+48,1471870,7230,Current Account,10/11/2023,,4,London Bridge Gateway,Z1
+1015,5052918,7930,Current Account,16/08/2023,,2,Oxford Circus,Z1
+2256,9224581,5931,Savings Account,23/11/2023,,1,Canary Wharf,Z1
+694,3767144,1355,Savings Account,25/07/2019,,1,Canary Wharf,Z1
+2365,9653219,2044,Salary Account,18/09/2023,,3,Notting Hill Gate,Z2
+508,3102325,1900,Current Account,21/06/2022,,4,London Bridge Gateway,Z1
+1935,8196078,1058,Current Account,07/05/2022,,1,Canary Wharf,Z1
+2235,9164603,2012,Current Account,15/12/2021,,4,London Bridge Gateway,Z1
+1678,7307792,2915,Savings Account,02/11/2020,,2,Oxford Circus,Z1
+34,1392162,6218,Current Account,17/09/2023,,4,London Bridge Gateway,Z1
+854,4418959,6999,Savings Account,05/12/2022,,2,Oxford Circus,Z1
+301,2423289,6653,Current Account,06/05/2023,,6,Stratford City,Z2
+1165,5533555,4852,Current Account,03/12/2023,,3,Notting Hill Gate,Z2
+920,4691975,1740,Salary Account,21/01/2023,,6,Stratford City,Z2
+330,2498718,6305,Current Account,06/10/2022,,1,Canary Wharf,Z1
+709,3808765,6473,Savings Account,11/12/2023,,1,Canary Wharf,Z1
+1525,6763292,3541,Current Account,28/02/2023,,6,Stratford City,Z2
+1326,6091759,6599,Salary Account,19/07/2023,,4,London Bridge Gateway,Z1
+1259,5876423,1694,Current Account,03/03/2022,,4,London Bridge Gateway,Z1
+49,1482095,5187,Savings Account,24/06/2023,,1,Canary Wharf,Z1
+397,2735401,3059,Salary Account,03/08/2022,,1,Canary Wharf,Z1
+1061,5214151,4907,Salary Account,24/09/2020,,4,London Bridge Gateway,Z1
+754,3956556,7123,Salary Account,09/06/2021,,3,Notting Hill Gate,Z2
+775,4039774,3844,Current Account,22/01/2023,,2,Oxford Circus,Z1
+2283,9341320,3281,Savings Account,04/08/2022,,4,London Bridge Gateway,Z1
+1300,6028222,5834,Salary Account,09/08/2020,,6,Stratford City,Z2
+198,2069376,4389,Current Account,19/01/2022,,4,London Bridge Gateway,Z1
+1647,7178449,3475,Current Account,28/11/2020,,2,Oxford Circus,Z1
+1513,6726566,3555,Savings Premium,06/11/2023,,5,Islington High Street,Z1
+671,3691426,4166,Savings Account,18/02/2021,,5,Islington High Street,Z1
+1398,6315053,7361,Current Account,13/10/2023,,6,Stratford City,Z2
+1249,5843884,6400,Savings Account,01/09/2022,,4,London Bridge Gateway,Z1
+1926,8172888,4348,Savings Account,09/07/2022,,5,Islington High Street,Z1
+586,3388551,4855,Current Account,15/03/2021,,1,Canary Wharf,Z1
+1190,5671618,4227,Current Account,17/12/2022,,1,Canary Wharf,Z1
+1730,7495729,3753,Savings Account,20/05/2022,,5,Islington High Street,Z1
+1972,8313173,5756,Savings Account,25/04/2020,,5,Islington High Street,Z1
+1229,5793123,5562,Current Account,12/11/2023,,3,Notting Hill Gate,Z2
+343,2550298,6471,Current Account,06/01/2020,,6,Stratford City,Z2
+2314,9452763,5612,Current Account,05/11/2022,,6,Stratford City,Z2
+241,2215686,2616,Savings Account,06/09/2019,,2,Oxford Circus,Z1
+11,1288947,5082,Savings Account,15/10/2023,,1,Canary Wharf,Z1
+1928,8177139,7086,Current Account,25/05/2022,,4,London Bridge Gateway,Z1
+1981,8340922,5243,Savings Account,18/08/2021,,1,Canary Wharf,Z1
+585,3387597,2242,Savings Account,10/02/2023,,4,London Bridge Gateway,Z1
+1334,6124188,7590,Savings Account,20/06/2022,,1,Canary Wharf,Z1
+1282,5961845,6462,Salary Account,11/02/2021,,1,Canary Wharf,Z1
+1085,5277286,2614,Savings Account,02/05/2021,,1,Canary Wharf,Z1
+97,1681951,2269,Current Account,29/04/2021,,5,Islington High Street,Z1
+1318,6069992,6223,Savings Account,08/02/2021,,5,Islington High Street,Z1
+897,4581048,7198,Current Account,25/03/2020,,3,Notting Hill Gate,Z2
+2217,9104861,2286,Savings Account,09/06/2022,,4,London Bridge Gateway,Z1
+1820,7796642,6422,Current Account,16/05/2023,,5,Islington High Street,Z1
+1290,6000039,4836,Current Account,17/05/2023,,5,Islington High Street,Z1
+710,3817706,6986,Current Account,31/12/2021,,1,Canary Wharf,Z1
+2139,8857212,1295,Savings Account,16/02/2022,,1,Canary Wharf,Z1
+899,4584871,3279,Current Account,03/07/2023,,1,Canary Wharf,Z1
+859,4424385,5744,Current Account,05/10/2020,,4,London Bridge Gateway,Z1
+2084,8682565,1063,Current Account,20/02/2020,,5,Islington High Street,Z1
+1009,5023755,2624,Savings Account,05/07/2020,,1,Canary Wharf,Z1
+1809,7734271,2133,Current Account,15/08/2022,,1,Canary Wharf,Z1
+539,3202739,4921,Savings Account,22/05/2019,,4,London Bridge Gateway,Z1
+35,1393047,6889,Savings Account,17/10/2022,,1,Canary Wharf,Z1
+98,1686077,6426,Current Account,12/06/2020,,6,Stratford City,Z2
+1135,5420914,7615,Current Account,02/10/2023,,1,Canary Wharf,Z1
+1489,6633028,5042,Current Account,15/11/2023,,6,Stratford City,Z2
+517,3141218,2434,Savings Account,12/03/2023,,2,Oxford Circus,Z1
+2037,8550331,2913,Savings Account,21/02/2023,,3,Notting Hill Gate,Z2
+667,3676755,4533,Current Account,01/03/2022,,1,Canary Wharf,Z1
+1045,5166060,6255,Savings Account,04/02/2019,,1,Canary Wharf,Z1
+2051,8586017,3701,Savings Account,10/12/2019,,2,Oxford Circus,Z1
+2196,9031014,7266,Savings Account,08/09/2023,04/03/2024,5,Islington High Street,Z1
+1514,6727961,4603,Current Account,31/03/2020,,1,Canary Wharf,Z1
+691,3763580,2038,Savings Account,22/11/2022,,4,London Bridge Gateway,Z1
+28,1365749,2327,Savings Account,05/02/2022,,4,London Bridge Gateway,Z1
+333,2509874,6439,Savings Account,25/09/2022,,2,Oxford Circus,Z1
+998,5001635,2170,Current Account,06/07/2023,,4,London Bridge Gateway,Z1
+2292,9366614,2592,Savings Account,10/03/2020,,5,Islington High Street,Z1
+1354,6194771,7297,Savings Account,28/07/2023,,1,Canary Wharf,Z1
+224,2143893,4597,Savings Account,01/03/2022,,5,Islington High Street,Z1
+1923,8162820,2863,Savings Account,17/12/2023,,1,Canary Wharf,Z1
+2144,8867775,3859,Current Account,01/03/2022,,4,London Bridge Gateway,Z1
+1089,5293548,7431,Savings Account,01/02/2023,,1,Canary Wharf,Z1
+442,2885677,5740,Savings Account,09/11/2022,,6,Stratford City,Z2
+1162,5521405,3041,Savings Premium,13/12/2023,,5,Islington High Street,Z1
+2085,8686917,3169,Savings Account,27/01/2020,,1,Canary Wharf,Z1
+1857,7938973,4432,Savings Account,11/11/2021,,5,Islington High Street,Z1
+1651,7190559,1908,Savings Account,09/05/2023,,5,Islington High Street,Z1
+2244,9191394,4816,Savings Account,01/06/2023,,2,Oxford Circus,Z1
+948,4820584,3652,Savings Account,06/07/2023,,1,Canary Wharf,Z1
+2213,9091796,5473,Savings Account,28/02/2023,,4,London Bridge Gateway,Z1
+1271,5910138,2934,Current Account,01/03/2024,,4,London Bridge Gateway,Z1
+639,3575557,3457,Current Account,08/01/2023,,6,Stratford City,Z2
+834,4312918,3827,Savings Account,14/10/2023,,5,Islington High Street,Z1
+1134,5415353,2864,Current Account,22/07/2023,,4,London Bridge Gateway,Z1
+1829,7854362,7349,Savings Account,14/07/2023,,4,London Bridge Gateway,Z1
+19,1336938,7074,Savings Account,04/05/2023,,1,Canary Wharf,Z1
+166,1962044,1336,Current Account,01/05/2023,,1,Canary Wharf,Z1
+325,2489909,5829,Savings Account,03/02/2021,,4,London Bridge Gateway,Z1
+1436,6452867,5460,Savings Account,22/03/2022,,4,London Bridge Gateway,Z1
+2026,8514295,3174,Current Account,01/06/2021,,5,Islington High Street,Z1
+1168,5550688,6116,Current Account,07/11/2023,,4,London Bridge Gateway,Z1
+727,3869480,1203,Savings Account,08/04/2023,,6,Stratford City,Z2
+1230,5799628,1416,Savings Premium,10/04/2021,,6,Stratford City,Z2
+1260,5886399,3344,Current Account,18/08/2019,,2,Oxford Circus,Z1
+1270,5908683,2631,Current Account,29/06/2021,,1,Canary Wharf,Z1
+1743,7533119,1294,Savings Account,06/03/2022,,6,Stratford City,Z2
+1711,7423802,1125,Current Account,08/05/2023,,1,Canary Wharf,Z1
+847,4377105,1802,Savings Account,30/10/2023,,4,London Bridge Gateway,Z1
+1956,8260467,2165,Current Account,17/08/2023,,4,London Bridge Gateway,Z1
+2020,8470469,3934,Savings Account,13/08/2020,,1,Canary Wharf,Z1
+1014,5052041,6898,Savings Account,05/09/2022,,1,Canary Wharf,Z1
+1790,7659684,4652,Salary Account,27/06/2023,,1,Canary Wharf,Z1
+930,4751816,2697,Savings Account,17/12/2023,,3,Notting Hill Gate,Z2
+2152,8898306,4716,Current Account,23/11/2019,,3,Notting Hill Gate,Z2
+1161,5518171,2332,Savings Account,27/03/2021,,4,London Bridge Gateway,Z1
+1343,6170953,2018,Current Account,23/03/2023,,4,London Bridge Gateway,Z1
+1235,5811946,2267,Current Account,02/09/2018,,4,London Bridge Gateway,Z1
+796,4155262,7138,Savings Account,18/10/2018,,2,Oxford Circus,Z1
+2294,9382206,4539,Savings Account,12/10/2023,,1,Canary Wharf,Z1
+2266,9265991,5565,Savings Account,11/06/2022,,1,Canary Wharf,Z1
+1077,5266466,6549,Savings Account,17/09/2020,,6,Stratford City,Z2
+2091,8715688,6585,Current Account,12/06/2023,,1,Canary Wharf,Z1
+636,3563849,5777,Current Account,06/04/2022,,1,Canary Wharf,Z1
+1209,5713921,4559,Salary Account,22/10/2019,,1,Canary Wharf,Z1
+571,3344411,6042,Salary Account,30/01/2021,,4,London Bridge Gateway,Z1
+1388,6294217,6264,Current Account,07/07/2021,,4,London Bridge Gateway,Z1
+2260,9244850,3589,Current Account,20/08/2023,,1,Canary Wharf,Z1
+2025,8507815,5297,Savings Account,18/12/2023,,1,Canary Wharf,Z1
+1616,7063329,7558,Savings Premium,05/11/2023,,6,Stratford City,Z2
+1418,6406369,5795,Savings Account,02/06/2023,,2,Oxford Circus,Z1
+386,2671526,6995,Savings Account,08/06/2021,,4,London Bridge Gateway,Z1
+2300,9399491,7792,Current Account,07/10/2020,,3,Notting Hill Gate,Z2
+1383,6280019,2571,Savings Account,02/06/2023,,1,Canary Wharf,Z1
+2156,8903593,4586,Current Account,11/05/2018,,5,Islington High Street,Z1
+2318,9465460,7630,Savings Account,28/09/2023,,4,London Bridge Gateway,Z1
+56,1499262,7384,Salary Account,01/06/2023,,2,Oxford Circus,Z1
+1712,7425635,4585,Current Account,02/05/2020,,4,London Bridge Gateway,Z1
+1719,7451647,5524,Current Account,06/07/2022,,6,Stratford City,Z2
+993,4974536,2855,Savings Account,09/12/2023,,4,London Bridge Gateway,Z1
+366,2603210,6253,Savings Account,04/07/2023,,1,Canary Wharf,Z1
+609,3475412,3350,Current Account,28/11/2022,,2,Oxford Circus,Z1
+979,4934185,3291,Current Account,03/04/2022,,1,Canary Wharf,Z1
+1216,5730324,6533,Salary Account,16/08/2022,,5,Islington High Street,Z1
+158,1923525,5918,Current Account,29/07/2022,,6,Stratford City,Z2
+2022,8480185,2331,Savings Account,03/06/2021,,6,Stratford City,Z2
+2054,8602272,3266,Savings Account,16/10/2018,,6,Stratford City,Z2
+2262,9257061,3859,Savings Account,02/12/2021,,1,Canary Wharf,Z1
+1148,5462287,4976,Current Account,21/03/2023,,4,London Bridge Gateway,Z1
+2319,9469115,5819,Current Account,08/12/2023,,5,Islington High Street,Z1
+1747,7550453,6507,Current Account,02/08/2019,,1,Canary Wharf,Z1
+833,4292617,2805,Savings Account,01/07/2022,,4,London Bridge Gateway,Z1
+1674,7304150,1260,Savings Account,22/10/2021,,4,London Bridge Gateway,Z1
+857,4422568,3005,Savings Account,21/09/2020,,5,Islington High Street,Z1
+2295,9382220,5837,Savings Premium,21/02/2020,,6,Stratford City,Z2
+1663,7266403,5997,Current Account,20/02/2019,,4,London Bridge Gateway,Z1
+2357,9620732,3174,Current Account,03/12/2022,,2,Oxford Circus,Z1
+1407,6354753,5941,Current Account,22/04/2022,,2,Oxford Circus,Z1
+1932,8194828,5069,Savings Account,16/09/2022,,1,Canary Wharf,Z1
+1831,7872101,5450,Savings Account,29/07/2023,,1,Canary Wharf,Z1
+1423,6417533,1160,Current Account,13/08/2019,,3,Notting Hill Gate,Z2
+908,4626127,1363,Savings Account,19/11/2023,,1,Canary Wharf,Z1
+2105,8765880,5403,Current Account,03/10/2022,,5,Islington High Street,Z1
+231,2176024,2263,Current Account,06/02/2022,,2,Oxford Circus,Z1
+646,3586368,1273,Salary Account,25/08/2021,,1,Canary Wharf,Z1
+29,1370361,6563,Savings Account,15/11/2021,,3,Notting Hill Gate,Z2
+2355,9611417,3559,Savings Account,06/01/2023,,6,Stratford City,Z2
+348,2558675,2804,Current Account,26/12/2023,,2,Oxford Circus,Z1
+663,3654904,2313,Current Account,01/10/2022,,6,Stratford City,Z2
+1836,7877417,2840,Savings Account,05/09/2021,,2,Oxford Circus,Z1
+482,3022127,7947,Savings Account,18/11/2022,,6,Stratford City,Z2
+402,2749530,5398,Current Account,04/05/2022,,1,Canary Wharf,Z1
+877,4475208,1129,Current Account,22/11/2021,,1,Canary Wharf,Z1
+1515,6736083,6850,Salary Account,16/08/2019,,1,Canary Wharf,Z1
+150,1897997,5747,Savings Account,26/04/2022,,1,Canary Wharf,Z1
+1587,6944438,1712,Current Account,15/07/2022,,1,Canary Wharf,Z1
+1384,6283601,2199,Savings Account,04/08/2023,,6,Stratford City,Z2
+264,2295105,1215,Current Account,09/09/2022,,2,Oxford Circus,Z1
+18,1333419,5114,Salary Account,14/10/2022,,4,London Bridge Gateway,Z1
+1092,5301704,7011,Current Account,30/05/2022,,1,Canary Wharf,Z1
+1350,6187650,6895,Current Account,11/10/2020,,1,Canary Wharf,Z1
+1250,5848502,7873,Salary Account,18/08/2022,,1,Canary Wharf,Z1
+675,3710048,3173,Current Account,17/01/2023,,2,Oxford Circus,Z1
+1335,6130886,2221,Current Account,07/11/2023,,1,Canary Wharf,Z1
+1020,5075505,5141,Current Account,20/07/2020,,4,London Bridge Gateway,Z1
+122,1775016,6075,Current Account,11/12/2020,,1,Canary Wharf,Z1
+602,3451773,2374,Savings Account,28/06/2022,,3,Notting Hill Gate,Z2
+1750,7556570,1898,Current Account,27/01/2020,,4,London Bridge Gateway,Z1
+1029,5114423,5173,Current Account,09/01/2020,,1,Canary Wharf,Z1
+2168,8946374,4561,Savings Account,25/09/2023,,3,Notting Hill Gate,Z2
+2326,9507746,4630,Current Account,30/10/2023,,4,London Bridge Gateway,Z1
+1628,7108438,3162,Savings Account,06/09/2023,28/01/2024,2,Oxford Circus,Z1
+345,2555824,1200,Savings Account,02/03/2021,,5,Islington High Street,Z1
+1969,8299424,3001,Savings Account,04/11/2021,,6,Stratford City,Z2
+1024,5093572,6673,Current Account,30/06/2023,,6,Stratford City,Z2
+1480,6598336,1764,Current Account,29/01/2021,,1,Canary Wharf,Z1
+889,4561921,5211,Current Account,15/12/2021,,5,Islington High Street,Z1
+708,3804527,3859,Savings Account,23/10/2021,,5,Islington High Street,Z1
+2382,9713856,3036,Current Account,14/02/2023,,4,London Bridge Gateway,Z1
+2194,9029578,5764,Savings Account,14/02/2020,,5,Islington High Street,Z1
+1075,5251843,1220,Current Account,20/10/2023,,2,Oxford Circus,Z1
+1432,6442279,5163,Savings Account,18/12/2023,,2,Oxford Circus,Z1
+126,1786500,7420,Salary Account,27/07/2021,,1,Canary Wharf,Z1
+1681,7311006,4444,Salary Account,14/10/2021,,5,Islington High Street,Z1
+2340,9559408,7300,Savings Account,28/06/2023,,4,London Bridge Gateway,Z1
+1257,5869517,3364,Current Account,24/06/2021,,1,Canary Wharf,Z1
+1988,8367148,2510,Current Account,04/06/2023,,1,Canary Wharf,Z1
+218,2115154,2735,Salary Account,01/09/2020,,4,London Bridge Gateway,Z1
+1575,6914614,7795,Savings Account,22/04/2022,,5,Islington High Street,Z1
+1782,7630497,3689,Current Account,21/12/2020,,2,Oxford Circus,Z1
+1794,7674370,1765,Current Account,25/10/2022,,4,London Bridge Gateway,Z1
+1684,7319362,5541,Current Account,16/07/2022,,4,London Bridge Gateway,Z1
+1760,7595182,7520,Savings Account,26/07/2023,,2,Oxford Circus,Z1
+159,1925625,6878,Current Account,27/06/2022,,2,Oxford Circus,Z1
+656,3635616,5002,Current Account,22/08/2021,,6,Stratford City,Z2
+2104,8764847,6369,Savings Account,21/11/2022,,1,Canary Wharf,Z1
+2351,9602299,6323,Savings Premium,06/11/2023,,2,Oxford Circus,Z1
+1034,5129975,7078,Current Account,23/06/2022,,6,Stratford City,Z2
+1012,5051034,3866,Savings Account,10/04/2022,,6,Stratford City,Z2
+269,2308676,6007,Savings Account,20/06/2022,,4,London Bridge Gateway,Z1
+1668,7286045,5983,Savings Account,28/04/2023,,6,Stratford City,Z2
+116,1761521,6187,Current Account,28/08/2022,,2,Oxford Circus,Z1
+57,1506624,7462,Current Account,23/09/2023,,5,Islington High Street,Z1
+594,3428391,4805,Savings Account,22/12/2023,,4,London Bridge Gateway,Z1
+2071,8650770,2231,Savings Account,31/05/2023,,3,Notting Hill Gate,Z2
+429,2834406,7342,Savings Account,25/03/2020,,5,Islington High Street,Z1
+1444,6478764,2253,Current Account,19/12/2023,,2,Oxford Circus,Z1
+2345,9581557,7300,Savings Account,24/09/2023,,1,Canary Wharf,Z1
+2389,9734049,5953,Current Account,20/10/2020,,1,Canary Wharf,Z1
+1733,7499456,1520,Salary Account,16/06/2022,,4,London Bridge Gateway,Z1
+1858,7939562,7246,Current Account,13/07/2023,,4,London Bridge Gateway,Z1
+1367,6244388,4642,Savings Account,12/12/2021,,2,Oxford Circus,Z1
+1729,7493266,4770,Savings Account,28/11/2022,,4,London Bridge Gateway,Z1
+2408,9782932,6304,Savings Account,21/03/2022,,1,Canary Wharf,Z1
+33,1390787,3901,Savings Account,30/01/2023,,6,Stratford City,Z2
+1215,5726446,5345,Savings Account,30/05/2022,,6,Stratford City,Z2
+556,3278776,5309,Current Account,11/12/2023,,4,London Bridge Gateway,Z1
+1421,6410950,6323,Current Account,12/03/2023,,1,Canary Wharf,Z1
+1950,8240297,7462,Savings Account,08/04/2020,,3,Notting Hill Gate,Z2
+1877,8008729,7195,Salary Account,20/09/2022,,4,London Bridge Gateway,Z1
+1583,6936660,6596,Current Account,05/01/2022,,4,London Bridge Gateway,Z1
+591,3411699,7427,Current Account,10/12/2023,,5,Islington High Street,Z1
+1701,7397357,6936,Salary Account,20/12/2018,,2,Oxford Circus,Z1
+957,4846865,1670,Savings Account,26/08/2021,,1,Canary Wharf,Z1
+2143,8865212,6758,Savings Account,14/12/2023,,5,Islington High Street,Z1
+2188,9002773,3080,Current Account,01/08/2021,,3,Notting Hill Gate,Z2
+1844,7901958,4019,Current Account,10/05/2019,,3,Notting Hill Gate,Z2
+1610,7034167,4573,Current Account,27/05/2019,,3,Notting Hill Gate,Z2
+1714,7434135,6038,Savings Account,19/06/2023,,4,London Bridge Gateway,Z1
+1808,7727070,1268,Current Account,13/06/2022,,1,Canary Wharf,Z1
+1377,6267239,7992,Savings Account,30/04/2021,,1,Canary Wharf,Z1
+1304,6044335,6400,Current Account,28/06/2023,,2,Oxford Circus,Z1
+17,1327526,5893,Current Account,22/03/2022,,5,Islington High Street,Z1
+537,3184683,4024,Current Account,01/11/2020,,4,London Bridge Gateway,Z1
+1715,7442960,7249,Current Account,29/12/2021,,5,Islington High Street,Z1
+305,2432558,1153,Salary Account,25/05/2021,,5,Islington High Street,Z1
+616,3507637,5542,Savings Account,02/01/2020,,1,Canary Wharf,Z1
+1088,5290188,2222,Savings Account,24/10/2023,,5,Islington High Street,Z1
+2356,9620242,5522,Current Account,27/06/2019,,1,Canary Wharf,Z1
+933,4768279,6393,Savings Account,18/02/2023,,6,Stratford City,Z2
+2317,9465328,1474,Savings Account,27/10/2022,,1,Canary Wharf,Z1
+418,2798290,4714,Salary Account,30/09/2023,,1,Canary Wharf,Z1
+2329,9520975,1295,Savings Account,16/08/2020,,6,Stratford City,Z2
+2122,8803171,6191,Savings Account,06/03/2021,,1,Canary Wharf,Z1
+2052,8590553,2697,Savings Account,13/12/2023,,5,Islington High Street,Z1
+813,4214758,4608,Current Account,28/12/2023,,3,Notting Hill Gate,Z2
+1586,6942956,1329,Savings Account,12/07/2020,,6,Stratford City,Z2
+262,2288229,4586,Savings Account,21/06/2018,,6,Stratford City,Z2
+1427,6426509,4825,Current Account,22/05/2020,,6,Stratford City,Z2
+760,3975938,3745,Current Account,07/06/2023,,1,Canary Wharf,Z1
+328,2496882,5021,Savings Account,08/10/2022,,1,Canary Wharf,Z1
+644,3582614,1962,Savings Account,03/12/2019,,2,Oxford Circus,Z1
+1572,6906634,1916,Savings Account,09/12/2020,,6,Stratford City,Z2
+1253,5859135,6511,Current Account,08/11/2022,,3,Notting Hill Gate,Z2
+1103,5323626,4524,Current Account,23/09/2018,,4,London Bridge Gateway,Z1
+412,2773938,5788,Savings Account,13/12/2023,,4,London Bridge Gateway,Z1
+1964,8281916,3719,Savings Account,06/07/2022,,1,Canary Wharf,Z1
+1415,6396477,1479,Salary Account,09/08/2023,,6,Stratford City,Z2
+1466,6547479,5983,Savings Account,04/06/2022,,1,Canary Wharf,Z1
+261,2279406,2184,Current Account,25/09/2020,,3,Notting Hill Gate,Z2
+1494,6647849,6093,Current Account,16/07/2022,,5,Islington High Street,Z1
+140,1860260,2503,Current Account,08/01/2023,,1,Canary Wharf,Z1
+774,4030335,7798,Current Account,19/04/2022,,6,Stratford City,Z2
+2303,9420900,1421,Current Account,10/12/2020,,4,London Bridge Gateway,Z1
+409,2769958,7947,Salary Account,22/11/2023,,1,Canary Wharf,Z1
+2267,9269458,4921,Savings Account,10/04/2022,,4,London Bridge Gateway,Z1
+1341,6158615,3526,Current Account,14/06/2023,,1,Canary Wharf,Z1
+512,3117051,6372,Savings Account,03/07/2023,,4,London Bridge Gateway,Z1
+2269,9270949,4608,Current Account,06/08/2022,,2,Oxford Circus,Z1
+1126,5393666,5773,Savings Premium,09/03/2023,,6,Stratford City,Z2
+71,1575653,6973,Savings Account,05/08/2021,,1,Canary Wharf,Z1
+842,4352125,2124,Salary Account,11/10/2021,,4,London Bridge Gateway,Z1
+1141,5438959,1563,Savings Account,01/12/2021,,2,Oxford Circus,Z1
+227,2164173,5451,Savings Account,15/10/2022,,5,Islington High Street,Z1
+2132,8843707,1482,Savings Account,17/06/2023,,5,Islington High Street,Z1
+314,2467737,6533,Savings Account,20/11/2020,,6,Stratford City,Z2
+1615,7059612,3712,Current Account,24/05/2023,,1,Canary Wharf,Z1
+1456,6510677,7420,Current Account,13/01/2021,,4,London Bridge Gateway,Z1
+973,4910867,3350,Savings Account,28/10/2022,,1,Canary Wharf,Z1
+479,3011954,7755,Current Account,10/05/2019,,2,Oxford Circus,Z1
+1991,8383541,3639,Current Account,07/05/2020,,5,Islington High Street,Z1
+2251,9214230,4185,Current Account,17/12/2023,,2,Oxford Circus,Z1
+335,2521832,5956,Savings Account,20/10/2020,,1,Canary Wharf,Z1
+1050,5180566,2435,Current Account,07/03/2023,,2,Oxford Circus,Z1
+2361,9631029,5348,Savings Account,04/10/2023,,1,Canary Wharf,Z1
+2263,9260233,6436,Savings Account,05/11/2022,,1,Canary Wharf,Z1
+1010,5028819,6885,Savings Account,27/01/2022,,1,Canary Wharf,Z1
+2415,9814755,6831,Current Account,26/07/2023,,1,Canary Wharf,Z1
+915,4661400,5519,Current Account,06/02/2023,,6,Stratford City,Z2
+2293,9378403,2964,Savings Account,15/12/2019,,4,London Bridge Gateway,Z1
+501,3073359,2329,Savings Account,07/09/2021,,1,Canary Wharf,Z1
+139,1858815,6296,Savings Account,26/08/2023,,2,Oxford Circus,Z1
+1941,8211231,7339,Current Account,23/10/2023,,6,Stratford City,Z2
+2316,9459846,4503,Current Account,11/01/2022,,5,Islington High Street,Z1
+972,4908786,4675,Current Account,11/08/2020,,4,London Bridge Gateway,Z1
+1618,7072317,1346,Current Account,28/10/2022,,4,London Bridge Gateway,Z1
+290,2385725,3318,Savings Account,10/02/2020,,4,London Bridge Gateway,Z1
+1852,7919649,6802,Savings Account,27/02/2021,,5,Islington High Street,Z1
+949,4824033,7038,Savings Premium,23/02/2023,,1,Canary Wharf,Z1
+117,1764165,4059,Savings Account,09/11/2023,,5,Islington High Street,Z1
+1276,5927434,6719,Salary Account,11/02/2020,,3,Notting Hill Gate,Z2
+1454,6505630,4124,Current Account,23/10/2021,,5,Islington High Street,Z1
+955,4843830,4242,Current Account,30/11/2023,,1,Canary Wharf,Z1
+400,2746687,7488,Current Account,08/12/2022,,6,Stratford City,Z2
+1838,7888881,4344,Salary Account,10/07/2023,,6,Stratford City,Z2
+651,3611415,2042,Current Account,28/06/2023,,1,Canary Wharf,Z1
+1973,8317168,1411,Current Account,19/11/2023,,4,London Bridge Gateway,Z1
+286,2380153,4839,Current Account,22/06/2023,,1,Canary Wharf,Z1
+12,1292772,6392,Current Account,23/08/2022,,6,Stratford City,Z2
+1887,8046509,4770,Salary Account,19/08/2023,,4,London Bridge Gateway,Z1
+1198,5683824,2220,Current Account,08/12/2019,,2,Oxford Circus,Z1
+84,1646592,2038,Savings Account,26/10/2020,,5,Islington High Street,Z1
+2155,8901495,7791,Savings Premium,23/02/2023,08/03/2024,4,London Bridge Gateway,Z1
+2301,9414230,6935,Current Account,24/11/2023,,4,London Bridge Gateway,Z1
+641,3579569,6623,Current Account,12/09/2023,,1,Canary Wharf,Z1
+1609,7032129,6566,Savings Account,16/01/2023,,4,London Bridge Gateway,Z1
+2136,8846720,7718,Savings Account,06/12/2022,,3,Notting Hill Gate,Z2
+238,2201269,3080,Current Account,08/08/2022,,1,Canary Wharf,Z1
+24,1349090,7275,Salary Account,01/02/2023,,1,Canary Wharf,Z1
+1396,6309895,1622,Savings Account,08/03/2022,,1,Canary Wharf,Z1
+1095,5307043,5697,Savings Account,20/05/2023,,1,Canary Wharf,Z1
+2390,9741686,5973,Current Account,02/07/2020,,2,Oxford Circus,Z1
+2203,9051412,7002,Savings Account,06/12/2023,,4,London Bridge Gateway,Z1
+51,1491756,3005,Savings Account,05/11/2023,,4,London Bridge Gateway,Z1
+1912,8126498,4589,Current Account,17/12/2020,,5,Islington High Street,Z1
+1744,7536786,2589,Savings Account,05/04/2021,,3,Notting Hill Gate,Z2
+1086,5279921,7377,Salary Account,15/09/2022,,6,Stratford City,Z2
+1560,6858025,3030,Current Account,16/10/2021,,6,Stratford City,Z2
+1722,7459040,6097,Savings Account,06/06/2020,,1,Canary Wharf,Z1
+1177,5609750,7275,Savings Premium,23/11/2023,,3,Notting Hill Gate,Z2
+315,2468158,1094,Savings Account,12/01/2022,,1,Canary Wharf,Z1
+1614,7045515,2815,Savings Account,15/02/2023,,5,Islington High Street,Z1
+474,2973691,7377,Savings Account,05/05/2023,,4,London Bridge Gateway,Z1
+1884,8033941,4913,Savings Account,01/11/2023,,2,Oxford Circus,Z1
+1985,8350187,6946,Current Account,01/07/2022,,4,London Bridge Gateway,Z1
+578,3358209,6502,Savings Account,02/09/2023,,2,Oxford Circus,Z1
+228,2167913,4574,Current Account,26/12/2023,,6,Stratford City,Z2
+1779,7625015,4698,Savings Account,18/11/2020,,5,Islington High Street,Z1
+1166,5536915,1308,Savings Account,23/12/2023,,5,Islington High Street,Z1
+1940,8210034,6399,Savings Account,01/11/2020,,2,Oxford Circus,Z1
+3,1253811,4043,Savings Account,12/02/2023,,2,Oxford Circus,Z1
+1291,6001695,5556,Savings Account,31/08/2021,,1,Canary Wharf,Z1
+2028,8525270,1644,Current Account,25/09/2020,,5,Islington High Street,Z1
+2134,8845413,6325,Current Account,09/07/2023,,5,Islington High Street,Z1
+2108,8770977,5708,Current Account,23/06/2023,,1,Canary Wharf,Z1
+1223,5763472,4121,Current Account,15/02/2021,,2,Oxford Circus,Z1
+702,3798146,2236,Savings Account,02/11/2023,,1,Canary Wharf,Z1
+1709,7420890,6633,Savings Account,28/03/2023,,1,Canary Wharf,Z1
+1738,7514229,2021,Current Account,23/12/2023,,6,Stratford City,Z2
+1708,7418341,3088,Current Account,22/03/2022,,5,Islington High Street,Z1
+1598,7001792,3808,Savings Account,23/03/2022,,1,Canary Wharf,Z1
+520,3147549,3091,Savings Account,15/12/2021,,2,Oxford Circus,Z1
+321,2478782,1460,Current Account,23/11/2023,,1,Canary Wharf,Z1
+172,1974153,7226,Current Account,07/04/2023,,1,Canary Wharf,Z1
+1429,6436710,3446,Savings Account,16/07/2023,,5,Islington High Street,Z1
+802,4172008,7159,Savings Account,10/05/2020,,6,Stratford City,Z2
+638,3569538,2791,Salary Account,09/02/2022,,4,London Bridge Gateway,Z1
+2001,8425429,3850,Current Account,02/07/2020,,3,Notting Hill Gate,Z2
+1214,5721930,2317,Savings Account,05/04/2023,,1,Canary Wharf,Z1
+1851,7916798,4232,Current Account,08/05/2022,,6,Stratford City,Z2
+1534,6778170,3239,Current Account,23/05/2022,,4,London Bridge Gateway,Z1
+2046,8578875,4845,Savings Account,26/12/2023,,2,Oxford Circus,Z1
+1133,5406261,6306,Savings Account,03/05/2020,,5,Islington High Street,Z1
+1099,5314851,2624,Savings Account,08/11/2020,,3,Notting Hill Gate,Z2
+123,1777835,6473,Salary Account,27/01/2020,,3,Notting Hill Gate,Z2
+1222,5760429,4027,Savings Account,15/07/2019,,1,Canary Wharf,Z1
+1796,7679464,2516,Savings Account,29/12/2022,,2,Oxford Circus,Z1
+200,2077024,5488,Current Account,01/04/2022,,1,Canary Wharf,Z1
+1333,6122226,2697,Current Account,01/10/2023,,5,Islington High Street,Z1
+2107,8768589,1690,Current Account,23/07/2023,,1,Canary Wharf,Z1
+197,2057325,4900,Current Account,22/12/2023,,4,London Bridge Gateway,Z1
+350,2560222,4770,Current Account,15/06/2020,,1,Canary Wharf,Z1
+1471,6578547,2303,Current Account,27/10/2023,,3,Notting Hill Gate,Z2
+1656,7237542,3569,Savings Account,24/10/2023,,1,Canary Wharf,Z1
+828,4277980,6852,Salary Account,24/08/2022,,4,London Bridge Gateway,Z1
+1025,5095117,7021,Savings Account,29/11/2023,,6,Stratford City,Z2
+118,1766077,7992,Salary Account,24/04/2022,,1,Canary Wharf,Z1
+595,3429289,4555,Savings Account,05/08/2023,,2,Oxford Circus,Z1
+888,4553355,5649,Current Account,09/01/2023,,6,Stratford City,Z2
+211,2097621,2031,Savings Account,07/10/2023,,2,Oxford Circus,Z1
+2333,9528772,4194,Savings Account,04/01/2022,,1,Canary Wharf,Z1
+805,4178816,1129,Savings Account,22/09/2020,,1,Canary Wharf,Z1
+1059,5206293,4465,Current Account,02/09/2018,,3,Notting Hill Gate,Z2
+635,3563054,2286,Current Account,31/01/2022,,4,London Bridge Gateway,Z1
+461,2944120,2289,Savings Account,01/04/2023,,6,Stratford City,Z2
+267,2300826,7337,Current Account,23/11/2023,,6,Stratford City,Z2
+613,3487531,6786,Current Account,31/03/2021,,1,Canary Wharf,Z1
+1505,6687332,2716,Savings Account,02/04/2021,,1,Canary Wharf,Z1
+2138,8851881,7235,Savings Account,19/08/2021,,1,Canary Wharf,Z1
+141,1863078,7811,Savings Account,22/09/2022,,3,Notting Hill Gate,Z2
+2049,8585704,6763,Current Account,16/05/2023,,4,London Bridge Gateway,Z1
+1564,6877910,4609,Current Account,03/03/2022,,5,Islington High Street,Z1
+2211,9086585,2267,Current Account,25/07/2021,,2,Oxford Circus,Z1
+590,3401876,6404,Savings Account,22/09/2020,,6,Stratford City,Z2
+1426,6423537,4695,Savings Account,09/06/2023,,4,London Bridge Gateway,Z1
+443,2886101,1496,Current Account,09/04/2019,,1,Canary Wharf,Z1
+1371,6257241,4162,Salary Account,03/07/2019,,3,Notting Hill Gate,Z2
+1314,6062804,6293,Savings Account,21/08/2021,,1,Canary Wharf,Z1
+1424,6418402,1237,Salary Account,18/02/2021,,2,Oxford Circus,Z1
+1731,7495768,3281,Savings Account,19/09/2022,,1,Canary Wharf,Z1
+2204,9052750,3971,Current Account,04/11/2020,,1,Canary Wharf,Z1
+700,3791539,1458,Current Account,27/12/2019,,5,Islington High Street,Z1
+1132,5399784,4081,Savings Account,28/05/2023,,1,Canary Wharf,Z1
+155,1909865,1751,Savings Account,30/01/2022,,1,Canary Wharf,Z1
+1521,6741821,1970,Current Account,20/09/2022,,6,Stratford City,Z2
+294,2394789,3559,Savings Account,13/03/2021,,4,London Bridge Gateway,Z1
+605,3457598,4027,Savings Account,17/10/2023,,6,Stratford City,Z2
+2405,9771955,6732,Current Account,07/01/2023,,4,London Bridge Gateway,Z1
+2093,8721720,4464,Current Account,03/05/2020,,1,Canary Wharf,Z1
+1401,6332014,6990,Current Account,11/08/2023,,1,Canary Wharf,Z1
+1717,7450961,1491,Current Account,01/04/2023,,5,Islington High Street,Z1
+1506,6687926,6436,Salary Account,05/01/2020,,1,Canary Wharf,Z1
+1463,6539073,7965,Savings Premium,19/10/2018,,4,London Bridge Gateway,Z1
+2338,9549637,1774,Savings Account,30/11/2022,,4,London Bridge Gateway,Z1
+582,3372681,5410,Current Account,05/04/2021,,1,Canary Wharf,Z1
+341,2540817,7353,Current Account,31/05/2023,,1,Canary Wharf,Z1
+79,1613415,6771,Current Account,22/09/2022,,4,London Bridge Gateway,Z1
+615,3506619,2939,Savings Account,25/10/2023,,1,Canary Wharf,Z1
+1980,8338080,6757,Savings Premium,05/08/2022,,1,Canary Wharf,Z1
+1076,5258769,3830,Current Account,12/10/2023,,1,Canary Wharf,Z1
+956,4844024,2085,Savings Account,09/12/2023,,2,Oxford Circus,Z1
+142,1865444,1839,Savings Premium,20/05/2023,,1,Canary Wharf,Z1
+1669,7289079,1697,Savings Account,09/09/2023,,1,Canary Wharf,Z1
+1473,6581976,5887,Savings Account,11/12/2023,,1,Canary Wharf,Z1
+530,3166788,4764,Current Account,02/07/2023,,6,Stratford City,Z2
+1173,5599198,5395,Current Account,23/07/2023,,6,Stratford City,Z2
+452,2911907,1236,Savings Account,28/06/2021,,2,Oxford Circus,Z1
+1848,7914515,7938,Current Account,14/05/2023,,4,London Bridge Gateway,Z1
+2077,8662125,5107,Savings Account,05/07/2023,,6,Stratford City,Z2
+1561,6859738,4690,Savings Account,01/10/2020,,4,London Bridge Gateway,Z1
+1241,5821808,1026,Savings Account,23/09/2023,,6,Stratford City,Z2
+1422,6416412,2020,Current Account,10/04/2019,,5,Islington High Street,Z1
+938,4781489,3709,Savings Account,20/06/2022,,2,Oxford Circus,Z1
+1646,7176439,5516,Current Account,09/10/2018,,1,Canary Wharf,Z1
+666,3661961,4020,Current Account,17/01/2023,,4,London Bridge Gateway,Z1
+1138,5428857,6662,Savings Premium,07/04/2021,,1,Canary Wharf,Z1
+1218,5737618,4630,Current Account,29/12/2020,,1,Canary Wharf,Z1
+1342,6163082,3044,Salary Account,22/11/2018,,4,London Bridge Gateway,Z1
+1552,6822464,1747,Current Account,10/11/2019,,3,Notting Hill Gate,Z2
+359,2584090,2477,Current Account,22/03/2023,,2,Oxford Circus,Z1
+1997,8409895,7217,Current Account,31/12/2019,,6,Stratford City,Z2
+137,1854985,5181,Savings Account,08/08/2021,,6,Stratford City,Z2
+2368,9660286,7684,Current Account,21/12/2022,,6,Stratford City,Z2
+1234,5811178,6073,Current Account,18/12/2021,,5,Islington High Street,Z1
+1298,6022974,1179,Savings Account,23/07/2023,,6,Stratford City,Z2
+1830,7865919,7733,Savings Account,09/12/2022,,1,Canary Wharf,Z1
+1551,6821995,2943,Current Account,24/06/2023,,6,Stratford City,Z2
+905,4609254,6892,Savings Account,24/10/2023,,6,Stratford City,Z2
+1051,5185890,4113,Savings Account,01/11/2023,,5,Islington High Street,Z1
+208,2092783,5076,Savings Premium,08/06/2023,,1,Canary Wharf,Z1
+2180,8981253,4632,Current Account,30/07/2023,,4,London Bridge Gateway,Z1
+542,3210201,3053,Savings Account,22/06/2023,,6,Stratford City,Z2
+2118,8792878,3758,Salary Account,31/08/2022,,2,Oxford Circus,Z1
+894,4576806,1583,Current Account,20/12/2021,,3,Notting Hill Gate,Z2
+1756,7585253,6663,Savings Account,23/05/2022,,4,London Bridge Gateway,Z1
+2231,9154540,7732,Current Account,29/03/2020,,2,Oxford Circus,Z1
+391,2689718,2251,Current Account,20/07/2023,,1,Canary Wharf,Z1
+798,4161339,6484,Current Account,09/11/2021,,4,London Bridge Gateway,Z1
+1954,8252421,5997,Savings Account,17/01/2023,,4,London Bridge Gateway,Z1
+2371,9666278,6186,Salary Account,17/12/2022,,1,Canary Wharf,Z1
+1484,6620963,2972,Savings Account,27/08/2023,,4,London Bridge Gateway,Z1
+1876,7999980,7172,Current Account,25/09/2022,,2,Oxford Circus,Z1
+216,2113047,3677,Salary Account,25/11/2022,,1,Canary Wharf,Z1
+2150,8892658,4066,Salary Account,07/11/2023,,5,Islington High Street,Z1
+1539,6790272,4312,Current Account,08/03/2022,,1,Canary Wharf,Z1
+2407,9780909,4152,Salary Account,22/06/2023,,3,Notting Hill Gate,Z2
+1181,5626383,3053,Savings Account,07/08/2023,,5,Islington High Street,Z1
+1595,6990203,2916,Savings Account,11/04/2021,,1,Canary Wharf,Z1
+307,2451571,3792,Current Account,26/07/2020,,4,London Bridge Gateway,Z1
+427,2820046,6688,Savings Account,16/05/2021,,1,Canary Wharf,Z1
+284,2374694,4551,Current Account,29/05/2022,,2,Oxford Circus,Z1
+1006,5019686,1526,Current Account,10/09/2021,,6,Stratford City,Z2
+1585,6941984,3171,Current Account,21/07/2023,,3,Notting Hill Gate,Z2
+453,2915542,2735,Savings Account,08/02/2022,,1,Canary Wharf,Z1
+840,4340798,1812,Current Account,22/05/2020,,5,Islington High Street,Z1
+569,3334509,7361,Current Account,28/04/2023,,6,Stratford City,Z2
+124,1782105,3385,Savings Premium,03/09/2020,,6,Stratford City,Z2
+1541,6792298,3174,Current Account,19/07/2023,,2,Oxford Circus,Z1
+221,2133911,3730,Current Account,05/09/2021,,6,Stratford City,Z2
+1439,6467151,2042,Savings Account,29/05/2021,,4,London Bridge Gateway,Z1
+1903,8086196,2779,Savings Premium,17/11/2019,,1,Canary Wharf,Z1
+1804,7716357,1943,Savings Account,29/11/2020,,1,Canary Wharf,Z1
+1984,8348287,7357,Current Account,02/09/2023,,3,Notting Hill Gate,Z2
+471,2970973,7725,Current Account,29/11/2021,,1,Canary Wharf,Z1
+678,3713764,1893,Savings Account,13/07/2021,,3,Notting Hill Gate,Z2
+596,3430273,3962,Savings Account,23/04/2023,,4,London Bridge Gateway,Z1
+1516,6736196,2251,Savings Account,13/07/2023,,4,London Bridge Gateway,Z1
+113,1755096,7999,Salary Account,31/05/2021,,1,Canary Wharf,Z1
+396,2713074,1947,Savings Premium,26/08/2022,,1,Canary Wharf,Z1
+2182,8986482,7254,Savings Account,07/07/2022,,2,Oxford Circus,Z1
+2004,8435933,3773,Savings Account,29/06/2023,,4,London Bridge Gateway,Z1
+80,1615935,6392,Savings Account,02/10/2023,,2,Oxford Circus,Z1
+538,3191997,4453,Savings Account,25/12/2021,,4,London Bridge Gateway,Z1
+465,2955635,7273,Savings Account,22/12/2022,,6,Stratford City,Z2
+525,3156359,5646,Current Account,20/06/2022,,1,Canary Wharf,Z1
+422,2801968,6186,Savings Premium,12/12/2019,,1,Canary Wharf,Z1
+352,2561081,6342,Savings Account,29/05/2023,,4,London Bridge Gateway,Z1
+516,3138061,5270,Savings Account,19/11/2023,,5,Islington High Street,Z1
+2350,9597826,7461,Savings Account,08/10/2019,,1,Canary Wharf,Z1
+1379,6272095,6230,Savings Account,19/10/2020,,5,Islington High Street,Z1
+673,3706600,1837,Current Account,23/05/2019,,5,Islington High Street,Z1
+767,4003491,7303,Savings Account,19/08/2023,,1,Canary Wharf,Z1
+789,4118053,1304,Savings Account,08/08/2023,,3,Notting Hill Gate,Z2
+1327,6094383,4395,Current Account,14/07/2022,,6,Stratford City,Z2
+2392,9745833,4609,Savings Account,14/11/2023,,3,Notting Hill Gate,Z2
+974,4914091,1211,Current Account,29/12/2020,,1,Canary Wharf,Z1
+792,4140018,4561,Current Account,27/02/2022,,3,Notting Hill Gate,Z2
+2076,8659649,6282,Current Account,16/09/2021,,5,Islington High Street,Z1
+469,2959273,4936,Savings Account,22/10/2023,,1,Canary Wharf,Z1
+753,3953384,4375,Savings Account,01/04/2023,19/03/2024,4,London Bridge Gateway,Z1
+2121,8797702,3469,Current Account,01/05/2022,,6,Stratford City,Z2
+1774,7613322,2252,Savings Account,19/04/2021,,4,London Bridge Gateway,Z1
+2100,8755310,4537,Savings Account,19/05/2023,,2,Oxford Circus,Z1
+175,1978329,4377,Salary Account,18/10/2019,,4,London Bridge Gateway,Z1
+1337,6135739,6860,Current Account,19/12/2023,,6,Stratford City,Z2
+129,1801968,5974,Savings Account,29/03/2023,,6,Stratford City,Z2
+127,1794263,7607,Savings Account,29/03/2023,,1,Canary Wharf,Z1
+1244,5839024,1867,Current Account,13/01/2024,,6,Stratford City,Z2
+1966,8287003,2939,Savings Account,18/11/2023,,3,Notting Hill Gate,Z2
+2161,8919178,6604,Current Account,27/09/2023,,1,Canary Wharf,Z1
+1818,7784690,7236,Savings Account,19/11/2021,,4,London Bridge Gateway,Z1
+1056,5198999,7529,Savings Account,07/03/2021,,4,London Bridge Gateway,Z1
+2307,9431476,5521,Current Account,21/02/2021,,5,Islington High Street,Z1
+1764,7600705,4621,Savings Account,08/04/2023,,2,Oxford Circus,Z1
+2420,9845204,4145,Savings Premium,04/08/2021,,1,Canary Wharf,Z1
+380,2659842,6287,Savings Account,18/07/2020,,4,London Bridge Gateway,Z1
+1074,5249807,4344,Savings Account,02/05/2023,,2,Oxford Circus,Z1
+1385,6286644,4630,Current Account,27/03/2023,,1,Canary Wharf,Z1
+1005,5017263,6093,Savings Account,22/12/2023,,4,London Bridge Gateway,Z1
+1433,6442474,5333,Savings Account,03/12/2022,,1,Canary Wharf,Z1
+6,1270661,6487,Savings Account,13/02/2023,,1,Canary Wharf,Z1
+723,3842483,1552,Savings Account,29/11/2023,,4,London Bridge Gateway,Z1
+2230,9146726,2184,Savings Account,18/09/2023,,4,London Bridge Gateway,Z1
+2311,9438610,5467,Savings Account,21/03/2019,,5,Islington High Street,Z1
+1284,5979750,1371,Current Account,24/09/2023,,4,London Bridge Gateway,Z1
+822,4254085,2939,Savings Account,23/03/2022,,1,Canary Wharf,Z1
+1283,5977727,3445,Current Account,28/10/2023,,2,Oxford Circus,Z1
+439,2872342,6763,Savings Account,30/12/2023,,5,Islington High Street,Z1
+2199,9036475,3897,Current Account,26/12/2022,,5,Islington High Street,Z1
+236,2193574,7316,Savings Account,18/04/2022,,1,Canary Wharf,Z1
+1856,7935328,1864,Salary Account,14/01/2024,,4,London Bridge Gateway,Z1
+751,3945395,4868,Savings Premium,12/03/2023,,2,Oxford Circus,Z1
+1031,5118026,1887,Current Account,10/11/2023,,1,Canary Wharf,Z1
+473,2972629,4967,Current Account,23/06/2022,,6,Stratford City,Z2
+1700,7390898,6427,Savings Account,31/01/2020,,2,Oxford Circus,Z1
+310,2458784,1205,Savings Account,18/07/2023,,4,London Bridge Gateway,Z1
+1638,7145097,4377,Current Account,14/01/2024,,1,Canary Wharf,Z1
+199,2075748,5597,Current Account,15/11/2023,,1,Canary Wharf,Z1
+1626,7103518,1568,Current Account,20/05/2019,,6,Stratford City,Z2
+821,4253177,6426,Current Account,08/11/2023,,3,Notting Hill Gate,Z2
+83,1644290,7329,Savings Account,13/01/2024,,6,Stratford City,Z2
+493,3050103,7706,Current Account,28/02/2023,,6,Stratford City,Z2
+2060,8620215,3541,Salary Account,05/09/2023,,4,London Bridge Gateway,Z1
+740,3905396,6161,Savings Account,10/12/2023,,1,Canary Wharf,Z1
+1840,7890072,7136,Current Account,11/09/2023,,3,Notting Hill Gate,Z2
+1237,5817479,3655,Current Account,13/09/2021,,4,London Bridge Gateway,Z1
+1625,7100794,6841,Savings Account,03/09/2023,,5,Islington High Street,Z1
+1922,8158079,1083,Current Account,26/10/2019,,1,Canary Wharf,Z1
+2149,8885072,7659,Savings Account,07/05/2022,,1,Canary Wharf,Z1
+309,2456354,3410,Salary Account,10/12/2020,,1,Canary Wharf,Z1
+937,4778418,4950,Current Account,16/08/2023,,4,London Bridge Gateway,Z1
+2332,9527586,3764,Savings Account,07/10/2023,,1,Canary Wharf,Z1
+992,4970621,6392,Current Account,16/07/2022,,1,Canary Wharf,Z1
+298,2401949,2888,Savings Account,29/12/2022,,1,Canary Wharf,Z1
+2109,8772825,6291,Current Account,03/08/2023,,3,Notting Hill Gate,Z2
+1920,8151652,5577,Savings Account,09/10/2021,,1,Canary Wharf,Z1
+1970,8307184,2248,Savings Account,02/07/2023,,3,Notting Hill Gate,Z2
+1901,8084567,3757,Savings Account,17/11/2020,,3,Notting Hill Gate,Z2
+1524,6746915,4313,Current Account,19/12/2020,,1,Canary Wharf,Z1
+629,3543038,2907,Current Account,01/06/2019,,5,Islington High Street,Z1
+903,4604228,4108,Savings Account,08/09/2021,,1,Canary Wharf,Z1
+884,4526051,1458,Salary Account,05/02/2020,,4,London Bridge Gateway,Z1
+555,3271691,2294,Salary Account,07/02/2020,,3,Notting Hill Gate,Z2
+1993,8387791,7254,Current Account,02/07/2021,,6,Stratford City,Z2
+1451,6498395,1898,Current Account,13/09/2020,,1,Canary Wharf,Z1
+711,3820594,4458,Current Account,06/12/2020,,1,Canary Wharf,Z1
+451,2907384,5858,Current Account,15/01/2024,,2,Oxford Circus,Z1
+1106,5327879,5595,Current Account,10/10/2023,,1,Canary Wharf,Z1
+168,1964886,5716,Current Account,07/12/2022,,2,Oxford Circus,Z1
+668,3682676,1204,Savings Premium,06/04/2023,,6,Stratford City,Z2
+1860,7945751,3235,Current Account,07/05/2019,,2,Oxford Circus,Z1
+1967,8288418,1657,Savings Account,13/02/2023,,1,Canary Wharf,Z1
+2379,9699427,1895,Savings Account,01/10/2021,,3,Notting Hill Gate,Z2
+408,2766710,4023,Savings Account,11/11/2022,,6,Stratford City,Z2
+1152,5470384,6429,Current Account,09/02/2021,,4,London Bridge Gateway,Z1
+567,3326245,7534,Current Account,31/10/2022,,1,Canary Wharf,Z1
+1346,6184409,5850,Savings Account,01/07/2022,,2,Oxford Circus,Z1
+1227,5783352,5934,Current Account,10/06/2023,,4,London Bridge Gateway,Z1
+1211,5716913,5995,Current Account,13/05/2023,,6,Stratford City,Z2
+1,1241310,6565,Salary Account,20/06/2022,,3,Notting Hill Gate,Z2
+2259,9244756,3157,Savings Account,25/07/2022,,2,Oxford Circus,Z1
+1021,5077288,7797,Savings Account,09/12/2023,,6,Stratford City,Z2
+112,1748840,1407,Savings Account,12/07/2021,,5,Islington High Street,Z1
+1533,6775907,1542,Savings Account,20/01/2023,,2,Oxford Circus,Z1
+969,4902636,1934,Savings Account,23/05/2022,,1,Canary Wharf,Z1
+562,3307974,4994,Salary Account,31/07/2022,,1,Canary Wharf,Z1
+1044,5163078,6353,Current Account,04/08/2023,,1,Canary Wharf,Z1
+2166,8942370,5165,Current Account,06/02/2021,,2,Oxford Circus,Z1
+1634,7136033,3340,Savings Account,03/09/2020,,1,Canary Wharf,Z1
+1768,7608622,5820,Current Account,26/06/2022,,2,Oxford Circus,Z1
+1801,7697719,2221,Savings Account,18/06/2023,,1,Canary Wharf,Z1
+953,4834394,6972,Savings Account,19/11/2023,,3,Notting Hill Gate,Z2
+232,2176911,1701,Savings Account,22/11/2023,,6,Stratford City,Z2
+1979,8335536,4602,Salary Account,20/05/2022,,1,Canary Wharf,Z1
+1107,5331453,6195,Current Account,10/09/2023,,1,Canary Wharf,Z1
+2135,8846581,4743,Current Account,11/03/2023,,5,Islington High Street,Z1
+944,4801781,2620,Current Account,04/08/2023,,3,Notting Hill Gate,Z2
+13,1293986,5885,Savings Account,19/10/2023,,1,Canary Wharf,Z1
+1635,7136901,7270,Savings Account,15/07/2023,,4,London Bridge Gateway,Z1
+2209,9076005,4436,Current Account,17/01/2024,,2,Oxford Circus,Z1
+1675,7304242,6001,Current Account,28/08/2023,,5,Islington High Street,Z1
+111,1742613,5389,Current Account,28/01/2021,,6,Stratford City,Z2
+886,4540200,5374,Current Account,22/12/2022,,3,Notting Hill Gate,Z2
+1814,7763464,3489,Current Account,01/12/2023,,1,Canary Wharf,Z1
+684,3734127,6572,Savings Premium,15/09/2022,,4,London Bridge Gateway,Z1
+945,4803664,5742,Current Account,14/04/2022,,6,Stratford City,Z2
+85,1650346,6434,Current Account,30/08/2021,,5,Islington High Street,Z1
+1784,7637009,6105,Current Account,23/10/2023,,1,Canary Wharf,Z1
+622,3529274,2264,Salary Account,17/01/2024,,5,Islington High Street,Z1
+1698,7373910,5197,Savings Account,15/01/2024,,1,Canary Wharf,Z1
+1502,6676741,4986,Current Account,04/08/2023,,1,Canary Wharf,Z1
+1679,7308506,2442,Salary Account,13/06/2023,,4,London Bridge Gateway,Z1
+927,4720602,4611,Current Account,16/01/2024,,3,Notting Hill Gate,Z2
+489,3038001,2036,Savings Premium,21/05/2023,,1,Canary Wharf,Z1
+541,3205254,5784,Savings Account,14/01/2024,,4,London Bridge Gateway,Z1
+104,1716006,1856,Salary Account,11/08/2023,,6,Stratford City,Z2
+1880,8019225,6419,Savings Account,18/05/2020,,6,Stratford City,Z2
+2417,9831830,6369,Salary Account,24/09/2022,,5,Islington High Street,Z1
+60,1513621,6170,Current Account,07/10/2023,,3,Notting Hill Gate,Z2
+960,4857562,2866,Current Account,19/01/2024,,5,Islington High Street,Z1
+2147,8873914,6523,Current Account,18/01/2024,,1,Canary Wharf,Z1
+219,2117129,4031,Savings Account,09/07/2022,,1,Canary Wharf,Z1
+300,2408465,2082,Salary Account,30/12/2020,,5,Islington High Street,Z1
+2249,9208415,1581,Savings Account,03/10/2020,,2,Oxford Circus,Z1
+1157,5503583,2840,Current Account,08/02/2023,,1,Canary Wharf,Z1
+1116,5365308,3862,Savings Premium,03/11/2023,,6,Stratford City,Z2
+1022,5087623,5560,Current Account,18/01/2024,,3,Notting Hill Gate,Z2
+1226,5782720,3709,Salary Account,21/02/2022,,3,Notting Hill Gate,Z2
+2228,9133684,7339,Savings Account,25/06/2023,,6,Stratford City,Z2
+1557,6848984,1342,Savings Account,27/07/2023,,2,Oxford Circus,Z1
+1194,5674689,1876,Savings Account,18/01/2024,,5,Islington High Street,Z1
+1990,8373269,2998,Current Account,21/09/2019,,6,Stratford City,Z2
+192,2035602,5309,Current Account,27/08/2023,,6,Stratford City,Z2
+466,2955670,5937,Savings Account,19/01/2024,,1,Canary Wharf,Z1
+2245,9196802,7972,Current Account,20/06/2023,,4,London Bridge Gateway,Z1
+1167,5545742,5415,Savings Account,21/11/2023,,1,Canary Wharf,Z1
+1340,6157649,5181,Current Account,21/08/2019,,4,London Bridge Gateway,Z1
+2207,9066358,4570,Savings Account,29/12/2023,,3,Notting Hill Gate,Z2
+295,2395693,4190,Savings Premium,13/01/2022,,2,Oxford Circus,Z1
+778,4056992,3225,Savings Account,03/07/2023,,6,Stratford City,Z2
+1057,5200289,6780,Current Account,07/11/2023,,6,Stratford City,Z2
+818,4243569,7420,Savings Account,09/09/2023,,2,Oxford Circus,Z1
+1805,7719971,1645,Savings Account,04/01/2020,,2,Oxford Circus,Z1
+584,3378523,7767,Savings Account,22/04/2022,,4,London Bridge Gateway,Z1
+1329,6105970,3476,Savings Account,02/03/2022,,5,Islington High Street,Z1
+733,3884311,2792,Savings Account,02/09/2020,,4,London Bridge Gateway,Z1
+1781,7629213,5887,Savings Account,04/08/2021,,1,Canary Wharf,Z1
+44,1446767,6647,Savings Account,12/10/2021,,4,London Bridge Gateway,Z1
+551,3264613,3308,Savings Account,11/04/2020,,5,Islington High Street,Z1
+2254,9222016,5999,Savings Account,21/05/2021,,1,Canary Wharf,Z1
+809,4185388,6867,Current Account,15/04/2023,,1,Canary Wharf,Z1
+2197,9033787,4719,Savings Account,13/01/2024,,1,Canary Wharf,Z1
+499,3069301,3970,Salary Account,09/09/2022,,4,London Bridge Gateway,Z1
+1812,7754895,4198,Current Account,02/02/2022,,4,London Bridge Gateway,Z1
+275,2340317,7119,Savings Account,19/01/2024,,3,Notting Hill Gate,Z2
+1482,6614367,2955,Savings Account,20/01/2024,,6,Stratford City,Z2
+1081,5273256,2085,Savings Account,29/10/2023,,1,Canary Wharf,Z1
+941,4788044,3005,Current Account,03/11/2022,,5,Islington High Street,Z1
+1280,5954876,7562,Savings Account,03/08/2022,,3,Notting Hill Gate,Z2
+1414,6395369,3278,Savings Account,08/10/2021,,1,Canary Wharf,Z1
+367,2603612,5945,Savings Account,13/01/2024,,5,Islington High Street,Z1
+1914,8127563,3741,Current Account,25/05/2023,,6,Stratford City,Z2
+134,1848894,5239,Current Account,18/01/2024,,4,London Bridge Gateway,Z1
+1376,6266937,3476,Current Account,22/01/2021,,2,Oxford Circus,Z1
+1139,5430451,1823,Current Account,21/01/2024,,1,Canary Wharf,Z1
+1104,5325849,6250,Current Account,20/12/2023,,2,Oxford Circus,Z1
+1485,6622799,1179,Current Account,19/01/2024,,4,London Bridge Gateway,Z1
+1387,6291477,3232,Savings Account,11/10/2021,,4,London Bridge Gateway,Z1
+1217,5737429,4492,Savings Account,23/01/2024,,6,Stratford City,Z2
+1457,6511222,2192,Current Account,17/09/2021,,2,Oxford Circus,Z1
+632,3555321,7081,Savings Account,14/11/2023,,6,Stratford City,Z2
+1245,5839516,3046,Savings Account,24/07/2023,,6,Stratford City,Z2
+819,4243672,5808,Current Account,04/02/2023,,6,Stratford City,Z2
+2064,8630285,3511,Savings Account,09/07/2023,,4,London Bridge Gateway,Z1
+99,1686921,6608,Savings Account,02/08/2022,,4,London Bridge Gateway,Z1
+1819,7785226,5882,Current Account,04/10/2023,,1,Canary Wharf,Z1
+1441,6476522,6303,Savings Account,24/11/2020,,3,Notting Hill Gate,Z2
+1004,5015154,2571,Current Account,27/11/2023,,6,Stratford City,Z2
+2375,9687510,6697,Current Account,23/01/2024,,5,Islington High Street,Z1
+1353,6194515,4849,Current Account,21/01/2024,,4,London Bridge Gateway,Z1
+1685,7324306,1617,Current Account,25/01/2024,,1,Canary Wharf,Z1
+749,3932693,7168,Savings Account,13/08/2018,,4,London Bridge Gateway,Z1
+272,2330780,3390,Current Account,19/01/2024,,2,Oxford Circus,Z1
+1351,6190145,5892,Current Account,17/01/2024,,4,London Bridge Gateway,Z1
+1875,7989364,6398,Current Account,22/10/2022,,4,London Bridge Gateway,Z1
+1321,6083184,6830,Current Account,03/07/2023,,2,Oxford Circus,Z1
+2096,8729478,4113,Savings Account,08/12/2022,,1,Canary Wharf,Z1
+1641,7153770,2421,Salary Account,19/01/2024,,1,Canary Wharf,Z1
+1976,8331387,1561,Current Account,05/12/2021,,4,London Bridge Gateway,Z1
+804,4173712,4684,Salary Account,26/01/2024,,1,Canary Wharf,Z1
+2322,9475471,6613,Current Account,26/01/2024,,1,Canary Wharf,Z1
+1713,7428916,3324,Salary Account,24/01/2024,,1,Canary Wharf,Z1
+2013,8458889,2804,Current Account,25/05/2023,,2,Oxford Circus,Z1
+1228,5791552,7182,Current Account,21/01/2024,,4,London Bridge Gateway,Z1
+2296,9382551,5552,Savings Account,03/08/2023,,4,London Bridge Gateway,Z1
+133,1844181,6667,Current Account,23/08/2023,,1,Canary Wharf,Z1
+1780,7627047,5578,Current Account,27/01/2024,,3,Notting Hill Gate,Z2
+1827,7845062,6423,Salary Account,21/01/2024,,1,Canary Wharf,Z1
+2055,8606774,5100,Savings Account,10/02/2020,,3,Notting Hill Gate,Z2
+1879,8017808,3212,Savings Account,27/01/2024,,1,Canary Wharf,Z1
+858,4423492,1480,Current Account,23/01/2024,,6,Stratford City,Z2
+1410,6376647,4849,Current Account,28/01/2024,,3,Notting Hill Gate,Z2
+2079,8669000,5809,Savings Account,22/09/2020,,4,London Bridge Gateway,Z1
+1409,6371784,6713,Current Account,05/01/2022,,6,Stratford City,Z2
+1946,8222342,1083,Savings Account,26/07/2020,,1,Canary Wharf,Z1
+807,4182169,5418,Current Account,26/01/2024,,2,Oxford Circus,Z1
+1529,6767687,2961,Current Account,30/04/2022,,1,Canary Wharf,Z1
+147,1887368,1064,Savings Account,28/01/2024,,6,Stratford City,Z2
+2320,9470077,1009,Current Account,29/01/2024,,6,Stratford City,Z2
+1593,6977794,3475,Savings Account,14/02/2023,,4,London Bridge Gateway,Z1
+2031,8531590,5866,Savings Account,25/01/2024,,1,Canary Wharf,Z1
+1963,8278120,1848,Salary Account,22/06/2022,,1,Canary Wharf,Z1
+1378,6267615,1459,Current Account,10/04/2021,,1,Canary Wharf,Z1
+1123,5386280,2250,Savings Account,24/01/2024,,4,London Bridge Gateway,Z1
+990,4959679,6682,Current Account,30/01/2024,,2,Oxford Circus,Z1
+46,1468016,1506,Savings Account,30/01/2024,,1,Canary Wharf,Z1
+151,1901254,2072,Salary Account,30/01/2024,,5,Islington High Street,Z1
+455,2920731,2282,Savings Account,11/12/2020,,3,Notting Hill Gate,Z2
+1108,5332912,3599,Salary Account,09/09/2023,,4,London Bridge Gateway,Z1
+1986,8353222,6206,Savings Account,18/05/2022,,3,Notting Hill Gate,Z2
+92,1674966,3880,Savings Account,28/01/2024,,6,Stratford City,Z2
+2006,8445124,6215,Savings Account,30/01/2024,,4,London Bridge Gateway,Z1
+248,2240813,2143,Salary Account,25/01/2024,,6,Stratford City,Z2
+2388,9723113,4475,Salary Account,31/01/2024,,6,Stratford City,Z2
+2224,9124939,1498,Current Account,23/12/2023,13/03/2024,1,Canary Wharf,Z1
+1146,5452528,4249,Salary Account,24/04/2021,,5,Islington High Street,Z1
+1355,6197067,5618,Savings Premium,29/01/2024,,3,Notting Hill Gate,Z2
+576,3352560,3584,Savings Premium,31/01/2024,,3,Notting Hill Gate,Z2
+1236,5813594,7848,Current Account,02/01/2024,,5,Islington High Street,Z1
+109,1731536,7136,Current Account,02/01/2024,,2,Oxford Circus,Z1
+1183,5632838,7595,Current Account,30/01/2024,,4,London Bridge Gateway,Z1
+2289,9358885,2990,Savings Account,30/12/2022,,4,London Bridge Gateway,Z1
+832,4287334,5969,Savings Account,26/01/2024,,6,Stratford City,Z2
+848,4378412,4808,Current Account,29/01/2024,,4,London Bridge Gateway,Z1
+1629,7123695,7611,Savings Account,14/01/2023,,1,Canary Wharf,Z1
+45,1463919,7641,Current Account,02/02/2024,,3,Notting Hill Gate,Z2
+31,1387868,7697,Current Account,02/02/2024,,3,Notting Hill Gate,Z2
+270,2312081,3393,Current Account,02/03/2024,,1,Canary Wharf,Z1
+658,3638011,3131,Current Account,02/03/2024,,6,Stratford City,Z2
+1163,5528191,3193,Current Account,02/02/2024,,3,Notting Hill Gate,Z2
+1522,6745422,2902,Savings Account,27/01/2024,,1,Canary Wharf,Z1
+1054,5195812,3663,Salary Account,02/03/2024,,6,Stratford City,Z2
+573,3351643,3185,Current Account,02/01/2024,,3,Notting Hill Gate,Z2
+1503,6677537,1559,Current Account,23/01/2024,,6,Stratford City,Z2
+393,2699104,4808,Current Account,02/02/2024,,1,Canary Wharf,Z1
+303,2428698,1570,Savings Account,02/03/2024,,1,Canary Wharf,Z1
+148,1891195,3981,Current Account,02/02/2024,,6,Stratford City,Z2
+2003,8433811,1120,Savings Account,02/02/2024,,1,Canary Wharf,Z1
+719,3830441,4978,Savings Account,18/01/2022,,1,Canary Wharf,Z1
+630,3544640,3006,Current Account,29/01/2024,,1,Canary Wharf,Z1
+1272,5914139,7130,Current Account,23/01/2024,,4,London Bridge Gateway,Z1
+962,4875433,5848,Savings Account,02/01/2024,,1,Canary Wharf,Z1
+1727,7486476,1606,Savings Account,29/08/2021,,5,Islington High Street,Z1
+1202,5689361,6898,Savings Account,09/05/2022,,4,London Bridge Gateway,Z1
+916,4664150,7175,Current Account,02/03/2024,,1,Canary Wharf,Z1
+2128,8825304,6763,Current Account,30/01/2024,,5,Islington High Street,Z1
+713,3821898,2300,Savings Account,25/01/2024,,5,Islington High Street,Z1
+9,1282072,5423,Savings Account,30/06/2022,,6,Stratford City,Z2
+120,1767724,7062,Savings Account,25/11/2023,,4,London Bridge Gateway,Z1
+1310,6055919,3781,Current Account,10/08/2020,,4,London Bridge Gateway,Z1
+1008,5020901,6140,Current Account,16/07/2020,,2,Oxford Circus,Z1
+769,4011786,4280,Current Account,02/03/2024,,2,Oxford Circus,Z1
+1550,6820714,5715,Salary Account,13/02/2024,,6,Stratford City,Z2
+2226,9129637,3198,Savings Premium,13/02/2024,,2,Oxford Circus,Z1
+478,3010588,6800,Salary Account,14/02/2024,,5,Islington High Street,Z1
+1869,7964928,5404,Savings Account,14/02/2024,,6,Stratford City,Z2
+913,4655234,2863,Savings Account,13/02/2024,,3,Notting Hill Gate,Z2
+1065,5227555,2554,Savings Account,13/02/2024,,5,Islington High Street,Z1
+1915,8131651,6365,Savings Account,14/02/2024,,6,Stratford City,Z2
+2110,8777469,2317,Savings Account,13/02/2024,,1,Canary Wharf,Z1
+2173,8962509,1667,Salary Account,14/02/2024,,5,Islington High Street,Z1
+921,4704605,1873,Savings Account,15/02/2024,,1,Canary Wharf,Z1
+1339,6156394,1326,Savings Account,08/09/2023,,1,Canary Wharf,Z1
+289,2385587,5189,Savings Account,16/02/2024,,2,Oxford Circus,Z1
+722,3837004,1667,Savings Account,14/02/2024,,4,London Bridge Gateway,Z1
+928,4739077,5715,Savings Account,16/02/2024,,4,London Bridge Gateway,Z1
+883,4515254,2920,Savings Account,16/02/2024,,1,Canary Wharf,Z1
+2219,9111242,4568,Savings Account,16/02/2024,,5,Islington High Street,Z1
+637,3564467,4841,Savings Account,18/02/2024,,6,Stratford City,Z2
+932,4760780,4307,Current Account,24/04/2023,,6,Stratford City,Z2
+399,2745273,3219,Savings Account,13/02/2024,,1,Canary Wharf,Z1
+358,2581967,3817,Savings Account,17/02/2024,,1,Canary Wharf,Z1
+1297,6020187,1003,Current Account,21/02/2024,,4,London Bridge Gateway,Z1
+351,2560393,2815,Savings Account,19/02/2024,,4,London Bridge Gateway,Z1
+131,1836786,3237,Savings Account,19/02/2024,,4,London Bridge Gateway,Z1
+1752,7562328,5747,Savings Account,22/02/2024,,1,Canary Wharf,Z1
+1481,6607122,4568,Current Account,18/02/2024,,4,London Bridge Gateway,Z1
+800,4171599,3774,Current Account,15/02/2024,,4,London Bridge Gateway,Z1
+319,2476887,4634,Savings Account,23/02/2024,,4,London Bridge Gateway,Z1
+2170,8947896,1361,Savings Account,17/02/2024,,6,Stratford City,Z2
+1359,6223257,4629,Savings Account,24/02/2024,,6,Stratford City,Z2
+524,3156042,2908,Savings Account,14/02/2024,,5,Islington High Street,Z1
+511,3111432,7620,Current Account,18/01/2024,,2,Oxford Circus,Z1
+105,1718848,7747,Current Account,20/02/2024,,1,Canary Wharf,Z1
+30,1371694,1955,Savings Account,25/02/2024,,4,London Bridge Gateway,Z1
+2195,9029919,4983,Savings Account,25/02/2024,,4,London Bridge Gateway,Z1
+2120,8793477,7630,Current Account,25/02/2024,,6,Stratford City,Z2
+1998,8410169,2251,Current Account,19/02/2024,,4,London Bridge Gateway,Z1
+1127,5393888,7549,Current Account,16/02/2024,,3,Notting Hill Gate,Z2
+1898,8080345,6369,Savings Account,16/02/2024,,3,Notting Hill Gate,Z2
+1924,8167643,7443,Current Account,14/02/2024,,1,Canary Wharf,Z1
+1225,5779723,1792,Current Account,23/02/2024,,4,London Bridge Gateway,Z1
+384,2670847,4952,Current Account,23/02/2024,,2,Oxford Circus,Z1
+203,2083066,5987,Savings Account,26/02/2024,,1,Canary Wharf,Z1
+285,2374812,7697,Savings Account,26/02/2024,,5,Islington High Street,Z1
+2366,9653634,6710,Current Account,26/02/2024,,2,Oxford Circus,Z1
+1558,6850441,7482,Savings Account,26/02/2024,,4,London Bridge Gateway,Z1
+311,2459732,4997,Current Account,25/02/2024,,1,Canary Wharf,Z1
+588,3397949,1571,Current Account,26/02/2024,,3,Notting Hill Gate,Z2
+2141,8863391,4680,Salary Account,27/02/2024,,4,London Bridge Gateway,Z1
+1736,7508532,2728,Savings Account,26/02/2024,,1,Canary Wharf,Z1
+806,4181251,2265,Savings Account,26/02/2024,,6,Stratford City,Z2
+1662,7261875,1050,Savings Account,21/02/2024,,1,Canary Wharf,Z1
+1811,7751090,7823,Current Account,26/02/2024,,1,Canary Wharf,Z1
+963,4879672,3672,Savings Premium,29/02/2024,,6,Stratford City,Z2
+855,4419387,3786,Current Account,28/02/2024,,1,Canary Wharf,Z1
+839,4334614,1556,Salary Account,27/02/2024,,1,Canary Wharf,Z1
+486,3029937,5110,Current Account,23/02/2024,,5,Islington High Street,Z1
+1992,8386184,4334,Current Account,26/02/2024,,3,Notting Hill Gate,Z2
+2325,9499369,6185,Current Account,25/02/2024,,2,Oxford Circus,Z1
+1510,6710191,7136,Current Account,25/02/2024,,1,Canary Wharf,Z1
+919,4680565,2754,Savings Account,03/01/2024,,6,Stratford City,Z2
+375,2642904,2158,Savings Account,16/02/2024,,1,Canary Wharf,Z1
+531,3169613,1430,Savings Account,28/02/2024,,1,Canary Wharf,Z1
+904,4606391,4841,Savings Account,26/02/2024,,5,Islington High Street,Z1
+266,2300318,6881,Current Account,29/02/2024,,3,Notting Hill Gate,Z2
+999,5003344,1493,Savings Account,03/03/2024,10/03/2024,4,London Bridge Gateway,Z1
+94,1675472,1100,Current Account,03/02/2024,,3,Notting Hill Gate,Z2
+414,2785788,7390,Current Account,03/02/2024,,5,Islington High Street,Z1
+177,1984157,6771,Current Account,13/02/2024,,1,Canary Wharf,Z1
+997,4996704,2423,Current Account,03/03/2024,,5,Islington High Street,Z1
+464,2954083,3936,Current Account,17/02/2024,,5,Islington High Street,Z1
+100,1689196,5140,Savings Account,03/01/2024,,5,Islington High Street,Z1
+660,3644860,3171,Savings Account,03/02/2024,,4,London Bridge Gateway,Z1
+1268,5907712,2629,Savings Account,23/02/2024,,4,London Bridge Gateway,Z1
+967,4891338,2377,Savings Account,03/03/2024,,5,Islington High Street,Z1
+2040,8561307,4274,Current Account,03/02/2024,,2,Oxford Circus,Z1
+2142,8864543,7548,Savings Account,26/02/2024,,5,Islington High Street,Z1
+2127,8818517,4634,Savings Account,15/02/2024,,3,Notting Hill Gate,Z2
+164,1945101,6949,Current Account,03/01/2024,,1,Canary Wharf,Z1
+2073,8653520,7041,Savings Account,22/02/2024,,1,Canary Wharf,Z1
+1160,5512617,7823,Salary Account,15/03/2024,,1,Canary Wharf,Z1
+757,3960827,3799,Current Account,14/03/2024,,3,Notting Hill Gate,Z2
+1016,5057998,2213,Current Account,16/03/2024,,2,Oxford Circus,Z1
+2176,8976310,4702,Salary Account,16/03/2024,,3,Notting Hill Gate,Z2
+1312,6060136,2266,Savings Account,17/03/2024,,5,Islington High Street,Z1
+59,1510239,7431,Savings Account,15/03/2024,,4,London Bridge Gateway,Z1
+1704,7401151,1756,Current Account,13/03/2024,,6,Stratford City,Z2
+1119,5371594,2926,Current Account,16/03/2024,,5,Islington High Street,Z1
+650,3607274,3896,Salary Account,15/03/2024,,3,Notting Hill Gate,Z2
+2374,9671874,2045,Savings Account,17/03/2024,,4,London Bridge Gateway,Z1
+184,1998126,5133,Savings Account,18/03/2024,,4,London Bridge Gateway,Z1
+296,2399186,7187,Savings Account,16/03/2024,,6,Stratford City,Z2
+1455,6509012,2934,Current Account,24/02/2024,,4,London Bridge Gateway,Z1
+1435,6451844,2000,Savings Account,18/03/2024,,6,Stratford City,Z2
+664,3656320,3080,Current Account,19/03/2024,,5,Islington High Street,Z1
+2,1244094,4572,Savings Account,19/03/2024,,1,Canary Wharf,Z1
+2058,8612495,5428,Current Account,13/03/2024,,6,Stratford City,Z2
+283,2369970,6043,Current Account,18/03/2024,,4,London Bridge Gateway,Z1
+843,4355868,3963,Current Account,21/03/2024,,1,Canary Wharf,Z1
+2310,9435672,2754,Savings Account,21/03/2024,,4,London Bridge Gateway,Z1
+1776,7616234,1628,Current Account,20/03/2024,,5,Islington High Street,Z1
+1389,6295017,1376,Current Account,28/02/2024,,1,Canary Wharf,Z1
+849,4381612,4618,Savings Account,19/03/2024,,6,Stratford City,Z2
+648,3596010,3093,Current Account,19/03/2024,,6,Stratford City,Z2
+329,2497813,6908,Current Account,21/03/2024,,6,Stratford City,Z2
+2424,9867992,4241,Current Account,21/03/2024,,6,Stratford City,Z2
+1248,5842759,2968,Current Account,19/03/2024,,5,Islington High Street,Z1
+2089,8708459,4574,Savings Account,18/03/2024,,4,London Bridge Gateway,Z1
+2131,8842949,6516,Savings Account,23/03/2024,,3,Notting Hill Gate,Z2
+2339,9552684,2920,Current Account,22/03/2024,,2,Oxford Circus,Z1
+2078,8668702,4715,Savings Account,23/03/2024,,6,Stratford City,Z2
+2410,9790075,2438,Savings Account,22/03/2024,,1,Canary Wharf,Z1
+374,2641691,1573,Savings Account,24/03/2024,,4,London Bridge Gateway,Z1
+1825,7832009,3219,Current Account,24/03/2024,,6,Stratford City,Z2
+86,1654110,6985,Salary Account,18/03/2024,,5,Islington High Street,Z1
+1605,7024718,3577,Savings Account,22/03/2024,,3,Notting Hill Gate,Z2
+659,3643319,2450,Salary Account,26/03/2024,,5,Islington High Street,Z1
+1762,7597494,4913,Current Account,19/03/2024,,1,Canary Wharf,Z1
+1048,5173790,5417,Current Account,27/03/2024,,2,Oxford Circus,Z1
+1566,6881619,7460,Savings Account,17/03/2024,,1,Canary Wharf,Z1
+1600,7012821,1774,Salary Account,28/03/2024,,5,Islington High Street,Z1
+910,4645924,6342,Salary Account,19/03/2024,,1,Canary Wharf,Z1
+494,3052245,5421,Current Account,23/03/2024,,6,Stratford City,Z2
+1705,7405847,2338,Savings Account,29/03/2024,,4,London Bridge Gateway,Z1
+2232,9157033,1634,Savings Account,29/03/2024,,4,London Bridge Gateway,Z1
+257,2270628,6372,Current Account,26/03/2024,,1,Canary Wharf,Z1
+1380,6273071,4527,Current Account,15/03/2024,,1,Canary Wharf,Z1
+1724,7462405,6045,Current Account,28/03/2024,,4,London Bridge Gateway,Z1
+1112,5342869,3361,Savings Account,25/03/2024,,1,Canary Wharf,Z1
+430,2834796,1556,Current Account,29/03/2024,,1,Canary Wharf,Z1
+417,2795859,1559,Current Account,28/03/2024,,3,Notting Hill Gate,Z2
+669,3682880,3844,Current Account,26/03/2024,,4,London Bridge Gateway,Z1
+1447,6486785,4173,Current Account,26/03/2024,,1,Canary Wharf,Z1
+370,2609953,3465,Savings Account,29/03/2024,,1,Canary Wharf,Z1
