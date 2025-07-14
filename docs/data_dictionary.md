@@ -8,9 +8,9 @@
 | customer_id   | Source customer ID            |
 | full_name     | Customer's full name          |
 | address       | Customer address              |
-| gender        | Gender (M/F/O)                |
-| phone_number  | Phone number                  |
-| email_id      | Email address                 |
+| gender        | Gender (M/F)                  |
+| phone_number  | Customer Phone number         |
+| email_id      | Customer Email address        |
 | birthdate     | Date of birth                 |
 | create_date   | Customer creation date        |
 
@@ -36,9 +36,9 @@
 | transaction_date     | Date of transaction                   |
 | customer_key         | FK to dim_customer                    |
 | account_key          | FK to dim_account                     |
-| transaction_type     | Debit/Credit/Other                    |
+| transaction_type     | Debit/Credit                          |
 | transaction_code     | Transaction code                      |
-| transaction_subtype  | Subtype (NEFT, RTGS, etc)             |
-| transaction_channel  | Channel (branch, online, ATM, etc)    |
+| transaction_subtype  | Subtype (Cash, Transfers, etc)        |
+| transaction_channel  | Channel (branch, mobile, ATM, etc)    |
 | amount               | Transaction amount                    |
 | account_balance      | Balance after transaction             |
