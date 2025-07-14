@@ -1,4 +1,4 @@
-# 🏦 Retail Banking BI Dashboard
+# 🏦 Retail Bank BI Dashboard
 
 ---
 
