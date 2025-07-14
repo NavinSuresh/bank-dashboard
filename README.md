@@ -52,7 +52,7 @@ bank-dashboard/
 │── dashboard/                          # Tableau workbook (.twbx) + screenshots
 │
 ├── docs/                               # Project documentation and architecture details
-│   ├── data_catalog.md                 # Catalog of datasets with field descriptions & metadata
+│   ├── data_dictionary.md              # Catalog of datasets with field descriptions & metadata
 │   ├── data_model.png                  # Star schema data model
 │   ├── insights.pptx                   # Stakeholder presentation with findings & recommendations
 │
