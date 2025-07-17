@@ -89,6 +89,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi, I'm **Navin Suresh** - a data analyst with a background in financial services. I'm passionate about transforming data into business solutions that support growth, efficiency, and strategy.
 
 **Data Analyst | BI Developer | Reporting**  
-📧 your.email@example.com  
-🔗— [LinkedIn](https://linkedin.com/in/your-profile) ❓ [Portfolio](https://your-site.com)
+📧 navinsuresh1@gmail.com  
+
 
