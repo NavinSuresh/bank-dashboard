@@ -1,0 +1,15 @@
+txn_code,transaction_type,subtype,channel,description
+10,debit,Cash,Branch,Debit Cash transaction at Branch
+11,credit,Cash,Branch,Credit Cash transaction at Branch
+12,debit,Cash,ATM/CDM,Debit Cash transaction at ATM/CDM
+13,credit,Cash,ATM/CDM,Credit Cash transaction at ATM/CDM
+14,debit,Intrabank Transfer,Mobile/Internet,Debit Transfer with an external bank account via mobile banking or Internet banking
+15,credit,Intrabank Transfer,Mobile/Internet,Credit Transfer with an external bank account via mobile banking or Internet banking
+16,debit,Intrabank Transfer,Branch,Debit Transfer with an external bank account initiated at branch
+17,credit,Intrabank Transfer,Branch,Credit Transfer with an external bank account initiated at branch
+18,debit,Interbank Transfer,Mobile/Internet,Same bank Debit transfer via mobile banking or Internet banking
+19,credit,Interbank Transfer,Mobile/Internet,Same bank Credit transfer via mobile banking or Internet banking
+20,debit,Interbank Transfer,Branch,Same bank Debit transfer initiated at branch
+21,credit,Interbank Transfer,Branch,Same bank Credit transfer initiated at branch
+22,debit,POS,POS,Point of Sale Debit
+23,debit,Internet Payment,Internet Payment,Internet/ Ecommerce payments
