@@ -3,9 +3,9 @@
 ---
 
 ## 💡 Project Overview
-This project showcases the development of an interactive **Tableau dashboard** for delivering executive-level KPIs and deep operational insights for **Q1 2024** across six UK-based retail bank branches. The dashboard provides critical views into account activity, branch performance, and channel usage to support decisions related to digital adoption, operational efficiency, and business development.
+This project showcases the development of an interactive **Tableau dashboard** for delivering executive-level KPIs and detailed branch-level insights for **Q1 2024** across six UK-based retail bank branches. The dashboard provides critical views into account activity, branch performance, customer segmentation, and channel usage to support decisions on digital adoption, operational efficiency, and business development.
 
-> ▶️ **Intended Audience**: Executives and Regional Business Development Managers
+> ▶️ **Intended Audience**: Executives, Regional Business Development Managers, and Branch Managers
 
 ---
 
@@ -15,20 +15,25 @@ This project showcases the development of an interactive **Tableau dashboard** f
 - Powered by the **Gold Layer** from the [Retail Banking Data Warehouse](https://github.com/NavinSuresh/retail_banking_dwh)
 - Synthetic data generated using Python's `Faker` library
 - Tables used:
-  - `gold_fact_transaction.csv`
-  - `gold_dim_account.csv`
-  - `gold_dim_customer.csv`
+  - `fact_transaction`  
+  - `dim_account`  
+  - `dim_customer`  
+  - `dim_date`  
+  - `dim_transaction_code`  
 - Data dictionary and model diagram available in the `/docs` folder
 
 ### 💼 Business Goals
-- Deliver a high-level overview of:
-  - Overall KPIs
-  - Branch and operational performance
-  - Customer behavior and channel usage
-  - Transaction volumes and account balances
+- Deliver both **executive-level KPIs** and **branch-level operational insights**:  
+  - Month-end balances, account counts, and digital transaction rates  
+  - Branch-wise account performance and customer demographics  
+  - Channel adoption and transaction distribution across mobile, internet, ATM, and branch  
+  - Customer segmentation by balance and activity levels  
+  - Track balances over time to monitor trends, detect anomalies, and support operational decision-making  
 - Enable interactivity through:
-  - Branch selector filter to analyze individual or multiple branches.
-  - Quick action filters to engage with chart elements.
+  - Filters for month, zone, and account type  
+  - Branch selector for deeper analysis of individual branches  
+  - Export options for PDF and PNG  
+  - Navigation buttons for seamless movement between dashboards  
 
 ### 📄 Documentation
 - Comprehensive **data dictionary**
@@ -47,11 +52,11 @@ This project showcases the development of an interactive **Tableau dashboard** f
 ```
 bank-dashboard/
 │
-├── datasets/                           # Gold layer CSVs (customer, account, transaction)
+├── datasets/                           # CSVs (customer, account, transaction, date, transaction code)
 │
 │── dashboard/                          # Tableau workbook (.twbx) + screenshots
 │
-├── docs/                               # Project documentation and architecture details
+├── docs/                               # Project documentation and model details
 │   ├── data_dictionary.md              # Catalog of datasets with field descriptions & metadata
 │   ├── data_model.png                  # Star schema data model
 │   ├── insights.pptx                   # Stakeholder presentation with findings & recommendations
