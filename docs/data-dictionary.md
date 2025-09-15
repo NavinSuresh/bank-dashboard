@@ -22,7 +22,7 @@
 |----------------|--------------------------------------------------|
 | account_key    | Surrogate key (PK)                               |
 | account_number | Source account number                            |
-| customer_key   | FK to `dim_customer.customer_key` (owner)        |
+| customer_id    | Source customer ID                               |
 | account_type   | Account type (savings, current, etc.)            |
 | open_date      | Account open date                                |
 | close_date     | Account close date (nullable if open)            |
