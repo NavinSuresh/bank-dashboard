@@ -36,7 +36,7 @@
 
 | Column        | Description                                  |
 |---------------|-----------------------------------------------|
-| full_date     | Full date (YYYY-MM-DD) (PK)                  |
+| full_date     | Full date (DD-MM-YYYY) (PK)                  |
 | year          | Calendar year                                |
 | quarter       | Calendar quarter (Q1, Q2, etc.)              |
 | month         | Month number (1-12)                          |
@@ -52,8 +52,7 @@
 
 | Column            | Description                                         |
 |-------------------|-----------------------------------------------------|
-| transaction_key   | Surrogate key / transaction code ID (PK)            |
-| transaction_code  | Source transaction code                             |
+| transaction_code  | Source transaction code ID (PK)                     |
 | transaction_type  | High-level type (Debit / Credit / Other)            |
 | subtype           | Subtype or category (Cash, POS, Transfer, etc.)     |
 | channel           | Transaction channel (branch, mobile, internet, ATM) |
@@ -70,7 +69,7 @@
 | transaction_date  | FK to `dim_date.full_date` (date of txn)            |
 | customer_key      | FK to `dim_customer.customer_key`                   |
 | account_key       | FK to `dim_account.account_key`                     |
-| transaction_key   | FK to `dim_transaction_code.transaction_key`        |
+| transaction_key   | FK to `dim_transaction_code.transaction_code`       |
 | amount            | Transaction amount (signed or unsigned depending on model) |
 | account_balance   | Account balance after transaction                   |
 
