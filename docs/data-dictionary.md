@@ -70,7 +70,7 @@
 | customer_key      | FK to `dim_customer.customer_key`                   |
 | account_key       | FK to `dim_account.account_key`                     |
 | transaction_key   | FK to `dim_transaction_code.transaction_code`       |
-| amount            | Transaction amount (signed or unsigned depending on model) |
+| amount            | Transaction amount |
 | account_balance   | Account balance after transaction                   |
 
 ---
