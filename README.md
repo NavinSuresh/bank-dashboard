@@ -3,7 +3,7 @@
 ---
 
 ## 💡 Project Overview
-This project showcases the development of an interactive **Tableau dashboard** for delivering executive-level KPIs and detailed branch-level insights for **Q1 2024** across six UK-based retail bank branches. The dashboard provides critical views into account activity, branch performance, customer segmentation, and channel usage to support decisions on digital adoption, operational efficiency, and business development.
+This project showcases the development of an interactive [**Tableau dashboard**](https://public.tableau.com/app/profile/navin.suresh5969/viz/RetailBankBIDashboard-ExecutiveBranchInsights/EXECDashboard) for delivering executive-level KPIs and detailed branch-level insights for **Q1 2024** across six UK-based retail bank branches. The dashboard provides critical views into account activity, branch performance, customer segmentation, and channel usage to support decisions on digital adoption, operational efficiency, and business development.
 
 > ▶️ **Intended Audience**: Executives, Regional Business Development Managers, and Branch Managers
 
